@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Social Computing & HCI Conference Deadlines"
+abstract: >-
+  A source-linked, daily-updated index of paper-submission deadlines and
+  conference dates for social computing, human-computer interaction, web
+  science, and computational social science venues (CHI, CSCW, ICWSM, WebSci,
+  IC2S2, WWW, SocInfo, GROUP, HCOMP, CHIIR, UIST, DIS, IMWUT/UbiComp, WSDM,
+  KDD, AAMAS).
+type: dataset
+authors:
+  - family-names: Kawamura
+    given-names: Kazuki
+    website: "https://casp.jp/"
+    orcid: "https://orcid.org/0000-0002-5181-320X"
+url: "https://casp.jp/social-computing-deadlines/"
+repository-code: "https://github.com/kkwmr/social-computing-deadlines"
+license: CC-BY-4.0
+date-released: "2026-06-04"
+keywords:
+  - social computing
+  - human-computer interaction
+  - web science
+  - computational social science
+  - conference deadlines
+  - call for papers

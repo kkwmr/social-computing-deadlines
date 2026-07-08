@@ -1,0 +1,1695 @@
+{
+  "name": "Social Computing & HCI Conference Deadlines",
+  "url": "https://casp.jp/social-computing-deadlines/",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": "Kazuki Kawamura",
+  "lastUpdated": "2026-07-05",
+  "count": 53,
+  "conferences": [
+    {
+      "venue": "CHI",
+      "year": 2027,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM CHI Conference on Human Factors in Computing Systems",
+      "place": "Pittsburgh, PA, USA",
+      "dates": "May 10-14, 2027",
+      "end": "2027-05-14",
+      "website": "https://chi2027.acm.org/",
+      "deadlines": [
+        {
+          "label": "Full Paper",
+          "date": "2026-09-10T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Revise & Resubmit (resubmission)",
+          "date": "2026-12-03T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://chi2027.acm.org/authors/papers/",
+      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens July 30, 2026. The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
+    },
+    {
+      "venue": "CSCW",
+      "year": 2027,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+      "place": "",
+      "dates": "",
+      "end": null,
+      "website": "https://cscw.acm.org/rolling.html",
+      "deadlines": [
+        {
+          "label": "Full Paper (rolling / continuous submission — no fixed deadline)",
+          "date": "rolling",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://cscw.acm.org/rolling.html ; https://cscw.acm.org/2026/papers.html ; https://sigchi.org/conferences/upcoming/",
+      "notes": "IMPORTANT: As of CSCW 2027 and beyond, CSCW has moved to a ROLLING, journal-style submission model (like IMWUT/PACM HCI). There are NO fixed submission deadlines — authors may submit a paper whenever it is ready via https://mc.manuscriptcentral.com/pacmhci, and papers are reviewed on an ongoing basis. Initial decisions arrive ~3-4 months after submission; rejected papers must wait >=4 months before resubmitting; accepted papers are published in PACM HCI and invited to present at the next CSCW conference. There is therefore no single \"next deadline\" date to report for CSCW 2027 — submission is open continuously.\n\nContext on the NEXT physical conference: CSCW 2026 will be held Oct 10-14, 2026 in Salt Lake City, Utah, USA (Marriott City Creek Center) per sigchi.org. All CSCW 2026 fixed paper deadlines have already passed (initial submission May 14, 2025 12:00 EDT; first revision Sep 16, 2025 AoE; second revision Jan 13, 2026 AoE), so CSCW 2026 is no longer accepting new papers. The 2026 cycle was the LAST fixed-deadline cycle.\n\nCSCW 2027 dates and location are not yet announced. A \"soft launch\" rolling experiment runs during 2026 (acm-cscw.medium.com) with full rolling submissions for CSCW 2027 & beyond. Cross-checked across the official CSCW rolling CFP, the CSCW 2026 papers page, and the SIGCHI upcoming-conferences calendar."
+    },
+    {
+      "venue": "ICWSM",
+      "year": 2027,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "International AAAI Conference on Web and Social Media",
+      "place": "Edinburgh, Scotland, United Kingdom",
+      "dates": "",
+      "end": null,
+      "website": "https://www.icwsm.org/2026/submit.html",
+      "deadlines": [
+        {
+          "label": "Round 2 Full Paper",
+          "date": "2026-09-15T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Round 3 Full Paper (also posters/demos/datasets)",
+          "date": "2027-01-15T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://www.icwsm.org/2026/submit.html",
+      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The three rounds for the ICWSM 2027 edition (Edinburgh) close May 15, 2026; Sept 15, 2026; and Jan 15, 2027, all at 23:59 AoE; papers accepted in any round are presented at ICWSM 2027. The NEXT upcoming round after 2026-06-04 is Round 2 on Sept 15, 2026; Round 1 (May 15, 2026) has already passed. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. For reference, the current ICWSM 2026 edition is in Los Angeles, California (the official 2026 site lives at icwsm.org/2026/). Cross-checked between the official icwsm.org submit page and the LINGUIST List / Facebook announcement confirming Edinburgh 2027."
+    },
+    {
+      "venue": "WEBSCI",
+      "year": 2027,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "ACM Web Science Conference",
+      "place": "",
+      "dates": "May–June 2027 (expected; exact dates not yet announced)",
+      "end": null,
+      "website": "https://webscience.org/category/acm-websci/",
+      "deadlines": [],
+      "status": "unknown",
+      "source": "https://webscience.org/deadline-approaching-call-for-initial-statements-of-interest-for-hosting-acm-web-science-conference-2027/",
+      "notes": "WebSci'26 (18th edition) was held May 26-29, 2026 at TU Braunschweig, Braunschweig, Germany; its full-paper submission deadline was December 17, 2025 (notifications Feb 18, 2026), both now in the past relative to 2026-06-04, so it is NOT the next upcoming edition. The next edition is WebSci'27 (19th ACM Web Science Conference). As of the latest authoritative info, WebSci'27 is still in the host-bidding phase: the Web Science Trust Steering Committee issued a Call for Initial Statements of Interest for hosting, with preference for bids in the Americas. Host-selection timeline: statements of interest due 23 May 2025, shortlist 20 Jun 2025, formal applications 19 Sep 2025, final host announced ~31 Oct 2025; the host was also to be announced at WebSci'26 in May 2026. The conference is \"expected to take place in May–June\" 2027. No official WebSci'27 website, exact location, conference dates, or paper-submission deadlines (abstract or full paper) have been published yet, so the next submission deadline is currently UNKNOWN. Cross-checked across webscience.org host-call page, websci25.org call-for-hosting page, and webscience.org news feed — all consistent that no CFP/deadline exists yet. Recommend re-checking webscience.org and the eventual websci27 site in late 2026 once a host is confirmed."
+    },
+    {
+      "venue": "IC2S2",
+      "year": 2027,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Conference on Computational Social Science",
+      "place": "",
+      "dates": "Not yet announced (historically late July)",
+      "end": null,
+      "website": "https://ic2s2.org/",
+      "deadlines": [],
+      "status": "unknown",
+      "source": "https://ic2s2-2026.org/submit-abstract/ ; https://ic2s2-2025.org/next-ic2s2/",
+      "notes": "As of 2026-06-04, the IC2S2 2026 edition (12th, Burlington, Vermont, USA, University of Vermont / Vermont Complex Systems Institute; tutorials July 28, main conference July 29-31, 2026) is upcoming, BUT its abstract submission deadline (March 3, 2026, 23:59 AoE) has already PASSED, so it does not satisfy the \"deadline in the future\" criterion. The IC2S2 2027 (13th) edition has NOT yet been announced — no official 2027 website, location, dates, or call for papers exists as of 2026-06-04 (the ic2s2.org main site and all search sources show nothing about 2027). IC2S2 is an annual conference, typically held in late July. Deadline ESTIMATED from the historical cycle: submissions open mid-December, abstract deadline late February / early March (2025: Feb 24, 2025; 2026: Mar 3, 2026 AoE). Estimated 2027 abstract deadline ~early March 2027 (placeholder 2027-03-02), AoE. Location and exact dates unknown/TBA. Submissions are extended abstracts (max 2 pages), not full papers. Recommend re-checking ic2s2.org and the ic2s2-2025.org \"next-ic2s2\" page in late 2026 for the official 2027 announcement."
+    },
+    {
+      "venue": "WWW",
+      "year": 2027,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "The Web Conference (ACM Web Conference)",
+      "place": "Dublin, Ireland",
+      "dates": "May 10-14, 2027",
+      "end": "2027-05-14",
+      "website": "https://acmweb2027.org/",
+      "deadlines": [
+        {
+          "label": "Research & Industry Track (Abstract)",
+          "date": "2026-10-11T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Research & Industry Track (Full Paper)",
+          "date": "2026-10-18T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://acmweb2027.org/ ; https://acmweb2027.org/important-dates/",
+      "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). The official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates (confirmed 2026-07-05): abstract submission Oct 11, 2026 and full paper submission Oct 18, 2026; notification Dec 10, 2026, rebuttal Dec 12-19, 2026, camera-ready Jan 31, 2027. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round after today (2026-07-05) is the Oct 11, 2026 abstract deadline followed by the Oct 18, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
+    },
+    {
+      "venue": "SOCINFO",
+      "year": 2026,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Conference on Social Informatics",
+      "place": "",
+      "dates": "",
+      "end": null,
+      "website": "https://link.springer.com/conference/socinfo",
+      "deadlines": [],
+      "status": "unknown",
+      "source": "https://dblp.org/db/conf/socinfo/index.html ; https://link.springer.com/conference/socinfo ; https://www.dcs.gla.ac.uk/socinfo2022/",
+      "notes": "The legitimate SocInfo series (Springer LNCS proceedings, the academic venue intended here) appears DORMANT/POSSIBLY DISCONTINUED. The last confirmed edition is the 13th SocInfo 2022, held in Glasgow, UK, October 19-21, 2022 (https://www.dcs.gla.ac.uk/socinfo2022/, EasyChair CFP socinfo22). DBLP and Springer index NO editions for 2023, 2024, or 2025, and there is no official SocInfo 2026 or 2027 website or call for papers. Therefore no future main-paper deadline (after 2026-06-04) can be confirmed or even reliably estimated. CAUTION: search results surface decoy/predatory events using the \"Social Informatics\" name that are NOT this venue and should be ignored: (1) WASET's \"International Conference on Social Informatics (ICSI)\" (e.g. Barcelona Feb 2026, with a listed April 15, 2026 submission deadline) and (2) ICSINA-26 \"Social Informatics and Network Analysis\" (Lisbon, Nov 26-27, 2026). These are unaffiliated with the Springer SocInfo series. WikiCFP program page (id=2724) was unreachable (ECONNREFUSED) during research. Recommendation: treat the next genuine SocInfo edition as not-yet-announced; year field set to 2026 as a placeholder for \"next upcoming\" but this is unconfirmed. Re-check the Springer conference portal and the SocInfo steering committee / IISI (formerly socinfo.org) for any revival announcement."
+    },
+    {
+      "venue": "GROUP",
+      "year": 2027,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "ACM International Conference on Supporting Group Work",
+      "place": "St. Simons Island, Georgia, USA",
+      "dates": "January 10-13, 2027",
+      "end": "2027-01-13",
+      "website": "https://group.acm.org/conferences/group27/",
+      "deadlines": [
+        {
+          "label": "Wave 2 Abstract & Title",
+          "date": "2026-03-17T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Wave 2 Full Paper",
+          "date": "2026-03-24T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://group.acm.org/conferences/group27/papers.php ; https://www.getpaperpilot.com/deadlines/group-2027.html ; https://sigchi.org/events/group-2027/ ; https://www.myhuiban.com/conference/880",
+      "notes": "GROUP is biennial (held in odd years: GROUP 2023, 2025, 2027). GROUP 2027 will be held in person at the Sea Palms Resort and Conference Center, St. Simons Island, Georgia, USA, Jan 10-13, 2027. The main Papers track (PACMHCI) used TWO submission waves, each with a 2-round review: Wave 1 — Abstract 2025-07-08, Full paper 2025-07-15 (AoE); Wave 2 — Abstract 2026-03-17, Full paper 2026-03-24 (AoE). Both waves' deadlines have already PASSED relative to today (2026-06-04); there is no remaining future main-paper deadline for GROUP 2027. The listed deadlines are the most recent (now-closed) main-paper round and are reported for reference. The NEXT edition with a future deadline would be GROUP 2029, which has NOT yet been announced (no dates/location/CfP available as of 2026-06-04). All deadlines stated as 23:59 AoE (UTC-12) on the official site. Wave 2 acceptances appear in PACMHCI in early 2027. The official group.acm.org site returns HTTP 403 to automated fetch; details cross-confirmed via PaperPilot tracker, SIGCHI events page, and myhuiban, all consistent with the official CfP text surfaced in search snippets."
+    },
+    {
+      "venue": "HCOMP",
+      "year": 2026,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "AAAI Conference on Human Computation and Crowdsourcing (HCOMP) — rebranded for 2026 as the ACM Conference on Human-AI Complementarity and Alignment",
+      "place": "Near Washington, DC, USA (Virginia Tech Academic Building One)",
+      "dates": "September 27-30, 2026",
+      "end": "2026-09-30",
+      "website": "https://hcomp.acm.org/2026/",
+      "deadlines": [
+        {
+          "label": "Abstract",
+          "date": "2026-06-08T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2026-06-15T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://hcomp.acm.org/2026/",
+      "notes": "Next upcoming edition is HCOMP 2026, held Sept 27-30, 2026 near Washington DC at Virginia Tech, co-located and tightly integrated with the 2026 ACM Collective Intelligence (CI) Conference (joint CFP, theme \"Connections\"). Original CFP deadlines were abstract June 1 / full paper June 8 (AoE); both were officially EXTENDED by one week to abstract June 8 and full paper June 15 (AoE), per the official site. Both deadlines are still in the future relative to 2026-06-04. Times stated only as date + AoE (11:59pm AoE assumed). Note: for 2026 the venue has been rebranded under ACM as the \"Conference on Human-AI Complementarity and Alignment\" but it is the continuation of the HCOMP series (formerly under AAAI). HCOMP 2027 details not yet announced. Cross-checked: official hcomp.acm.org/2026 site, SIGWEB call for participation, WikiCFP (eventid=195395), crowd-hcomp Google Group CFP, and ci.acm.org/2026."
+    },
+    {
+      "venue": "CHIIR",
+      "year": 2027,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM SIGIR Conference on Human Information Interaction and Retrieval",
+      "place": "Berlin, Germany",
+      "dates": "March 7-11, 2027",
+      "end": "2027-03-11",
+      "website": "https://chiir2027.github.io/",
+      "deadlines": [
+        {
+          "label": "Full and Perspective Papers (Abstract)",
+          "date": "2026-10-08T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full and Perspective Papers (Full Paper)",
+          "date": "2026-10-15T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Short Papers",
+          "date": "2026-10-29T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Demos, Design and Resource Papers",
+          "date": "2026-10-29T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://chiir2027.github.io/",
+      "notes": "CHIIR 2026 was held in Seattle, WA, USA on March 22-26, 2026 and has already concluded. The next edition is CHIIR 2027, hosted at Humboldt-Universitat zu Berlin, Berlin, Germany, March 7-11, 2027. CFP is officially open. The main paper track uses a two-stage deadline: abstracts due Oct 8, 2026 and full papers due Oct 15, 2026 (both AoE). Short papers and Demos/Design/Resource papers due Oct 29, 2026; Doctoral Consortium papers due Dec 6, 2026. All deadlines stated as 23:59 Anywhere on Earth. The official site (chiir2027.github.io) explicitly states the AoE timezone; the Oct 15 full-paper date and Berlin location are corroborated by the iSchools/Facebook CHIIR 2027 CFP announcement and the WikiCFP listing (eventid 195412). Annual conference; no skip noted."
+    },
+    {
+      "venue": "UIST",
+      "year": 2027,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM Symposium on User Interface Software and Technology",
+      "place": "",
+      "dates": "Not yet announced (historically Oct/Nov)",
+      "end": null,
+      "website": "https://uist.acm.org/",
+      "deadlines": [],
+      "status": "unknown",
+      "source": "https://uist.acm.org/2026/cfp/ ; https://sigchi.org/conferences/upcoming/ ; https://hci-deadlines.github.io/",
+      "notes": "UIST is an annual single-track conference. The current confirmed edition is UIST 2026 (November 2-5, 2026, GM Renaissance Center, Detroit, Michigan, USA), whose deadlines (Abstract: 2026-03-24 AoE; Full Paper: 2026-03-31 AoE) have already passed relative to today (2026-06-04). Therefore the NEXT edition with a future deadline is UIST 2027, which has NOT yet been officially announced — there is no uist.acm.org/2027 site (returns 404), no SIGCHI upcoming-conferences listing, and no WikiCFP/hci-deadlines entry as of 2026-06-04. Location for 2027 is unknown. The deadlines given here are ESTIMATES extrapolated from UIST's consistent recent cycle: paper submissions due in late March (AoE), conference in fall (Oct/Nov). Treat dates as placeholders pending the official 2027 CFP; confidence is low. Cross-checked across the official UIST 2026 site, SIGCHI upcoming page, and hci-deadlines.github.io — all of which list only through 2026."
+    },
+    {
+      "venue": "DIS",
+      "year": 2027,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM Conference on Designing Interactive Systems",
+      "place": "Stockholm, Sweden (KTH Royal Institute of Technology)",
+      "dates": "June 28 – July 2, 2027",
+      "end": "2027-07-02",
+      "website": "https://dis.acm.org/2027/",
+      "deadlines": [
+        {
+          "label": "Full Paper & Pictorials (Abstract & Title)",
+          "date": "2027-01-11T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Papers & Pictorials",
+          "date": "2027-01-18T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/",
+      "notes": "DIS 2027 is now OFFICIALLY ANNOUNCED (confirmed 2026-06-29 from the official dis.acm.org/2027 site): the conference will be held at KTH Royal Institute of Technology (Department of Media Technology and Interaction Design), Stockholm, Sweden, June 28 – July 2, 2027.\n\nDIS is an annual ACM SIGCHI conference (sub=HCI) with a two-stage Papers track: an abstract/title/metadata deadline followed ~one week later by the full-paper deadline. Per the official Contributing page, the (provisional) DIS 2027 dates are: Full paper & Pictorials abstract+title Jan 11, 2027; Full papers & Pictorials Jan 18, 2027; Workshops Feb 1, 2027; Doctoral Consortium & Interactivities Feb 19, 2027. The official page lists these as PROVISIONAL and does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with prior DIS cycles (DIS 2026 used AoE) and with neighboring entries — verify when the full CFP is finalized.\n\nReference cycle - DIS 2026 (Singapore, National University of Singapore, June 13-17, 2026): abstract Jan 9, 2026; full paper Jan 19, 2026 (AoE). Recent locations: DIS 2025 Funchal, Madeira, Portugal (July 5-9, 2025); DIS 2024 Copenhagen. Conference is annual (not biennial); no skipped years."
+    },
+    {
+      "venue": "IMWUT",
+      "year": 2026,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) / ACM UbiComp",
+      "place": "Shanghai, China",
+      "dates": "October 13-15, 2026",
+      "end": "2026-10-15",
+      "website": "https://www.ubicomp.org/ubicomp-iswc-2026/",
+      "deadlines": [
+        {
+          "label": "Major-revision resubmissions only (rolling cycle)",
+          "date": "2026-08-01T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper (next new-submission round, rolling cycle)",
+          "date": "2026-11-01T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://dl.acm.org/journal/imwut/how-to-submit ; https://www.ubicomp.org/ubicomp-iswc-2026/ ; https://sigchi.org/events/ubicomp-iswc-2026/ ; https://hci-deadlines.github.io/",
+      "notes": "IMWUT is a JOURNAL with rolling/quarterly submission deadlines (journal-style, not a single conference CFP). New submissions are accepted three times per year: February 1, May 1, and November 1; August 1 is an additional deadline for RESUBMISSIONS after major revisions only (new submissions cannot be made on Aug 1). All submission sites close at 23:59 AoE (UTC-12). Given today is 2026-06-04, the next deadline of any kind is August 1, 2026 (resubmissions only); the next NEW-submission deadline is November 1, 2026. Accepted IMWUT papers are presented at the annual ACM UbiComp/ISWC conference. UbiComp/ISWC 2026 will be held in Shanghai, China; SIGCHI lists dates as October 11-15, 2026 (some sources list the core program as Oct 13-15, 2026). The conference website (https://www.ubicomp.org/ubicomp-iswc-2026/) covers IMWUT papers plus ISWC notes/briefs, workshops, posters/demos tracks. hci-deadlines.github.io splits IMWUT '26 into 4 rolling rounds consistent with the quarterly cycle."
+    },
+    {
+      "venue": "WSDM",
+      "year": 2027,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "ACM International Conference on Web Search and Data Mining",
+      "place": "Hong Kong, China",
+      "dates": "February 15-19, 2027",
+      "end": "2027-02-19",
+      "website": "https://wsdm-conference.org/2027/",
+      "deadlines": [
+        {
+          "label": "Abstract",
+          "date": "2026-08-17T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2026-08-24T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://wsdm-conference.org/2027/",
+      "notes": "WSDM 2027 is the 20th edition and the next upcoming one; WSDM 2026 (Boise, Idaho, USA) had its deadline in August 2025, already passed. WSDM 2027 will be held at Cordis Hotel, 555 Shanghai St, Mong Kok, Hong Kong, Feb 15-19, 2027. Deadlines per the official call for papers: Abstract registration Aug 17, 2026; Full Papers Aug 24, 2026; notifications Nov 2, 2026. All deadlines are 11:59pm Anywhere on Earth (AoE). The site also lists a Call for Short Papers; a separate short-paper deadline was not distinctly stated and appears to follow the same Aug 24 cycle. Time of 23:59 inferred from the \"11:59pm AoE\" statement. aideadlines.org and wikicfp were unreachable (connection refused / 404) for cross-check; data confirmed from the official conference website only."
+    },
+    {
+      "venue": "KDD",
+      "year": 2027,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "place": "",
+      "dates": "",
+      "end": null,
+      "website": "https://kdd.org/conferences",
+      "deadlines": [],
+      "status": "unknown",
+      "source": "https://kdd2026.kdd.org/research-track-call-for-papers/ ; https://kdd.org/conferences",
+      "notes": "KDD uses TWO submission cycles per year. For KDD 2026 (Aug 9-13, 2026, Jeju, Korea): Cycle 1 abstract Jul 24 2025 / paper Jul 31 2025; Cycle 2 abstract Feb 1 2026 / paper Feb 8 2026 — BOTH deadlines are in the past relative to 2026-06-04. The next upcoming round is therefore KDD 2027's first cycle. As of 2026-06-04 there is NO official KDD 2027 website or Call for Papers published yet (no kdd2027.kdd.org). The deadlines shown are ESTIMATED from the prior cycle pattern: KDD-2026 Cycle 1 had abstract ~Jul 24 / paper ~Jul 31 of the preceding year, so KDD-2027 Cycle 1 is projected to ~late July 2027 (one year before the conference). All KDD deadlines are end-of-day AoE. Conference dates and location for KDD 2027 are NOT officially confirmed; speculative third-party listings (WikiCFP/submitforge) mention Toronto in August 2027 with conflicting dates (Aug 15-19 vs Aug 25-29), but these are unverified — note KDD 2025 was already held in Toronto. Year set to 2027 because both 2026 cycles have closed. Verify on official KDD site once KDD 2027 CfP is released (typically ~spring/summer 2027)."
+    },
+    {
+      "venue": "AAMAS",
+      "year": 2027,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Conference on Autonomous Agents and Multiagent Systems",
+      "place": "Hanoi, Vietnam",
+      "dates": "May 3-7, 2027",
+      "end": "2027-05-07",
+      "website": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "deadlines": [],
+      "status": "unknown",
+      "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/ ; https://cyprusconferences.org/aamas2026/important-dates/",
+      "notes": "AAMAS 2026 (25th edition) was held May 25-29, 2026 in Paphos, Cyprus, so it is now in the past (today is 2026-06-04). The NEXT edition is AAMAS 2027 (26th), confirmed by the official conference site hosted at Warwick: Hanoi, Vietnam, May 3-7, 2027, at the JW Marriott Hotel. The official site lists the main paper submission deadline only as \"Oct 2026 (TBC)\" — not yet finalized. The deadline above (2026-11-05, AoE) is ESTIMATED from the AAMAS 2026 main-track cycle, where the full paper deadline was Nov 5, 2025 (about 6 months before the May conference); AAMAS 2027 is again in early May, so an Oct/early-Nov 2026 deadline is consistent. AAMAS typically uses a single full-paper deadline (no separate abstract pre-registration in the main cycle) with all deadlines at end of day Anywhere on Earth (UTC-12). Note: one aggregator (mlciv/ai-deadlines) showed an incorrect \"Thessaloniki, Greece, April 6-9, 2027\" entry which contradicts the official Warwick site and appears to be erroneous; the Hanoi/May dates are authoritative. Check the official site again after Oct 2026 for the confirmed deadline and detailed important dates (rebuttal, notification, camera-ready)."
+    },
+    {
+      "venue": "CHI",
+      "year": 2025,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM CHI Conference on Human Factors in Computing Systems",
+      "place": "Yokohama, Japan",
+      "dates": "April 26 – May 1, 2025",
+      "end": "2025-05-01",
+      "website": "https://chi2025.acm.org/",
+      "deadlines": [
+        {
+          "label": "Abstract",
+          "date": "2024-09-05T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2024-09-12T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://chi2025.acm.org/for-authors/papers/",
+      "notes": "Past edition. CHI 2025 was held at PACIFICO Yokohama, Japan, Apr 26 – May 1, 2025. Paper abstract deadline Sep 5, 2024; full paper Sep 12, 2024 (AoE)."
+    },
+    {
+      "venue": "WWW",
+      "year": 2025,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "The Web Conference (ACM Web Conference)",
+      "place": "Sydney, Australia",
+      "dates": "April 28 – May 2, 2025",
+      "end": "2025-05-02",
+      "website": "https://www2025.thewebconf.org/",
+      "deadlines": [
+        {
+          "label": "Abstract",
+          "date": "2024-10-07T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2024-10-14T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://www2025.thewebconf.org/",
+      "notes": "Past edition. The Web Conference 2025 was held at the ICC Sydney, Australia, Apr 28 – May 2, 2025. Research-track abstracts due Oct 7, 2024; full papers Oct 14, 2024 (AoE)."
+    },
+    {
+      "venue": "WSDM",
+      "year": 2025,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "ACM International Conference on Web Search and Data Mining",
+      "place": "Hannover, Germany",
+      "dates": "March 10-14, 2025",
+      "end": "2025-03-14",
+      "website": "https://www.wsdm-conference.org/2025/",
+      "deadlines": [
+        {
+          "label": "Abstract",
+          "date": "2024-08-07T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2024-08-14T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://www.wsdm-conference.org/2025/call-for-papers/",
+      "notes": "Past edition. WSDM 2025 (18th) was held in Hannover, Germany, Mar 10-14, 2025. Abstract deadline Aug 7, 2024; full paper Aug 14, 2024 (AoE)."
+    },
+    {
+      "venue": "AAMAS",
+      "year": 2025,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Conference on Autonomous Agents and Multiagent Systems",
+      "place": "Detroit, Michigan, USA",
+      "dates": "May 19-23, 2025",
+      "end": "2025-05-23",
+      "website": "https://aamas2025.org/",
+      "deadlines": [
+        {
+          "label": "Abstract (Main Track)",
+          "date": "2024-10-09T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper (Main Track)",
+          "date": "2024-10-16T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://aamas2025.org/index.php/conference/calls/call-for-papers-main-technical-track/",
+      "notes": "Past edition. AAMAS 2025 (24th) was held in Detroit, Michigan, USA, May 19-23, 2025. Main-track abstract deadline Oct 9, 2024; full paper Oct 16, 2024 (AoE)."
+    },
+    {
+      "venue": "KDD",
+      "year": 2025,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "place": "Toronto, Canada",
+      "dates": "August 3-7, 2025",
+      "end": "2025-08-07",
+      "website": "https://kdd2025.kdd.org/",
+      "deadlines": [
+        {
+          "label": "Full Paper (Cycle 1)",
+          "date": "2024-08-08T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper (Cycle 2)",
+          "date": "2025-02-10T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://kdd2025.kdd.org/research-track-call-for-papers/",
+      "notes": "Past edition. KDD 2025 (31st) was held in Toronto, Canada, Aug 3-7, 2025. Two research-track cycles: Cycle 1 abstract Aug 1 / paper Aug 8, 2024; Cycle 2 abstract Feb 1 / paper Feb 8, 2025 (AoE)."
+    },
+    {
+      "venue": "IC2S2",
+      "year": 2025,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Conference on Computational Social Science",
+      "place": "Norrköping, Sweden",
+      "dates": "July 21-24, 2025",
+      "end": "2025-07-24",
+      "website": "https://ic2s2-2025.org/",
+      "deadlines": [
+        {
+          "label": "Abstract (extended abstract, max 2 pages)",
+          "date": "2025-02-26T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://ic2s2-2025.org/",
+      "notes": "Past edition. IC2S2 2025 (11th) was held in Norrköping, Sweden, Jul 21-24, 2025 (tutorials Jul 21, main Jul 22-24). Extended-abstract deadline Feb 26, 2025 (AoE)."
+    },
+    {
+      "venue": "CHIIR",
+      "year": 2025,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM SIGIR Conference on Human Information Interaction and Retrieval",
+      "place": "Melbourne, Australia",
+      "dates": "March 24-28, 2025",
+      "end": "2025-03-28",
+      "website": "https://chiir2025.github.io/",
+      "deadlines": [
+        {
+          "label": "Full and Perspective Papers (extended)",
+          "date": "2024-10-24T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Short Papers / Demos (extended)",
+          "date": "2024-11-04T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://chiir2025.github.io/cfp.html",
+      "notes": "Past edition. CHIIR 2025 was held in Melbourne, Australia, Mar 24-27, 2025. Full/Perspective papers extended deadline Oct 21, 2024; short papers/demos Oct 31, 2024 (AoE)."
+    },
+    {
+      "venue": "UIST",
+      "year": 2025,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM Symposium on User Interface Software and Technology",
+      "place": "Busan, Republic of Korea",
+      "dates": "September 28 – October 1, 2025",
+      "end": "2025-10-01",
+      "website": "https://uist.acm.org/2025/",
+      "deadlines": [
+        {
+          "label": "Abstract registration",
+          "date": "2025-04-02T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2025-04-09T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://uist.acm.org/2025/cfp/",
+      "notes": "Past edition. UIST 2025 (38th) was held in Busan, Republic of Korea, Sep 28 – Oct 1, 2025. Mandatory paper abstract registration Apr 2, 2025 (AoE), full papers a few days later."
+    },
+    {
+      "venue": "DIS",
+      "year": 2025,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM Conference on Designing Interactive Systems",
+      "place": "Funchal, Madeira, Portugal",
+      "dates": "July 5-9, 2025",
+      "end": "2025-07-09",
+      "website": "https://dis.acm.org/2025/",
+      "deadlines": [
+        {
+          "label": "Abstract",
+          "date": "2025-01-13T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2025-01-20T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://dis.acm.org/2025/call-for-papers/",
+      "notes": "Past edition. DIS 2025 was held in Funchal, Madeira, Portugal, Jul 5-9, 2025. Abstract/metadata deadline Jan 13, 2025; full paper Jan 20, 2025 (AoE)."
+    },
+    {
+      "venue": "ICWSM",
+      "year": 2025,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "International AAAI Conference on Web and Social Media",
+      "place": "Copenhagen, Denmark",
+      "dates": "June 23-26, 2025",
+      "end": "2025-06-26",
+      "website": "https://www.icwsm.org/2025/",
+      "deadlines": [
+        {
+          "label": "Round 2 Full Paper",
+          "date": "2024-09-15T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Round 3 Full Paper",
+          "date": "2025-01-15T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://www.icwsm.org/2025/",
+      "notes": "Past edition. ICWSM 2025 (19th) was held in Copenhagen, Denmark, Jun 23-26, 2025. Rolling 3-round review; Round 2 closed Sep 15, 2024 and the final Round 3 Jan 15, 2025 (AoE)."
+    },
+    {
+      "venue": "CI",
+      "year": 2026,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "ACM Collective Intelligence Conference",
+      "place": "Near Washington, DC, USA (Virginia Tech Academic Building One)",
+      "dates": "September 27-30, 2026",
+      "end": "2026-09-30",
+      "website": "https://ci.acm.org/2026/",
+      "deadlines": [
+        {
+          "label": "Full Paper",
+          "date": "2026-06-15T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://ci.acm.org/2026/cfp.html",
+      "notes": "CI 2026 (14th ACM Collective Intelligence Conference) is held Sep 27-30, 2026 at Virginia Tech's Academic Building One near Washington, DC, co-located and integrated with HCOMP 2026. Full-paper deadline Jun 15, 2026 (AoE)."
+    },
+    {
+      "venue": "SBP-BRiMS",
+      "year": 2026,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation",
+      "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
+      "dates": "October 12-14, 2026",
+      "end": "2026-10-14",
+      "website": "https://sbp-brims.org/2026/",
+      "deadlines": [
+        {
+          "label": "Full Paper",
+          "date": "2026-06-15T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Working Papers / Challenge",
+          "date": "2026-08-21T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://sbp-brims.org/2026/",
+      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 15, 2026; working papers / challenge Aug 21, 2026 (AoE)."
+    },
+    {
+      "venue": "ASONAM",
+      "year": 2026,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Conference on Advances in Social Networks Analysis and Mining",
+      "place": "Rabat, Morocco",
+      "dates": "August 24-27, 2026",
+      "end": "2026-08-27",
+      "website": "https://asonam.cpsc.ucalgary.ca/2026/",
+      "deadlines": [
+        {
+          "label": "Research Track Full Paper",
+          "date": "2026-05-10T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://asonam.cpsc.ucalgary.ca/2026/CFP.php",
+      "notes": "ASONAM 2026 (18th, IEEE/ACM) is held in Rabat, Morocco, Aug 24-27, 2026 — the dedicated venue for social network analysis and mining. Research-track full-paper deadline May 10, 2026 (AoE), already passed; a continuous SNAM journal track runs until May 31, 2026. Conference itself still upcoming."
+    },
+    {
+      "venue": "ECSCW",
+      "year": 2026,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "European Conference on Computer-Supported Cooperative Work (EUSSET)",
+      "place": "Munich, Germany",
+      "dates": "June 29 – July 3, 2026",
+      "end": "2026-07-03",
+      "website": "https://ecscw.eusset.eu/2026/",
+      "deadlines": [
+        {
+          "label": "Conference & Exploratory Papers",
+          "date": "2026-03-06T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Demos & Posters",
+          "date": "2026-03-20T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://ecscw.eusset.eu/2026/2025/09/29/ecscw-2026-call-for-papers/",
+      "notes": "ECSCW 2026 (24th EUSSET Conference on CSCW) is held in Munich, Germany, Jun 29 – Jul 3, 2026. Conference & exploratory papers deadline Mar 6, 2026; demos/posters Mar 20, 2026 (AoE). Both paper deadlines have passed; conference still upcoming. Papers appear in PACM HCI."
+    },
+    {
+      "venue": "iConference",
+      "year": 2027,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "iConference (iSchools)",
+      "place": "Wellington, New Zealand",
+      "dates": "April 5-9, 2027",
+      "end": "2027-04-09",
+      "website": "https://www.ischools.org/iconference",
+      "deadlines": [
+        {
+          "label": "Full Research Papers",
+          "date": "2026-09-15T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://www.ischools.org/post/iconference-2027-to-be-hosted-by-victoria-university-of-wellington",
+      "notes": "iConference 2027 (iSchools) is jointly hosted by Victoria University of Wellington and Monash University; on-site program Apr 5-9, 2027 in Wellington, NZ (virtual Mar 22-25, 2027). First full-research-paper submission deadline Sep 15, 2026."
+    },
+    {
+      "venue": "CSCW",
+      "year": 2025,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+      "place": "Bergen, Norway",
+      "dates": "October 18-22, 2025",
+      "end": "2025-10-22",
+      "website": "https://cscw.acm.org/2025/",
+      "deadlines": [
+        {
+          "label": "Submission (final cycle)",
+          "date": "2024-10-29T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://cscw.acm.org/2025/",
+      "notes": "Past edition. CSCW 2025 (28th) was held at Grieghallen, Bergen, Norway, Oct 18-22, 2025. The final-cycle paper submission deadline was Oct 29, 2024 (AoE), notifications Feb 12, 2025."
+    },
+    {
+      "venue": "ASONAM",
+      "year": 2025,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Conference on Advances in Social Networks Analysis and Mining",
+      "place": "Niagara Falls, Ontario, Canada",
+      "dates": "August 25-28, 2025",
+      "end": "2025-08-28",
+      "website": "https://asonam.cpsc.ucalgary.ca/2025/",
+      "deadlines": [
+        {
+          "label": "Research Track Full Paper (extended)",
+          "date": "2025-05-18T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://asonam.cpsc.ucalgary.ca/2025/CFP.php",
+      "notes": "Past edition. ASONAM 2025 (17th, IEEE/ACM) was held at Embassy Suites, Niagara Falls, Ontario, Canada, Aug 25-28, 2025. Research-track full-paper deadline (extended) May 18, 2025 (AoE)."
+    },
+    {
+      "venue": "SBP-BRiMS",
+      "year": 2025,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation",
+      "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
+      "dates": "October 15-17, 2025",
+      "end": "2025-10-17",
+      "website": "https://sbp-brims.org/2025/",
+      "deadlines": [
+        {
+          "label": "Full Paper",
+          "date": "2025-07-02T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://sbp-brims.org/2025/",
+      "notes": "Past edition. SBP-BRiMS 2025 was held at Carnegie Mellon University, Pittsburgh, Oct 15-17, 2025. Full-paper deadline Jul 2, 2025 (AoE)."
+    },
+    {
+      "venue": "CI",
+      "year": 2025,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "ACM Collective Intelligence Conference",
+      "place": "La Jolla, CA, USA (UC San Diego)",
+      "dates": "August 4-6, 2025",
+      "end": "2025-08-06",
+      "website": "https://ci.acm.org/2025/",
+      "deadlines": [
+        {
+          "label": "Full Paper / Extended Abstract",
+          "date": "2025-04-01T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://ci.acm.org/2025/submit/",
+      "notes": "Past edition. CI 2025 (13th ACM Collective Intelligence Conference) was held at UC San Diego, La Jolla, Aug 4-6, 2025 (workshops Aug 4). Full-paper / extended-abstract deadline Apr 1, 2025 (AoE)."
+    },
+    {
+      "venue": "ECSCW",
+      "year": 2025,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "European Conference on Computer-Supported Cooperative Work (EUSSET)",
+      "place": "Newcastle upon Tyne, United Kingdom",
+      "dates": "June 30 – July 4, 2025",
+      "end": "2025-07-04",
+      "website": "https://ecscw.eusset.eu/2025/",
+      "deadlines": [
+        {
+          "label": "Conference Papers (extended)",
+          "date": "2025-02-25T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://ecscw.eusset.eu/2025/index.php/conference-papers/",
+      "notes": "Past edition. ECSCW 2025 (23rd EUSSET Conference on CSCW) was held in Newcastle upon Tyne, UK, Jun 30 – Jul 4, 2025. Conference-papers deadline Feb 18, 2025, extended to Feb 25, 2025 (AoE)."
+    },
+    {
+      "venue": "iConference",
+      "year": 2026,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "iConference (iSchools)",
+      "place": "Edinburgh, United Kingdom (Edinburgh Napier University)",
+      "dates": "March 29 – April 2, 2026",
+      "end": "2026-04-02",
+      "website": "https://www.ischools.org/iconference",
+      "deadlines": [
+        {
+          "label": "Full Research Papers",
+          "date": "2025-09-15T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "past",
+      "source": "https://www.ischools.org/post/iconference-2026-call-for-papers",
+      "notes": "Past edition. iConference 2026 (21st) was hosted by Edinburgh Napier University, UK; on-site program Mar 29 – Apr 2, 2026 (virtual Mar 23-26, 2026). Full-research-paper deadline Sep 15, 2025."
+    }
+  ],
+  "deadlines_flat": [
+    {
+      "venue": "IMWUT",
+      "year": 2026,
+      "area": "HCI",
+      "fullName": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) / ACM UbiComp",
+      "deadline_label": "Major-revision resubmissions only (rolling cycle)",
+      "deadline_date": "2026-08-01T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 13-15, 2026",
+      "place": "Shanghai, China",
+      "website": "https://www.ubicomp.org/ubicomp-iswc-2026/",
+      "status": "announced",
+      "source": "https://dl.acm.org/journal/imwut/how-to-submit ; https://www.ubicomp.org/ubicomp-iswc-2026/ ; https://sigchi.org/events/ubicomp-iswc-2026/ ; https://hci-deadlines.github.io/",
+      "notes": "IMWUT is a JOURNAL with rolling/quarterly submission deadlines (journal-style, not a single conference CFP). New submissions are accepted three times per year: February 1, May 1, and November 1; August 1 is an additional deadline for RESUBMISSIONS after major revisions only (new submissions cannot be made on Aug 1). All submission sites close at 23:59 AoE (UTC-12). Given today is 2026-06-04, the next deadline of any kind is August 1, 2026 (resubmissions only); the next NEW-submission deadline is November 1, 2026. Accepted IMWUT papers are presented at the annual ACM UbiComp/ISWC conference. UbiComp/ISWC 2026 will be held in Shanghai, China; SIGCHI lists dates as October 11-15, 2026 (some sources list the core program as Oct 13-15, 2026). The conference website (https://www.ubicomp.org/ubicomp-iswc-2026/) covers IMWUT papers plus ISWC notes/briefs, workshops, posters/demos tracks. hci-deadlines.github.io splits IMWUT '26 into 4 rolling rounds consistent with the quarterly cycle."
+    },
+    {
+      "venue": "IMWUT",
+      "year": 2026,
+      "area": "HCI",
+      "fullName": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) / ACM UbiComp",
+      "deadline_label": "Full Paper (next new-submission round, rolling cycle)",
+      "deadline_date": "2026-11-01T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 13-15, 2026",
+      "place": "Shanghai, China",
+      "website": "https://www.ubicomp.org/ubicomp-iswc-2026/",
+      "status": "announced",
+      "source": "https://dl.acm.org/journal/imwut/how-to-submit ; https://www.ubicomp.org/ubicomp-iswc-2026/ ; https://sigchi.org/events/ubicomp-iswc-2026/ ; https://hci-deadlines.github.io/",
+      "notes": "IMWUT is a JOURNAL with rolling/quarterly submission deadlines (journal-style, not a single conference CFP). New submissions are accepted three times per year: February 1, May 1, and November 1; August 1 is an additional deadline for RESUBMISSIONS after major revisions only (new submissions cannot be made on Aug 1). All submission sites close at 23:59 AoE (UTC-12). Given today is 2026-06-04, the next deadline of any kind is August 1, 2026 (resubmissions only); the next NEW-submission deadline is November 1, 2026. Accepted IMWUT papers are presented at the annual ACM UbiComp/ISWC conference. UbiComp/ISWC 2026 will be held in Shanghai, China; SIGCHI lists dates as October 11-15, 2026 (some sources list the core program as Oct 13-15, 2026). The conference website (https://www.ubicomp.org/ubicomp-iswc-2026/) covers IMWUT papers plus ISWC notes/briefs, workshops, posters/demos tracks. hci-deadlines.github.io splits IMWUT '26 into 4 rolling rounds consistent with the quarterly cycle."
+    },
+    {
+      "venue": "WSDM",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "ACM International Conference on Web Search and Data Mining",
+      "deadline_label": "Abstract",
+      "deadline_date": "2026-08-17T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "February 15-19, 2027",
+      "place": "Hong Kong, China",
+      "website": "https://wsdm-conference.org/2027/",
+      "status": "announced",
+      "source": "https://wsdm-conference.org/2027/",
+      "notes": "WSDM 2027 is the 20th edition and the next upcoming one; WSDM 2026 (Boise, Idaho, USA) had its deadline in August 2025, already passed. WSDM 2027 will be held at Cordis Hotel, 555 Shanghai St, Mong Kok, Hong Kong, Feb 15-19, 2027. Deadlines per the official call for papers: Abstract registration Aug 17, 2026; Full Papers Aug 24, 2026; notifications Nov 2, 2026. All deadlines are 11:59pm Anywhere on Earth (AoE). The site also lists a Call for Short Papers; a separate short-paper deadline was not distinctly stated and appears to follow the same Aug 24 cycle. Time of 23:59 inferred from the \"11:59pm AoE\" statement. aideadlines.org and wikicfp were unreachable (connection refused / 404) for cross-check; data confirmed from the official conference website only."
+    },
+    {
+      "venue": "WSDM",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "ACM International Conference on Web Search and Data Mining",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-08-24T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "February 15-19, 2027",
+      "place": "Hong Kong, China",
+      "website": "https://wsdm-conference.org/2027/",
+      "status": "announced",
+      "source": "https://wsdm-conference.org/2027/",
+      "notes": "WSDM 2027 is the 20th edition and the next upcoming one; WSDM 2026 (Boise, Idaho, USA) had its deadline in August 2025, already passed. WSDM 2027 will be held at Cordis Hotel, 555 Shanghai St, Mong Kok, Hong Kong, Feb 15-19, 2027. Deadlines per the official call for papers: Abstract registration Aug 17, 2026; Full Papers Aug 24, 2026; notifications Nov 2, 2026. All deadlines are 11:59pm Anywhere on Earth (AoE). The site also lists a Call for Short Papers; a separate short-paper deadline was not distinctly stated and appears to follow the same Aug 24 cycle. Time of 23:59 inferred from the \"11:59pm AoE\" statement. aideadlines.org and wikicfp were unreachable (connection refused / 404) for cross-check; data confirmed from the official conference website only."
+    },
+    {
+      "venue": "SBP-BRiMS",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-06-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 12-14, 2026",
+      "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
+      "website": "https://sbp-brims.org/2026/",
+      "status": "announced",
+      "source": "https://sbp-brims.org/2026/",
+      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 15, 2026; working papers / challenge Aug 21, 2026 (AoE)."
+    },
+    {
+      "venue": "SBP-BRiMS",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation",
+      "deadline_label": "Working Papers / Challenge",
+      "deadline_date": "2026-08-21T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 12-14, 2026",
+      "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
+      "website": "https://sbp-brims.org/2026/",
+      "status": "announced",
+      "source": "https://sbp-brims.org/2026/",
+      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 15, 2026; working papers / challenge Aug 21, 2026 (AoE)."
+    },
+    {
+      "venue": "CHI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM CHI Conference on Human Factors in Computing Systems",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-09-10T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 10-14, 2027",
+      "place": "Pittsburgh, PA, USA",
+      "website": "https://chi2027.acm.org/",
+      "status": "announced",
+      "source": "https://chi2027.acm.org/authors/papers/",
+      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens July 30, 2026. The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
+    },
+    {
+      "venue": "CHI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM CHI Conference on Human Factors in Computing Systems",
+      "deadline_label": "Revise & Resubmit (resubmission)",
+      "deadline_date": "2026-12-03T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 10-14, 2027",
+      "place": "Pittsburgh, PA, USA",
+      "website": "https://chi2027.acm.org/",
+      "status": "announced",
+      "source": "https://chi2027.acm.org/authors/papers/",
+      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens July 30, 2026. The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
+    },
+    {
+      "venue": "ICWSM",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "International AAAI Conference on Web and Social Media",
+      "deadline_label": "Round 2 Full Paper",
+      "deadline_date": "2026-09-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "",
+      "place": "Edinburgh, Scotland, United Kingdom",
+      "website": "https://www.icwsm.org/2026/submit.html",
+      "status": "announced",
+      "source": "https://www.icwsm.org/2026/submit.html",
+      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The three rounds for the ICWSM 2027 edition (Edinburgh) close May 15, 2026; Sept 15, 2026; and Jan 15, 2027, all at 23:59 AoE; papers accepted in any round are presented at ICWSM 2027. The NEXT upcoming round after 2026-06-04 is Round 2 on Sept 15, 2026; Round 1 (May 15, 2026) has already passed. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. For reference, the current ICWSM 2026 edition is in Los Angeles, California (the official 2026 site lives at icwsm.org/2026/). Cross-checked between the official icwsm.org submit page and the LINGUIST List / Facebook announcement confirming Edinburgh 2027."
+    },
+    {
+      "venue": "ICWSM",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "International AAAI Conference on Web and Social Media",
+      "deadline_label": "Round 3 Full Paper (also posters/demos/datasets)",
+      "deadline_date": "2027-01-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "",
+      "place": "Edinburgh, Scotland, United Kingdom",
+      "website": "https://www.icwsm.org/2026/submit.html",
+      "status": "announced",
+      "source": "https://www.icwsm.org/2026/submit.html",
+      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The three rounds for the ICWSM 2027 edition (Edinburgh) close May 15, 2026; Sept 15, 2026; and Jan 15, 2027, all at 23:59 AoE; papers accepted in any round are presented at ICWSM 2027. The NEXT upcoming round after 2026-06-04 is Round 2 on Sept 15, 2026; Round 1 (May 15, 2026) has already passed. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. For reference, the current ICWSM 2026 edition is in Los Angeles, California (the official 2026 site lives at icwsm.org/2026/). Cross-checked between the official icwsm.org submit page and the LINGUIST List / Facebook announcement confirming Edinburgh 2027."
+    },
+    {
+      "venue": "iConference",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "iConference (iSchools)",
+      "deadline_label": "Full Research Papers",
+      "deadline_date": "2026-09-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "April 5-9, 2027",
+      "place": "Wellington, New Zealand",
+      "website": "https://www.ischools.org/iconference",
+      "status": "announced",
+      "source": "https://www.ischools.org/post/iconference-2027-to-be-hosted-by-victoria-university-of-wellington",
+      "notes": "iConference 2027 (iSchools) is jointly hosted by Victoria University of Wellington and Monash University; on-site program Apr 5-9, 2027 in Wellington, NZ (virtual Mar 22-25, 2027). First full-research-paper submission deadline Sep 15, 2026."
+    },
+    {
+      "venue": "CHIIR",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM SIGIR Conference on Human Information Interaction and Retrieval",
+      "deadline_label": "Full and Perspective Papers (Abstract)",
+      "deadline_date": "2026-10-08T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 7-11, 2027",
+      "place": "Berlin, Germany",
+      "website": "https://chiir2027.github.io/",
+      "status": "announced",
+      "source": "https://chiir2027.github.io/",
+      "notes": "CHIIR 2026 was held in Seattle, WA, USA on March 22-26, 2026 and has already concluded. The next edition is CHIIR 2027, hosted at Humboldt-Universitat zu Berlin, Berlin, Germany, March 7-11, 2027. CFP is officially open. The main paper track uses a two-stage deadline: abstracts due Oct 8, 2026 and full papers due Oct 15, 2026 (both AoE). Short papers and Demos/Design/Resource papers due Oct 29, 2026; Doctoral Consortium papers due Dec 6, 2026. All deadlines stated as 23:59 Anywhere on Earth. The official site (chiir2027.github.io) explicitly states the AoE timezone; the Oct 15 full-paper date and Berlin location are corroborated by the iSchools/Facebook CHIIR 2027 CFP announcement and the WikiCFP listing (eventid 195412). Annual conference; no skip noted."
+    },
+    {
+      "venue": "CHIIR",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM SIGIR Conference on Human Information Interaction and Retrieval",
+      "deadline_label": "Full and Perspective Papers (Full Paper)",
+      "deadline_date": "2026-10-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 7-11, 2027",
+      "place": "Berlin, Germany",
+      "website": "https://chiir2027.github.io/",
+      "status": "announced",
+      "source": "https://chiir2027.github.io/",
+      "notes": "CHIIR 2026 was held in Seattle, WA, USA on March 22-26, 2026 and has already concluded. The next edition is CHIIR 2027, hosted at Humboldt-Universitat zu Berlin, Berlin, Germany, March 7-11, 2027. CFP is officially open. The main paper track uses a two-stage deadline: abstracts due Oct 8, 2026 and full papers due Oct 15, 2026 (both AoE). Short papers and Demos/Design/Resource papers due Oct 29, 2026; Doctoral Consortium papers due Dec 6, 2026. All deadlines stated as 23:59 Anywhere on Earth. The official site (chiir2027.github.io) explicitly states the AoE timezone; the Oct 15 full-paper date and Berlin location are corroborated by the iSchools/Facebook CHIIR 2027 CFP announcement and the WikiCFP listing (eventid 195412). Annual conference; no skip noted."
+    },
+    {
+      "venue": "CHIIR",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM SIGIR Conference on Human Information Interaction and Retrieval",
+      "deadline_label": "Short Papers",
+      "deadline_date": "2026-10-29T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 7-11, 2027",
+      "place": "Berlin, Germany",
+      "website": "https://chiir2027.github.io/",
+      "status": "announced",
+      "source": "https://chiir2027.github.io/",
+      "notes": "CHIIR 2026 was held in Seattle, WA, USA on March 22-26, 2026 and has already concluded. The next edition is CHIIR 2027, hosted at Humboldt-Universitat zu Berlin, Berlin, Germany, March 7-11, 2027. CFP is officially open. The main paper track uses a two-stage deadline: abstracts due Oct 8, 2026 and full papers due Oct 15, 2026 (both AoE). Short papers and Demos/Design/Resource papers due Oct 29, 2026; Doctoral Consortium papers due Dec 6, 2026. All deadlines stated as 23:59 Anywhere on Earth. The official site (chiir2027.github.io) explicitly states the AoE timezone; the Oct 15 full-paper date and Berlin location are corroborated by the iSchools/Facebook CHIIR 2027 CFP announcement and the WikiCFP listing (eventid 195412). Annual conference; no skip noted."
+    },
+    {
+      "venue": "CHIIR",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM SIGIR Conference on Human Information Interaction and Retrieval",
+      "deadline_label": "Demos, Design and Resource Papers",
+      "deadline_date": "2026-10-29T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 7-11, 2027",
+      "place": "Berlin, Germany",
+      "website": "https://chiir2027.github.io/",
+      "status": "announced",
+      "source": "https://chiir2027.github.io/",
+      "notes": "CHIIR 2026 was held in Seattle, WA, USA on March 22-26, 2026 and has already concluded. The next edition is CHIIR 2027, hosted at Humboldt-Universitat zu Berlin, Berlin, Germany, March 7-11, 2027. CFP is officially open. The main paper track uses a two-stage deadline: abstracts due Oct 8, 2026 and full papers due Oct 15, 2026 (both AoE). Short papers and Demos/Design/Resource papers due Oct 29, 2026; Doctoral Consortium papers due Dec 6, 2026. All deadlines stated as 23:59 Anywhere on Earth. The official site (chiir2027.github.io) explicitly states the AoE timezone; the Oct 15 full-paper date and Berlin location are corroborated by the iSchools/Facebook CHIIR 2027 CFP announcement and the WikiCFP listing (eventid 195412). Annual conference; no skip noted."
+    },
+    {
+      "venue": "WWW",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "The Web Conference (ACM Web Conference)",
+      "deadline_label": "Research & Industry Track (Abstract)",
+      "deadline_date": "2026-10-11T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 10-14, 2027",
+      "place": "Dublin, Ireland",
+      "website": "https://acmweb2027.org/",
+      "status": "announced",
+      "source": "https://acmweb2027.org/ ; https://acmweb2027.org/important-dates/",
+      "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). The official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates (confirmed 2026-07-05): abstract submission Oct 11, 2026 and full paper submission Oct 18, 2026; notification Dec 10, 2026, rebuttal Dec 12-19, 2026, camera-ready Jan 31, 2027. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round after today (2026-07-05) is the Oct 11, 2026 abstract deadline followed by the Oct 18, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
+    },
+    {
+      "venue": "WWW",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "The Web Conference (ACM Web Conference)",
+      "deadline_label": "Research & Industry Track (Full Paper)",
+      "deadline_date": "2026-10-18T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 10-14, 2027",
+      "place": "Dublin, Ireland",
+      "website": "https://acmweb2027.org/",
+      "status": "announced",
+      "source": "https://acmweb2027.org/ ; https://acmweb2027.org/important-dates/",
+      "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). The official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates (confirmed 2026-07-05): abstract submission Oct 11, 2026 and full paper submission Oct 18, 2026; notification Dec 10, 2026, rebuttal Dec 12-19, 2026, camera-ready Jan 31, 2027. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round after today (2026-07-05) is the Oct 11, 2026 abstract deadline followed by the Oct 18, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
+    },
+    {
+      "venue": "DIS",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Designing Interactive Systems",
+      "deadline_label": "Full Paper & Pictorials (Abstract & Title)",
+      "deadline_date": "2027-01-11T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 28 – July 2, 2027",
+      "place": "Stockholm, Sweden (KTH Royal Institute of Technology)",
+      "website": "https://dis.acm.org/2027/",
+      "status": "announced",
+      "source": "https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/",
+      "notes": "DIS 2027 is now OFFICIALLY ANNOUNCED (confirmed 2026-06-29 from the official dis.acm.org/2027 site): the conference will be held at KTH Royal Institute of Technology (Department of Media Technology and Interaction Design), Stockholm, Sweden, June 28 – July 2, 2027.\n\nDIS is an annual ACM SIGCHI conference (sub=HCI) with a two-stage Papers track: an abstract/title/metadata deadline followed ~one week later by the full-paper deadline. Per the official Contributing page, the (provisional) DIS 2027 dates are: Full paper & Pictorials abstract+title Jan 11, 2027; Full papers & Pictorials Jan 18, 2027; Workshops Feb 1, 2027; Doctoral Consortium & Interactivities Feb 19, 2027. The official page lists these as PROVISIONAL and does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with prior DIS cycles (DIS 2026 used AoE) and with neighboring entries — verify when the full CFP is finalized.\n\nReference cycle - DIS 2026 (Singapore, National University of Singapore, June 13-17, 2026): abstract Jan 9, 2026; full paper Jan 19, 2026 (AoE). Recent locations: DIS 2025 Funchal, Madeira, Portugal (July 5-9, 2025); DIS 2024 Copenhagen. Conference is annual (not biennial); no skipped years."
+    },
+    {
+      "venue": "DIS",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Designing Interactive Systems",
+      "deadline_label": "Full Papers & Pictorials",
+      "deadline_date": "2027-01-18T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 28 – July 2, 2027",
+      "place": "Stockholm, Sweden (KTH Royal Institute of Technology)",
+      "website": "https://dis.acm.org/2027/",
+      "status": "announced",
+      "source": "https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/",
+      "notes": "DIS 2027 is now OFFICIALLY ANNOUNCED (confirmed 2026-06-29 from the official dis.acm.org/2027 site): the conference will be held at KTH Royal Institute of Technology (Department of Media Technology and Interaction Design), Stockholm, Sweden, June 28 – July 2, 2027.\n\nDIS is an annual ACM SIGCHI conference (sub=HCI) with a two-stage Papers track: an abstract/title/metadata deadline followed ~one week later by the full-paper deadline. Per the official Contributing page, the (provisional) DIS 2027 dates are: Full paper & Pictorials abstract+title Jan 11, 2027; Full papers & Pictorials Jan 18, 2027; Workshops Feb 1, 2027; Doctoral Consortium & Interactivities Feb 19, 2027. The official page lists these as PROVISIONAL and does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with prior DIS cycles (DIS 2026 used AoE) and with neighboring entries — verify when the full CFP is finalized.\n\nReference cycle - DIS 2026 (Singapore, National University of Singapore, June 13-17, 2026): abstract Jan 9, 2026; full paper Jan 19, 2026 (AoE). Recent locations: DIS 2025 Funchal, Madeira, Portugal (July 5-9, 2025); DIS 2024 Copenhagen. Conference is annual (not biennial); no skipped years."
+    },
+    {
+      "venue": "CSCW",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+      "deadline_label": "Full Paper (rolling / continuous submission — no fixed deadline)",
+      "deadline_date": "rolling",
+      "timezone": "AoE",
+      "conference_dates": "",
+      "place": "",
+      "website": "https://cscw.acm.org/rolling.html",
+      "status": "announced",
+      "source": "https://cscw.acm.org/rolling.html ; https://cscw.acm.org/2026/papers.html ; https://sigchi.org/conferences/upcoming/",
+      "notes": "IMPORTANT: As of CSCW 2027 and beyond, CSCW has moved to a ROLLING, journal-style submission model (like IMWUT/PACM HCI). There are NO fixed submission deadlines — authors may submit a paper whenever it is ready via https://mc.manuscriptcentral.com/pacmhci, and papers are reviewed on an ongoing basis. Initial decisions arrive ~3-4 months after submission; rejected papers must wait >=4 months before resubmitting; accepted papers are published in PACM HCI and invited to present at the next CSCW conference. There is therefore no single \"next deadline\" date to report for CSCW 2027 — submission is open continuously.\n\nContext on the NEXT physical conference: CSCW 2026 will be held Oct 10-14, 2026 in Salt Lake City, Utah, USA (Marriott City Creek Center) per sigchi.org. All CSCW 2026 fixed paper deadlines have already passed (initial submission May 14, 2025 12:00 EDT; first revision Sep 16, 2025 AoE; second revision Jan 13, 2026 AoE), so CSCW 2026 is no longer accepting new papers. The 2026 cycle was the LAST fixed-deadline cycle.\n\nCSCW 2027 dates and location are not yet announced. A \"soft launch\" rolling experiment runs during 2026 (acm-cscw.medium.com) with full rolling submissions for CSCW 2027 & beyond. Cross-checked across the official CSCW rolling CFP, the CSCW 2026 papers page, and the SIGCHI upcoming-conferences calendar."
+    },
+    {
+      "venue": "GROUP",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "ACM International Conference on Supporting Group Work",
+      "deadline_label": "Wave 2 Abstract & Title",
+      "deadline_date": "2026-03-17T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "January 10-13, 2027",
+      "place": "St. Simons Island, Georgia, USA",
+      "website": "https://group.acm.org/conferences/group27/",
+      "status": "announced",
+      "source": "https://group.acm.org/conferences/group27/papers.php ; https://www.getpaperpilot.com/deadlines/group-2027.html ; https://sigchi.org/events/group-2027/ ; https://www.myhuiban.com/conference/880",
+      "notes": "GROUP is biennial (held in odd years: GROUP 2023, 2025, 2027). GROUP 2027 will be held in person at the Sea Palms Resort and Conference Center, St. Simons Island, Georgia, USA, Jan 10-13, 2027. The main Papers track (PACMHCI) used TWO submission waves, each with a 2-round review: Wave 1 — Abstract 2025-07-08, Full paper 2025-07-15 (AoE); Wave 2 — Abstract 2026-03-17, Full paper 2026-03-24 (AoE). Both waves' deadlines have already PASSED relative to today (2026-06-04); there is no remaining future main-paper deadline for GROUP 2027. The listed deadlines are the most recent (now-closed) main-paper round and are reported for reference. The NEXT edition with a future deadline would be GROUP 2029, which has NOT yet been announced (no dates/location/CfP available as of 2026-06-04). All deadlines stated as 23:59 AoE (UTC-12) on the official site. Wave 2 acceptances appear in PACMHCI in early 2027. The official group.acm.org site returns HTTP 403 to automated fetch; details cross-confirmed via PaperPilot tracker, SIGCHI events page, and myhuiban, all consistent with the official CfP text surfaced in search snippets."
+    },
+    {
+      "venue": "GROUP",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "ACM International Conference on Supporting Group Work",
+      "deadline_label": "Wave 2 Full Paper",
+      "deadline_date": "2026-03-24T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "January 10-13, 2027",
+      "place": "St. Simons Island, Georgia, USA",
+      "website": "https://group.acm.org/conferences/group27/",
+      "status": "announced",
+      "source": "https://group.acm.org/conferences/group27/papers.php ; https://www.getpaperpilot.com/deadlines/group-2027.html ; https://sigchi.org/events/group-2027/ ; https://www.myhuiban.com/conference/880",
+      "notes": "GROUP is biennial (held in odd years: GROUP 2023, 2025, 2027). GROUP 2027 will be held in person at the Sea Palms Resort and Conference Center, St. Simons Island, Georgia, USA, Jan 10-13, 2027. The main Papers track (PACMHCI) used TWO submission waves, each with a 2-round review: Wave 1 — Abstract 2025-07-08, Full paper 2025-07-15 (AoE); Wave 2 — Abstract 2026-03-17, Full paper 2026-03-24 (AoE). Both waves' deadlines have already PASSED relative to today (2026-06-04); there is no remaining future main-paper deadline for GROUP 2027. The listed deadlines are the most recent (now-closed) main-paper round and are reported for reference. The NEXT edition with a future deadline would be GROUP 2029, which has NOT yet been announced (no dates/location/CfP available as of 2026-06-04). All deadlines stated as 23:59 AoE (UTC-12) on the official site. Wave 2 acceptances appear in PACMHCI in early 2027. The official group.acm.org site returns HTTP 403 to automated fetch; details cross-confirmed via PaperPilot tracker, SIGCHI events page, and myhuiban, all consistent with the official CfP text surfaced in search snippets."
+    },
+    {
+      "venue": "HCOMP",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "AAAI Conference on Human Computation and Crowdsourcing (HCOMP) — rebranded for 2026 as the ACM Conference on Human-AI Complementarity and Alignment",
+      "deadline_label": "Abstract",
+      "deadline_date": "2026-06-08T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "September 27-30, 2026",
+      "place": "Near Washington, DC, USA (Virginia Tech Academic Building One)",
+      "website": "https://hcomp.acm.org/2026/",
+      "status": "announced",
+      "source": "https://hcomp.acm.org/2026/",
+      "notes": "Next upcoming edition is HCOMP 2026, held Sept 27-30, 2026 near Washington DC at Virginia Tech, co-located and tightly integrated with the 2026 ACM Collective Intelligence (CI) Conference (joint CFP, theme \"Connections\"). Original CFP deadlines were abstract June 1 / full paper June 8 (AoE); both were officially EXTENDED by one week to abstract June 8 and full paper June 15 (AoE), per the official site. Both deadlines are still in the future relative to 2026-06-04. Times stated only as date + AoE (11:59pm AoE assumed). Note: for 2026 the venue has been rebranded under ACM as the \"Conference on Human-AI Complementarity and Alignment\" but it is the continuation of the HCOMP series (formerly under AAAI). HCOMP 2027 details not yet announced. Cross-checked: official hcomp.acm.org/2026 site, SIGWEB call for participation, WikiCFP (eventid=195395), crowd-hcomp Google Group CFP, and ci.acm.org/2026."
+    },
+    {
+      "venue": "HCOMP",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "AAAI Conference on Human Computation and Crowdsourcing (HCOMP) — rebranded for 2026 as the ACM Conference on Human-AI Complementarity and Alignment",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-06-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "September 27-30, 2026",
+      "place": "Near Washington, DC, USA (Virginia Tech Academic Building One)",
+      "website": "https://hcomp.acm.org/2026/",
+      "status": "announced",
+      "source": "https://hcomp.acm.org/2026/",
+      "notes": "Next upcoming edition is HCOMP 2026, held Sept 27-30, 2026 near Washington DC at Virginia Tech, co-located and tightly integrated with the 2026 ACM Collective Intelligence (CI) Conference (joint CFP, theme \"Connections\"). Original CFP deadlines were abstract June 1 / full paper June 8 (AoE); both were officially EXTENDED by one week to abstract June 8 and full paper June 15 (AoE), per the official site. Both deadlines are still in the future relative to 2026-06-04. Times stated only as date + AoE (11:59pm AoE assumed). Note: for 2026 the venue has been rebranded under ACM as the \"Conference on Human-AI Complementarity and Alignment\" but it is the continuation of the HCOMP series (formerly under AAAI). HCOMP 2027 details not yet announced. Cross-checked: official hcomp.acm.org/2026 site, SIGWEB call for participation, WikiCFP (eventid=195395), crowd-hcomp Google Group CFP, and ci.acm.org/2026."
+    },
+    {
+      "venue": "CI",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "ACM Collective Intelligence Conference",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-06-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "September 27-30, 2026",
+      "place": "Near Washington, DC, USA (Virginia Tech Academic Building One)",
+      "website": "https://ci.acm.org/2026/",
+      "status": "announced",
+      "source": "https://ci.acm.org/2026/cfp.html",
+      "notes": "CI 2026 (14th ACM Collective Intelligence Conference) is held Sep 27-30, 2026 at Virginia Tech's Academic Building One near Washington, DC, co-located and integrated with HCOMP 2026. Full-paper deadline Jun 15, 2026 (AoE)."
+    },
+    {
+      "venue": "ASONAM",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "International Conference on Advances in Social Networks Analysis and Mining",
+      "deadline_label": "Research Track Full Paper",
+      "deadline_date": "2026-05-10T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 24-27, 2026",
+      "place": "Rabat, Morocco",
+      "website": "https://asonam.cpsc.ucalgary.ca/2026/",
+      "status": "announced",
+      "source": "https://asonam.cpsc.ucalgary.ca/2026/CFP.php",
+      "notes": "ASONAM 2026 (18th, IEEE/ACM) is held in Rabat, Morocco, Aug 24-27, 2026 — the dedicated venue for social network analysis and mining. Research-track full-paper deadline May 10, 2026 (AoE), already passed; a continuous SNAM journal track runs until May 31, 2026. Conference itself still upcoming."
+    },
+    {
+      "venue": "ECSCW",
+      "year": 2026,
+      "area": "HCI",
+      "fullName": "European Conference on Computer-Supported Cooperative Work (EUSSET)",
+      "deadline_label": "Conference & Exploratory Papers",
+      "deadline_date": "2026-03-06T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 29 – July 3, 2026",
+      "place": "Munich, Germany",
+      "website": "https://ecscw.eusset.eu/2026/",
+      "status": "announced",
+      "source": "https://ecscw.eusset.eu/2026/2025/09/29/ecscw-2026-call-for-papers/",
+      "notes": "ECSCW 2026 (24th EUSSET Conference on CSCW) is held in Munich, Germany, Jun 29 – Jul 3, 2026. Conference & exploratory papers deadline Mar 6, 2026; demos/posters Mar 20, 2026 (AoE). Both paper deadlines have passed; conference still upcoming. Papers appear in PACM HCI."
+    },
+    {
+      "venue": "ECSCW",
+      "year": 2026,
+      "area": "HCI",
+      "fullName": "European Conference on Computer-Supported Cooperative Work (EUSSET)",
+      "deadline_label": "Demos & Posters",
+      "deadline_date": "2026-03-20T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 29 – July 3, 2026",
+      "place": "Munich, Germany",
+      "website": "https://ecscw.eusset.eu/2026/",
+      "status": "announced",
+      "source": "https://ecscw.eusset.eu/2026/2025/09/29/ecscw-2026-call-for-papers/",
+      "notes": "ECSCW 2026 (24th EUSSET Conference on CSCW) is held in Munich, Germany, Jun 29 – Jul 3, 2026. Conference & exploratory papers deadline Mar 6, 2026; demos/posters Mar 20, 2026 (AoE). Both paper deadlines have passed; conference still upcoming. Papers appear in PACM HCI."
+    },
+    {
+      "venue": "iConference",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "iConference (iSchools)",
+      "deadline_label": "Full Research Papers",
+      "deadline_date": "2025-09-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 29 – April 2, 2026",
+      "place": "Edinburgh, United Kingdom (Edinburgh Napier University)",
+      "website": "https://www.ischools.org/iconference",
+      "status": "past",
+      "source": "https://www.ischools.org/post/iconference-2026-call-for-papers",
+      "notes": "Past edition. iConference 2026 (21st) was hosted by Edinburgh Napier University, UK; on-site program Mar 29 – Apr 2, 2026 (virtual Mar 23-26, 2026). Full-research-paper deadline Sep 15, 2025."
+    },
+    {
+      "venue": "CSCW",
+      "year": 2025,
+      "area": "SC",
+      "fullName": "ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+      "deadline_label": "Submission (final cycle)",
+      "deadline_date": "2024-10-29T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 18-22, 2025",
+      "place": "Bergen, Norway",
+      "website": "https://cscw.acm.org/2025/",
+      "status": "past",
+      "source": "https://cscw.acm.org/2025/",
+      "notes": "Past edition. CSCW 2025 (28th) was held at Grieghallen, Bergen, Norway, Oct 18-22, 2025. The final-cycle paper submission deadline was Oct 29, 2024 (AoE), notifications Feb 12, 2025."
+    },
+    {
+      "venue": "SBP-BRiMS",
+      "year": 2025,
+      "area": "SC",
+      "fullName": "International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2025-07-02T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 15-17, 2025",
+      "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
+      "website": "https://sbp-brims.org/2025/",
+      "status": "past",
+      "source": "https://sbp-brims.org/2025/",
+      "notes": "Past edition. SBP-BRiMS 2025 was held at Carnegie Mellon University, Pittsburgh, Oct 15-17, 2025. Full-paper deadline Jul 2, 2025 (AoE)."
+    },
+    {
+      "venue": "UIST",
+      "year": 2025,
+      "area": "HCI",
+      "fullName": "ACM Symposium on User Interface Software and Technology",
+      "deadline_label": "Abstract registration",
+      "deadline_date": "2025-04-02T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "September 28 – October 1, 2025",
+      "place": "Busan, Republic of Korea",
+      "website": "https://uist.acm.org/2025/",
+      "status": "past",
+      "source": "https://uist.acm.org/2025/cfp/",
+      "notes": "Past edition. UIST 2025 (38th) was held in Busan, Republic of Korea, Sep 28 – Oct 1, 2025. Mandatory paper abstract registration Apr 2, 2025 (AoE), full papers a few days later."
+    },
+    {
+      "venue": "UIST",
+      "year": 2025,
+      "area": "HCI",
+      "fullName": "ACM Symposium on User Interface Software and Technology",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2025-04-09T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "September 28 – October 1, 2025",
+      "place": "Busan, Republic of Korea",
+      "website": "https://uist.acm.org/2025/",
+      "status": "past",
+      "source": "https://uist.acm.org/2025/cfp/",
+      "notes": "Past edition. UIST 2025 (38th) was held in Busan, Republic of Korea, Sep 28 – Oct 1, 2025. Mandatory paper abstract registration Apr 2, 2025 (AoE), full papers a few days later."
+    },
+    {
+      "venue": "ASONAM",
+      "year": 2025,
+      "area": "SC",
+      "fullName": "International Conference on Advances in Social Networks Analysis and Mining",
+      "deadline_label": "Research Track Full Paper (extended)",
+      "deadline_date": "2025-05-18T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 25-28, 2025",
+      "place": "Niagara Falls, Ontario, Canada",
+      "website": "https://asonam.cpsc.ucalgary.ca/2025/",
+      "status": "past",
+      "source": "https://asonam.cpsc.ucalgary.ca/2025/CFP.php",
+      "notes": "Past edition. ASONAM 2025 (17th, IEEE/ACM) was held at Embassy Suites, Niagara Falls, Ontario, Canada, Aug 25-28, 2025. Research-track full-paper deadline (extended) May 18, 2025 (AoE)."
+    },
+    {
+      "venue": "KDD",
+      "year": 2025,
+      "area": "WS",
+      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "deadline_label": "Full Paper (Cycle 1)",
+      "deadline_date": "2024-08-08T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 3-7, 2025",
+      "place": "Toronto, Canada",
+      "website": "https://kdd2025.kdd.org/",
+      "status": "past",
+      "source": "https://kdd2025.kdd.org/research-track-call-for-papers/",
+      "notes": "Past edition. KDD 2025 (31st) was held in Toronto, Canada, Aug 3-7, 2025. Two research-track cycles: Cycle 1 abstract Aug 1 / paper Aug 8, 2024; Cycle 2 abstract Feb 1 / paper Feb 8, 2025 (AoE)."
+    },
+    {
+      "venue": "KDD",
+      "year": 2025,
+      "area": "WS",
+      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "deadline_label": "Full Paper (Cycle 2)",
+      "deadline_date": "2025-02-10T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 3-7, 2025",
+      "place": "Toronto, Canada",
+      "website": "https://kdd2025.kdd.org/",
+      "status": "past",
+      "source": "https://kdd2025.kdd.org/research-track-call-for-papers/",
+      "notes": "Past edition. KDD 2025 (31st) was held in Toronto, Canada, Aug 3-7, 2025. Two research-track cycles: Cycle 1 abstract Aug 1 / paper Aug 8, 2024; Cycle 2 abstract Feb 1 / paper Feb 8, 2025 (AoE)."
+    },
+    {
+      "venue": "CI",
+      "year": 2025,
+      "area": "SC",
+      "fullName": "ACM Collective Intelligence Conference",
+      "deadline_label": "Full Paper / Extended Abstract",
+      "deadline_date": "2025-04-01T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 4-6, 2025",
+      "place": "La Jolla, CA, USA (UC San Diego)",
+      "website": "https://ci.acm.org/2025/",
+      "status": "past",
+      "source": "https://ci.acm.org/2025/submit/",
+      "notes": "Past edition. CI 2025 (13th ACM Collective Intelligence Conference) was held at UC San Diego, La Jolla, Aug 4-6, 2025 (workshops Aug 4). Full-paper / extended-abstract deadline Apr 1, 2025 (AoE)."
+    },
+    {
+      "venue": "IC2S2",
+      "year": 2025,
+      "area": "SC",
+      "fullName": "International Conference on Computational Social Science",
+      "deadline_label": "Abstract (extended abstract, max 2 pages)",
+      "deadline_date": "2025-02-26T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "July 21-24, 2025",
+      "place": "Norrköping, Sweden",
+      "website": "https://ic2s2-2025.org/",
+      "status": "past",
+      "source": "https://ic2s2-2025.org/",
+      "notes": "Past edition. IC2S2 2025 (11th) was held in Norrköping, Sweden, Jul 21-24, 2025 (tutorials Jul 21, main Jul 22-24). Extended-abstract deadline Feb 26, 2025 (AoE)."
+    },
+    {
+      "venue": "DIS",
+      "year": 2025,
+      "area": "HCI",
+      "fullName": "ACM Conference on Designing Interactive Systems",
+      "deadline_label": "Abstract",
+      "deadline_date": "2025-01-13T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "July 5-9, 2025",
+      "place": "Funchal, Madeira, Portugal",
+      "website": "https://dis.acm.org/2025/",
+      "status": "past",
+      "source": "https://dis.acm.org/2025/call-for-papers/",
+      "notes": "Past edition. DIS 2025 was held in Funchal, Madeira, Portugal, Jul 5-9, 2025. Abstract/metadata deadline Jan 13, 2025; full paper Jan 20, 2025 (AoE)."
+    },
+    {
+      "venue": "DIS",
+      "year": 2025,
+      "area": "HCI",
+      "fullName": "ACM Conference on Designing Interactive Systems",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2025-01-20T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "July 5-9, 2025",
+      "place": "Funchal, Madeira, Portugal",
+      "website": "https://dis.acm.org/2025/",
+      "status": "past",
+      "source": "https://dis.acm.org/2025/call-for-papers/",
+      "notes": "Past edition. DIS 2025 was held in Funchal, Madeira, Portugal, Jul 5-9, 2025. Abstract/metadata deadline Jan 13, 2025; full paper Jan 20, 2025 (AoE)."
+    },
+    {
+      "venue": "ECSCW",
+      "year": 2025,
+      "area": "HCI",
+      "fullName": "European Conference on Computer-Supported Cooperative Work (EUSSET)",
+      "deadline_label": "Conference Papers (extended)",
+      "deadline_date": "2025-02-25T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 30 – July 4, 2025",
+      "place": "Newcastle upon Tyne, United Kingdom",
+      "website": "https://ecscw.eusset.eu/2025/",
+      "status": "past",
+      "source": "https://ecscw.eusset.eu/2025/index.php/conference-papers/",
+      "notes": "Past edition. ECSCW 2025 (23rd EUSSET Conference on CSCW) was held in Newcastle upon Tyne, UK, Jun 30 – Jul 4, 2025. Conference-papers deadline Feb 18, 2025, extended to Feb 25, 2025 (AoE)."
+    },
+    {
+      "venue": "ICWSM",
+      "year": 2025,
+      "area": "WS",
+      "fullName": "International AAAI Conference on Web and Social Media",
+      "deadline_label": "Round 2 Full Paper",
+      "deadline_date": "2024-09-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 23-26, 2025",
+      "place": "Copenhagen, Denmark",
+      "website": "https://www.icwsm.org/2025/",
+      "status": "past",
+      "source": "https://www.icwsm.org/2025/",
+      "notes": "Past edition. ICWSM 2025 (19th) was held in Copenhagen, Denmark, Jun 23-26, 2025. Rolling 3-round review; Round 2 closed Sep 15, 2024 and the final Round 3 Jan 15, 2025 (AoE)."
+    },
+    {
+      "venue": "ICWSM",
+      "year": 2025,
+      "area": "WS",
+      "fullName": "International AAAI Conference on Web and Social Media",
+      "deadline_label": "Round 3 Full Paper",
+      "deadline_date": "2025-01-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 23-26, 2025",
+      "place": "Copenhagen, Denmark",
+      "website": "https://www.icwsm.org/2025/",
+      "status": "past",
+      "source": "https://www.icwsm.org/2025/",
+      "notes": "Past edition. ICWSM 2025 (19th) was held in Copenhagen, Denmark, Jun 23-26, 2025. Rolling 3-round review; Round 2 closed Sep 15, 2024 and the final Round 3 Jan 15, 2025 (AoE)."
+    },
+    {
+      "venue": "AAMAS",
+      "year": 2025,
+      "area": "SC",
+      "fullName": "International Conference on Autonomous Agents and Multiagent Systems",
+      "deadline_label": "Abstract (Main Track)",
+      "deadline_date": "2024-10-09T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 19-23, 2025",
+      "place": "Detroit, Michigan, USA",
+      "website": "https://aamas2025.org/",
+      "status": "past",
+      "source": "https://aamas2025.org/index.php/conference/calls/call-for-papers-main-technical-track/",
+      "notes": "Past edition. AAMAS 2025 (24th) was held in Detroit, Michigan, USA, May 19-23, 2025. Main-track abstract deadline Oct 9, 2024; full paper Oct 16, 2024 (AoE)."
+    },
+    {
+      "venue": "AAMAS",
+      "year": 2025,
+      "area": "SC",
+      "fullName": "International Conference on Autonomous Agents and Multiagent Systems",
+      "deadline_label": "Full Paper (Main Track)",
+      "deadline_date": "2024-10-16T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 19-23, 2025",
+      "place": "Detroit, Michigan, USA",
+      "website": "https://aamas2025.org/",
+      "status": "past",
+      "source": "https://aamas2025.org/index.php/conference/calls/call-for-papers-main-technical-track/",
+      "notes": "Past edition. AAMAS 2025 (24th) was held in Detroit, Michigan, USA, May 19-23, 2025. Main-track abstract deadline Oct 9, 2024; full paper Oct 16, 2024 (AoE)."
+    },
+    {
+      "venue": "WWW",
+      "year": 2025,
+      "area": "WS",
+      "fullName": "The Web Conference (ACM Web Conference)",
+      "deadline_label": "Abstract",
+      "deadline_date": "2024-10-07T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "April 28 – May 2, 2025",
+      "place": "Sydney, Australia",
+      "website": "https://www2025.thewebconf.org/",
+      "status": "past",
+      "source": "https://www2025.thewebconf.org/",
+      "notes": "Past edition. The Web Conference 2025 was held at the ICC Sydney, Australia, Apr 28 – May 2, 2025. Research-track abstracts due Oct 7, 2024; full papers Oct 14, 2024 (AoE)."
+    },
+    {
+      "venue": "WWW",
+      "year": 2025,
+      "area": "WS",
+      "fullName": "The Web Conference (ACM Web Conference)",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2024-10-14T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "April 28 – May 2, 2025",
+      "place": "Sydney, Australia",
+      "website": "https://www2025.thewebconf.org/",
+      "status": "past",
+      "source": "https://www2025.thewebconf.org/",
+      "notes": "Past edition. The Web Conference 2025 was held at the ICC Sydney, Australia, Apr 28 – May 2, 2025. Research-track abstracts due Oct 7, 2024; full papers Oct 14, 2024 (AoE)."
+    },
+    {
+      "venue": "CHI",
+      "year": 2025,
+      "area": "HCI",
+      "fullName": "ACM CHI Conference on Human Factors in Computing Systems",
+      "deadline_label": "Abstract",
+      "deadline_date": "2024-09-05T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "April 26 – May 1, 2025",
+      "place": "Yokohama, Japan",
+      "website": "https://chi2025.acm.org/",
+      "status": "past",
+      "source": "https://chi2025.acm.org/for-authors/papers/",
+      "notes": "Past edition. CHI 2025 was held at PACIFICO Yokohama, Japan, Apr 26 – May 1, 2025. Paper abstract deadline Sep 5, 2024; full paper Sep 12, 2024 (AoE)."
+    },
+    {
+      "venue": "CHI",
+      "year": 2025,
+      "area": "HCI",
+      "fullName": "ACM CHI Conference on Human Factors in Computing Systems",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2024-09-12T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "April 26 – May 1, 2025",
+      "place": "Yokohama, Japan",
+      "website": "https://chi2025.acm.org/",
+      "status": "past",
+      "source": "https://chi2025.acm.org/for-authors/papers/",
+      "notes": "Past edition. CHI 2025 was held at PACIFICO Yokohama, Japan, Apr 26 – May 1, 2025. Paper abstract deadline Sep 5, 2024; full paper Sep 12, 2024 (AoE)."
+    },
+    {
+      "venue": "CHIIR",
+      "year": 2025,
+      "area": "HCI",
+      "fullName": "ACM SIGIR Conference on Human Information Interaction and Retrieval",
+      "deadline_label": "Full and Perspective Papers (extended)",
+      "deadline_date": "2024-10-24T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 24-28, 2025",
+      "place": "Melbourne, Australia",
+      "website": "https://chiir2025.github.io/",
+      "status": "past",
+      "source": "https://chiir2025.github.io/cfp.html",
+      "notes": "Past edition. CHIIR 2025 was held in Melbourne, Australia, Mar 24-27, 2025. Full/Perspective papers extended deadline Oct 21, 2024; short papers/demos Oct 31, 2024 (AoE)."
+    },
+    {
+      "venue": "CHIIR",
+      "year": 2025,
+      "area": "HCI",
+      "fullName": "ACM SIGIR Conference on Human Information Interaction and Retrieval",
+      "deadline_label": "Short Papers / Demos (extended)",
+      "deadline_date": "2024-11-04T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 24-28, 2025",
+      "place": "Melbourne, Australia",
+      "website": "https://chiir2025.github.io/",
+      "status": "past",
+      "source": "https://chiir2025.github.io/cfp.html",
+      "notes": "Past edition. CHIIR 2025 was held in Melbourne, Australia, Mar 24-27, 2025. Full/Perspective papers extended deadline Oct 21, 2024; short papers/demos Oct 31, 2024 (AoE)."
+    },
+    {
+      "venue": "WSDM",
+      "year": 2025,
+      "area": "WS",
+      "fullName": "ACM International Conference on Web Search and Data Mining",
+      "deadline_label": "Abstract",
+      "deadline_date": "2024-08-07T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 10-14, 2025",
+      "place": "Hannover, Germany",
+      "website": "https://www.wsdm-conference.org/2025/",
+      "status": "past",
+      "source": "https://www.wsdm-conference.org/2025/call-for-papers/",
+      "notes": "Past edition. WSDM 2025 (18th) was held in Hannover, Germany, Mar 10-14, 2025. Abstract deadline Aug 7, 2024; full paper Aug 14, 2024 (AoE)."
+    },
+    {
+      "venue": "WSDM",
+      "year": 2025,
+      "area": "WS",
+      "fullName": "ACM International Conference on Web Search and Data Mining",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2024-08-14T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 10-14, 2025",
+      "place": "Hannover, Germany",
+      "website": "https://www.wsdm-conference.org/2025/",
+      "status": "past",
+      "source": "https://www.wsdm-conference.org/2025/call-for-papers/",
+      "notes": "Past edition. WSDM 2025 (18th) was held in Hannover, Germany, Mar 10-14, 2025. Abstract deadline Aug 7, 2024; full paper Aug 14, 2024 (AoE)."
+    }
+  ]
+}
