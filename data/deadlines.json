@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-05",
-  "count": 53,
+  "lastUpdated": "2026-07-12",
+  "count": 55,
   "conferences": [
     {
       "venue": "CHI",
@@ -352,14 +352,25 @@
         "WS"
       ],
       "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
-      "place": "",
-      "dates": "",
+      "place": "San Jose, California, USA",
+      "dates": "August 2027 (exact dates not yet announced)",
       "end": null,
-      "website": "https://kdd.org/conferences",
-      "deadlines": [],
-      "status": "unknown",
-      "source": "https://kdd2026.kdd.org/research-track-call-for-papers/ ; https://kdd.org/conferences",
-      "notes": "KDD uses TWO submission cycles per year. For KDD 2026 (Aug 9-13, 2026, Jeju, Korea): Cycle 1 abstract Jul 24 2025 / paper Jul 31 2025; Cycle 2 abstract Feb 1 2026 / paper Feb 8 2026 — BOTH deadlines are in the past relative to 2026-06-04. The next upcoming round is therefore KDD 2027's first cycle. As of 2026-06-04 there is NO official KDD 2027 website or Call for Papers published yet (no kdd2027.kdd.org). The deadlines shown are ESTIMATED from the prior cycle pattern: KDD-2026 Cycle 1 had abstract ~Jul 24 / paper ~Jul 31 of the preceding year, so KDD-2027 Cycle 1 is projected to ~late July 2027 (one year before the conference). All KDD deadlines are end-of-day AoE. Conference dates and location for KDD 2027 are NOT officially confirmed; speculative third-party listings (WikiCFP/submitforge) mention Toronto in August 2027 with conflicting dates (Aug 15-19 vs Aug 25-29), but these are unverified — note KDD 2025 was already held in Toronto. Year set to 2027 because both 2026 cycles have closed. Verify on official KDD site once KDD 2027 CfP is released (typically ~spring/summer 2027)."
+      "website": "https://kdd2027.kdd.org/",
+      "deadlines": [
+        {
+          "label": "Research Track (Cycle 1 Abstract)",
+          "date": "2026-07-19T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Research Track (Cycle 1 Full Paper)",
+          "date": "2026-07-26T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
+      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The conference will be held in August 2027 in San Jose, California; the CFP states only the month and city — exact dates and the venue are still \"to be confirmed\" on the official site, so the `end` field is left null. This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
     },
     {
       "venue": "AAMAS",
@@ -896,6 +907,36 @@
     }
   ],
   "deadlines_flat": [
+    {
+      "venue": "KDD",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "deadline_label": "Research Track (Cycle 1 Abstract)",
+      "deadline_date": "2026-07-19T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 2027 (exact dates not yet announced)",
+      "place": "San Jose, California, USA",
+      "website": "https://kdd2027.kdd.org/",
+      "status": "announced",
+      "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
+      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The conference will be held in August 2027 in San Jose, California; the CFP states only the month and city — exact dates and the venue are still \"to be confirmed\" on the official site, so the `end` field is left null. This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
+    },
+    {
+      "venue": "KDD",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "deadline_label": "Research Track (Cycle 1 Full Paper)",
+      "deadline_date": "2026-07-26T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 2027 (exact dates not yet announced)",
+      "place": "San Jose, California, USA",
+      "website": "https://kdd2027.kdd.org/",
+      "status": "announced",
+      "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
+      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The conference will be held in August 2027 in San Jose, California; the CFP states only the month and city — exact dates and the venue are still \"to be confirmed\" on the official site, so the `end` field is left null. This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
+    },
     {
       "venue": "IMWUT",
       "year": 2026,
