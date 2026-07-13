@@ -3,7 +3,7 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-14",
   "count": 55,
   "conferences": [
     {
@@ -65,7 +65,7 @@
       "place": "Edinburgh, Scotland, United Kingdom",
       "dates": "",
       "end": null,
-      "website": "https://www.icwsm.org/2026/submit.html",
+      "website": "https://www.icwsm.org/2027/",
       "deadlines": [
         {
           "label": "Round 2 Full Paper",
@@ -79,8 +79,8 @@
         }
       ],
       "status": "announced",
-      "source": "https://www.icwsm.org/2026/submit.html",
-      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The three rounds for the ICWSM 2027 edition (Edinburgh) close May 15, 2026; Sept 15, 2026; and Jan 15, 2027, all at 23:59 AoE; papers accepted in any round are presented at ICWSM 2027. The NEXT upcoming round after 2026-06-04 is Round 2 on Sept 15, 2026; Round 1 (May 15, 2026) has already passed. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. For reference, the current ICWSM 2026 edition is in Los Angeles, California (the official 2026 site lives at icwsm.org/2026/). Cross-checked between the official icwsm.org submit page and the LINGUIST List / Facebook announcement confirming Edinburgh 2027."
+      "source": "https://www.icwsm.org/2027/submit/",
+      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The dedicated official ICWSM 2027 site (icwsm.org/2027/) is now LIVE and its submit page confirms the three rounds for the Edinburgh edition (re-verified 2026-07-14): Round 1 May 15, 2026 (passed; notification Jul 15, 2026); Round 2 Sept 15, 2026 (notification Nov 15, 2026); Round 3 Jan 15, 2027 (notification Mar 15, 2027), all at 23:59 AoE. Papers accepted in any of these three rounds are presented at ICWSM 2027; papers that receive an R&R in the January 2027 round will NOT be presented at ICWSM 2027. The NEXT upcoming round is Round 2 on Sept 15, 2026. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. The website/source fields previously pointed at the ICWSM 2026 submit page (icwsm.org/2026/submit.html) because no 2027 site existed; they now point at the official 2027 pages, which state identical round deadlines."
     },
     {
       "venue": "WEBSCI",
@@ -1067,10 +1067,10 @@
       "timezone": "AoE",
       "conference_dates": "",
       "place": "Edinburgh, Scotland, United Kingdom",
-      "website": "https://www.icwsm.org/2026/submit.html",
+      "website": "https://www.icwsm.org/2027/",
       "status": "announced",
-      "source": "https://www.icwsm.org/2026/submit.html",
-      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The three rounds for the ICWSM 2027 edition (Edinburgh) close May 15, 2026; Sept 15, 2026; and Jan 15, 2027, all at 23:59 AoE; papers accepted in any round are presented at ICWSM 2027. The NEXT upcoming round after 2026-06-04 is Round 2 on Sept 15, 2026; Round 1 (May 15, 2026) has already passed. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. For reference, the current ICWSM 2026 edition is in Los Angeles, California (the official 2026 site lives at icwsm.org/2026/). Cross-checked between the official icwsm.org submit page and the LINGUIST List / Facebook announcement confirming Edinburgh 2027."
+      "source": "https://www.icwsm.org/2027/submit/",
+      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The dedicated official ICWSM 2027 site (icwsm.org/2027/) is now LIVE and its submit page confirms the three rounds for the Edinburgh edition (re-verified 2026-07-14): Round 1 May 15, 2026 (passed; notification Jul 15, 2026); Round 2 Sept 15, 2026 (notification Nov 15, 2026); Round 3 Jan 15, 2027 (notification Mar 15, 2027), all at 23:59 AoE. Papers accepted in any of these three rounds are presented at ICWSM 2027; papers that receive an R&R in the January 2027 round will NOT be presented at ICWSM 2027. The NEXT upcoming round is Round 2 on Sept 15, 2026. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. The website/source fields previously pointed at the ICWSM 2026 submit page (icwsm.org/2026/submit.html) because no 2027 site existed; they now point at the official 2027 pages, which state identical round deadlines."
     },
     {
       "venue": "ICWSM",
@@ -1082,10 +1082,10 @@
       "timezone": "AoE",
       "conference_dates": "",
       "place": "Edinburgh, Scotland, United Kingdom",
-      "website": "https://www.icwsm.org/2026/submit.html",
+      "website": "https://www.icwsm.org/2027/",
       "status": "announced",
-      "source": "https://www.icwsm.org/2026/submit.html",
-      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The three rounds for the ICWSM 2027 edition (Edinburgh) close May 15, 2026; Sept 15, 2026; and Jan 15, 2027, all at 23:59 AoE; papers accepted in any round are presented at ICWSM 2027. The NEXT upcoming round after 2026-06-04 is Round 2 on Sept 15, 2026; Round 1 (May 15, 2026) has already passed. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. For reference, the current ICWSM 2026 edition is in Los Angeles, California (the official 2026 site lives at icwsm.org/2026/). Cross-checked between the official icwsm.org submit page and the LINGUIST List / Facebook announcement confirming Edinburgh 2027."
+      "source": "https://www.icwsm.org/2027/submit/",
+      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The dedicated official ICWSM 2027 site (icwsm.org/2027/) is now LIVE and its submit page confirms the three rounds for the Edinburgh edition (re-verified 2026-07-14): Round 1 May 15, 2026 (passed; notification Jul 15, 2026); Round 2 Sept 15, 2026 (notification Nov 15, 2026); Round 3 Jan 15, 2027 (notification Mar 15, 2027), all at 23:59 AoE. Papers accepted in any of these three rounds are presented at ICWSM 2027; papers that receive an R&R in the January 2027 round will NOT be presented at ICWSM 2027. The NEXT upcoming round is Round 2 on Sept 15, 2026. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. The website/source fields previously pointed at the ICWSM 2026 submit page (icwsm.org/2026/submit.html) because no 2027 site existed; they now point at the official 2027 pages, which state identical round deadlines."
     },
     {
       "venue": "iConference",
