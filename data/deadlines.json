@@ -3,7 +3,7 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-14",
+  "lastUpdated": "2026-07-15",
   "count": 55,
   "conferences": [
     {
@@ -352,9 +352,9 @@
         "WS"
       ],
       "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
-      "place": "San Jose, California, USA",
-      "dates": "August 2027 (exact dates not yet announced)",
-      "end": null,
+      "place": "San Jose, California, USA (San Jose McEnery Convention Center)",
+      "dates": "August 1-5, 2027",
+      "end": "2027-08-05",
       "website": "https://kdd2027.kdd.org/",
       "deadlines": [
         {
@@ -370,7 +370,7 @@
       ],
       "status": "announced",
       "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
-      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The conference will be held in August 2027 in San Jose, California; the CFP states only the month and city — exact dates and the venue are still \"to be confirmed\" on the official site, so the `end` field is left null. This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
+      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The CFP also states that \"The submission deadlines are strict and no extensions, regardless of circumstances, will be allowed\" — re-verified against the official Research Track CFP on 2026-07-15 (5 days before the Cycle 1 abstract deadline), with no extension announced. The official site now publishes the exact conference dates and venue (confirmed 2026-07-15): August 1-5, 2027 at the San Jose McEnery Convention Center, San Jose, California, USA; the `end` field and `dates`/`place` are updated accordingly (previously the CFP gave only the month and city). This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
     },
     {
       "venue": "AAMAS",
@@ -765,13 +765,13 @@
       "deadlines": [
         {
           "label": "Full Research Papers",
-          "date": "2026-09-15T23:59:00-12:00",
-          "tz": "AoE"
+          "date": "2026-09-15T23:59:00-11:00",
+          "tz": "GMT-11"
         }
       ],
       "status": "announced",
-      "source": "https://www.ischools.org/post/iconference-2027-to-be-hosted-by-victoria-university-of-wellington",
-      "notes": "iConference 2027 (iSchools) is jointly hosted by Victoria University of Wellington and Monash University; on-site program Apr 5-9, 2027 in Wellington, NZ (virtual Mar 22-25, 2027). First full-research-paper submission deadline Sep 15, 2026."
+      "source": "https://www.ischools.org/full-papers ; https://www.ischools.org/post/iconference-2027-to-be-hosted-by-victoria-university-of-wellington",
+      "notes": "iConference 2027 (iSchools) is jointly hosted by Victoria University of Wellington and Monash University; on-site program Apr 5-9, 2027 in Wellington, NZ (virtual Mar 22-25, 2027). First full-research-paper submission deadline Sep 15, 2026. TIMEZONE CORRECTION (2026-07-15): the official iSchools full-papers CFP states \"Submission deadline: 15 September 2026\" and \"All deadlines are in GMT-11 23:59\" — iConference uses GMT-11, NOT AoE (UTC-12), so the deadline instant is one hour EARLIER than the AoE convention used by most neighbouring entries. This entry previously stored the deadline as 23:59 AoE, overstating the submission window by one hour; it is now stored as 23:59 GMT-11 (UTC-11) per the official source."
     },
     {
       "venue": "CSCW",
@@ -915,12 +915,12 @@
       "deadline_label": "Research Track (Cycle 1 Abstract)",
       "deadline_date": "2026-07-19T23:59:00-12:00",
       "timezone": "AoE",
-      "conference_dates": "August 2027 (exact dates not yet announced)",
-      "place": "San Jose, California, USA",
+      "conference_dates": "August 1-5, 2027",
+      "place": "San Jose, California, USA (San Jose McEnery Convention Center)",
       "website": "https://kdd2027.kdd.org/",
       "status": "announced",
       "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
-      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The conference will be held in August 2027 in San Jose, California; the CFP states only the month and city — exact dates and the venue are still \"to be confirmed\" on the official site, so the `end` field is left null. This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
+      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The CFP also states that \"The submission deadlines are strict and no extensions, regardless of circumstances, will be allowed\" — re-verified against the official Research Track CFP on 2026-07-15 (5 days before the Cycle 1 abstract deadline), with no extension announced. The official site now publishes the exact conference dates and venue (confirmed 2026-07-15): August 1-5, 2027 at the San Jose McEnery Convention Center, San Jose, California, USA; the `end` field and `dates`/`place` are updated accordingly (previously the CFP gave only the month and city). This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
     },
     {
       "venue": "KDD",
@@ -930,12 +930,12 @@
       "deadline_label": "Research Track (Cycle 1 Full Paper)",
       "deadline_date": "2026-07-26T23:59:00-12:00",
       "timezone": "AoE",
-      "conference_dates": "August 2027 (exact dates not yet announced)",
-      "place": "San Jose, California, USA",
+      "conference_dates": "August 1-5, 2027",
+      "place": "San Jose, California, USA (San Jose McEnery Convention Center)",
       "website": "https://kdd2027.kdd.org/",
       "status": "announced",
       "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
-      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The conference will be held in August 2027 in San Jose, California; the CFP states only the month and city — exact dates and the venue are still \"to be confirmed\" on the official site, so the `end` field is left null. This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
+      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The CFP also states that \"The submission deadlines are strict and no extensions, regardless of circumstances, will be allowed\" — re-verified against the official Research Track CFP on 2026-07-15 (5 days before the Cycle 1 abstract deadline), with no extension announced. The official site now publishes the exact conference dates and venue (confirmed 2026-07-15): August 1-5, 2027 at the San Jose McEnery Convention Center, San Jose, California, USA; the `end` field and `dates`/`place` are updated accordingly (previously the CFP gave only the month and city). This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
     },
     {
       "venue": "IMWUT",
@@ -1058,6 +1058,21 @@
       "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens July 30, 2026. The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
     },
     {
+      "venue": "iConference",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "iConference (iSchools)",
+      "deadline_label": "Full Research Papers",
+      "deadline_date": "2026-09-15T23:59:00-11:00",
+      "timezone": "GMT-11",
+      "conference_dates": "April 5-9, 2027",
+      "place": "Wellington, New Zealand",
+      "website": "https://www.ischools.org/iconference",
+      "status": "announced",
+      "source": "https://www.ischools.org/full-papers ; https://www.ischools.org/post/iconference-2027-to-be-hosted-by-victoria-university-of-wellington",
+      "notes": "iConference 2027 (iSchools) is jointly hosted by Victoria University of Wellington and Monash University; on-site program Apr 5-9, 2027 in Wellington, NZ (virtual Mar 22-25, 2027). First full-research-paper submission deadline Sep 15, 2026. TIMEZONE CORRECTION (2026-07-15): the official iSchools full-papers CFP states \"Submission deadline: 15 September 2026\" and \"All deadlines are in GMT-11 23:59\" — iConference uses GMT-11, NOT AoE (UTC-12), so the deadline instant is one hour EARLIER than the AoE convention used by most neighbouring entries. This entry previously stored the deadline as 23:59 AoE, overstating the submission window by one hour; it is now stored as 23:59 GMT-11 (UTC-11) per the official source."
+    },
+    {
       "venue": "ICWSM",
       "year": 2027,
       "area": "WS",
@@ -1086,21 +1101,6 @@
       "status": "announced",
       "source": "https://www.icwsm.org/2027/submit/",
       "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The dedicated official ICWSM 2027 site (icwsm.org/2027/) is now LIVE and its submit page confirms the three rounds for the Edinburgh edition (re-verified 2026-07-14): Round 1 May 15, 2026 (passed; notification Jul 15, 2026); Round 2 Sept 15, 2026 (notification Nov 15, 2026); Round 3 Jan 15, 2027 (notification Mar 15, 2027), all at 23:59 AoE. Papers accepted in any of these three rounds are presented at ICWSM 2027; papers that receive an R&R in the January 2027 round will NOT be presented at ICWSM 2027. The NEXT upcoming round is Round 2 on Sept 15, 2026. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. The website/source fields previously pointed at the ICWSM 2026 submit page (icwsm.org/2026/submit.html) because no 2027 site existed; they now point at the official 2027 pages, which state identical round deadlines."
-    },
-    {
-      "venue": "iConference",
-      "year": 2027,
-      "area": "SC",
-      "fullName": "iConference (iSchools)",
-      "deadline_label": "Full Research Papers",
-      "deadline_date": "2026-09-15T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "April 5-9, 2027",
-      "place": "Wellington, New Zealand",
-      "website": "https://www.ischools.org/iconference",
-      "status": "announced",
-      "source": "https://www.ischools.org/post/iconference-2027-to-be-hosted-by-victoria-university-of-wellington",
-      "notes": "iConference 2027 (iSchools) is jointly hosted by Victoria University of Wellington and Monash University; on-site program Apr 5-9, 2027 in Wellington, NZ (virtual Mar 22-25, 2027). First full-research-paper submission deadline Sep 15, 2026."
     },
     {
       "venue": "CHIIR",
