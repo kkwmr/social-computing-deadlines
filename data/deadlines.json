@@ -3,7 +3,7 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-18",
+  "lastUpdated": "2026-07-20",
   "count": 57,
   "conferences": [
     {
@@ -716,7 +716,7 @@
       "deadlines": [
         {
           "label": "Full Paper",
-          "date": "2026-06-15T23:59:00-12:00",
+          "date": "2026-06-22T23:59:00-12:00",
           "tz": "AoE"
         },
         {
@@ -726,8 +726,8 @@
         }
       ],
       "status": "announced",
-      "source": "https://sbp-brims.org/2026/",
-      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 15, 2026; working papers / challenge Aug 21, 2026 (AoE)."
+      "source": "https://sbp-brims.org/2026/cfp/ ; https://sbp-brims.org/2026/",
+      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 22, 2026 (both the official CFP page sbp-brims.org/2026/cfp/ and the homepage list \"22-Jun-2026\", author notification 15-Jul-2026, final files 26-Jul-2026); this supersedes an earlier Jun 15, 2026 date that still appears on the stale EasyChair CFP mirror, so the deadline was evidently extended by a week. Working papers / challenge / panels / tutorials Aug 21, 2026 (confirmed on the CFP). Timezone not stated on the official CFP; AoE assumed per neighboring entries. Both paper deadlines are now past; conference still upcoming. Re-verified 2026-07-20."
     },
     {
       "venue": "ASONAM",
@@ -1060,14 +1060,14 @@
       "area": "SC",
       "fullName": "International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation",
       "deadline_label": "Full Paper",
-      "deadline_date": "2026-06-15T23:59:00-12:00",
+      "deadline_date": "2026-06-22T23:59:00-12:00",
       "timezone": "AoE",
       "conference_dates": "October 12-14, 2026",
       "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
       "website": "https://sbp-brims.org/2026/",
       "status": "announced",
-      "source": "https://sbp-brims.org/2026/",
-      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 15, 2026; working papers / challenge Aug 21, 2026 (AoE)."
+      "source": "https://sbp-brims.org/2026/cfp/ ; https://sbp-brims.org/2026/",
+      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 22, 2026 (both the official CFP page sbp-brims.org/2026/cfp/ and the homepage list \"22-Jun-2026\", author notification 15-Jul-2026, final files 26-Jul-2026); this supersedes an earlier Jun 15, 2026 date that still appears on the stale EasyChair CFP mirror, so the deadline was evidently extended by a week. Working papers / challenge / panels / tutorials Aug 21, 2026 (confirmed on the CFP). Timezone not stated on the official CFP; AoE assumed per neighboring entries. Both paper deadlines are now past; conference still upcoming. Re-verified 2026-07-20."
     },
     {
       "venue": "SBP-BRiMS",
@@ -1081,8 +1081,8 @@
       "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
       "website": "https://sbp-brims.org/2026/",
       "status": "announced",
-      "source": "https://sbp-brims.org/2026/",
-      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 15, 2026; working papers / challenge Aug 21, 2026 (AoE)."
+      "source": "https://sbp-brims.org/2026/cfp/ ; https://sbp-brims.org/2026/",
+      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 22, 2026 (both the official CFP page sbp-brims.org/2026/cfp/ and the homepage list \"22-Jun-2026\", author notification 15-Jul-2026, final files 26-Jul-2026); this supersedes an earlier Jun 15, 2026 date that still appears on the stale EasyChair CFP mirror, so the deadline was evidently extended by a week. Working papers / challenge / panels / tutorials Aug 21, 2026 (confirmed on the CFP). Timezone not stated on the official CFP; AoE assumed per neighboring entries. Both paper deadlines are now past; conference still upcoming. Re-verified 2026-07-20."
     },
     {
       "venue": "CHI",
