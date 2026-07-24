@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-20",
-  "count": 57,
+  "lastUpdated": "2026-07-25",
+  "count": 59,
   "conferences": [
     {
       "venue": "CHI",
@@ -414,6 +414,33 @@
       "status": "unknown",
       "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/ ; https://cyprusconferences.org/aamas2026/important-dates/",
       "notes": "AAMAS 2026 (25th edition) was held May 25-29, 2026 in Paphos, Cyprus, so it is now in the past (today is 2026-06-04). The NEXT edition is AAMAS 2027 (26th), confirmed by the official conference site hosted at Warwick: Hanoi, Vietnam, May 3-7, 2027, at the JW Marriott Hotel. The official site lists the main paper submission deadline only as \"Oct 2026 (TBC)\" — not yet finalized. The deadline above (2026-11-05, AoE) is ESTIMATED from the AAMAS 2026 main-track cycle, where the full paper deadline was Nov 5, 2025 (about 6 months before the May conference); AAMAS 2027 is again in early May, so an Oct/early-Nov 2026 deadline is consistent. AAMAS typically uses a single full-paper deadline (no separate abstract pre-registration in the main cycle) with all deadlines at end of day Anywhere on Earth (UTC-12). Note: one aggregator (mlciv/ai-deadlines) showed an incorrect \"Thessaloniki, Greece, April 6-9, 2027\" entry which contradicts the official Warwick site and appears to be erroneous; the Hanoi/May dates are authoritative. Check the official site again after Oct 2026 for the confirmed deadline and detailed important dates (rebuttal, notification, camera-ready)."
+    },
+    {
+      "venue": "FAccT",
+      "year": 2027,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM Conference on Fairness, Accountability, and Transparency",
+      "place": "",
+      "dates": "June 21-24, 2027",
+      "end": "2027-06-24",
+      "website": "https://facctconference.org/2027/cfp.html",
+      "deadlines": [
+        {
+          "label": "Abstract",
+          "date": "2026-10-27T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2026-11-03T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://facctconference.org/2027/cfp.html",
+      "notes": "ACM FAccT is the ACM Conference on Fairness, Accountability, and Transparency — a major interdisciplinary venue on the societal impacts of algorithmic and sociotechnical systems (algorithmic, critical, human-centered, legal, philosophical, sociological, statistical, and theoretical work all in scope), classified here under \"HCI & Society\". FAccT 2026 (Montreal, Canada, Le Centre Sheraton Montréal, June 25-28, 2026) has concluded, so the next edition is FAccT 2027. The official FAccT 2027 CFP (facctconference.org/2027/cfp.html) is OPEN and publishes the following dates, all at 11:59 PM Anywhere on Earth (AoE): abstract submission Oct 27, 2026; full paper submission Nov 3, 2026; initial review decisions (accept/revise/reject) Dec 22, 2026; revision & rebuttal due Jan 28, 2027; final decisions Mar 23, 2027; camera-ready TBD. FAccT uses a two-stage submission (abstract one week before the full paper) followed by a revise-and-resubmit round. The conference is scheduled for June 21-24, 2027; the host city/country for 2027 has NOT yet been officially announced (the CFP lists only the dates), so the place field is left empty pending the announcement. Added 2026-07-25 (new) from the official FAccT 2027 CFP; the /2027/ index page currently 404s while the cfp.html page is live. Re-verify the location and any workshop/tutorial/CRAFT deadlines once the full FAccT 2027 site is published."
     },
     {
       "venue": "CHI",
@@ -1248,6 +1275,36 @@
       "status": "announced",
       "source": "https://acmweb2027.org/ ; https://acmweb2027.org/important-dates/",
       "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). The official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates (confirmed 2026-07-05): abstract submission Oct 11, 2026 and full paper submission Oct 18, 2026; notification Dec 10, 2026, rebuttal Dec 12-19, 2026, camera-ready Jan 31, 2027. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round after today (2026-07-05) is the Oct 11, 2026 abstract deadline followed by the Oct 18, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
+    },
+    {
+      "venue": "FAccT",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Fairness, Accountability, and Transparency",
+      "deadline_label": "Abstract",
+      "deadline_date": "2026-10-27T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 21-24, 2027",
+      "place": "",
+      "website": "https://facctconference.org/2027/cfp.html",
+      "status": "announced",
+      "source": "https://facctconference.org/2027/cfp.html",
+      "notes": "ACM FAccT is the ACM Conference on Fairness, Accountability, and Transparency — a major interdisciplinary venue on the societal impacts of algorithmic and sociotechnical systems (algorithmic, critical, human-centered, legal, philosophical, sociological, statistical, and theoretical work all in scope), classified here under \"HCI & Society\". FAccT 2026 (Montreal, Canada, Le Centre Sheraton Montréal, June 25-28, 2026) has concluded, so the next edition is FAccT 2027. The official FAccT 2027 CFP (facctconference.org/2027/cfp.html) is OPEN and publishes the following dates, all at 11:59 PM Anywhere on Earth (AoE): abstract submission Oct 27, 2026; full paper submission Nov 3, 2026; initial review decisions (accept/revise/reject) Dec 22, 2026; revision & rebuttal due Jan 28, 2027; final decisions Mar 23, 2027; camera-ready TBD. FAccT uses a two-stage submission (abstract one week before the full paper) followed by a revise-and-resubmit round. The conference is scheduled for June 21-24, 2027; the host city/country for 2027 has NOT yet been officially announced (the CFP lists only the dates), so the place field is left empty pending the announcement. Added 2026-07-25 (new) from the official FAccT 2027 CFP; the /2027/ index page currently 404s while the cfp.html page is live. Re-verify the location and any workshop/tutorial/CRAFT deadlines once the full FAccT 2027 site is published."
+    },
+    {
+      "venue": "FAccT",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Fairness, Accountability, and Transparency",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-11-03T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 21-24, 2027",
+      "place": "",
+      "website": "https://facctconference.org/2027/cfp.html",
+      "status": "announced",
+      "source": "https://facctconference.org/2027/cfp.html",
+      "notes": "ACM FAccT is the ACM Conference on Fairness, Accountability, and Transparency — a major interdisciplinary venue on the societal impacts of algorithmic and sociotechnical systems (algorithmic, critical, human-centered, legal, philosophical, sociological, statistical, and theoretical work all in scope), classified here under \"HCI & Society\". FAccT 2026 (Montreal, Canada, Le Centre Sheraton Montréal, June 25-28, 2026) has concluded, so the next edition is FAccT 2027. The official FAccT 2027 CFP (facctconference.org/2027/cfp.html) is OPEN and publishes the following dates, all at 11:59 PM Anywhere on Earth (AoE): abstract submission Oct 27, 2026; full paper submission Nov 3, 2026; initial review decisions (accept/revise/reject) Dec 22, 2026; revision & rebuttal due Jan 28, 2027; final decisions Mar 23, 2027; camera-ready TBD. FAccT uses a two-stage submission (abstract one week before the full paper) followed by a revise-and-resubmit round. The conference is scheduled for June 21-24, 2027; the host city/country for 2027 has NOT yet been officially announced (the CFP lists only the dates), so the place field is left empty pending the announcement. Added 2026-07-25 (new) from the official FAccT 2027 CFP; the /2027/ index page currently 404s while the cfp.html page is live. Re-verify the location and any workshop/tutorial/CRAFT deadlines once the full FAccT 2027 site is published."
     },
     {
       "venue": "DIS",
