@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-25",
-  "count": 59,
+  "lastUpdated": "2026-07-27",
+  "count": 61,
   "conferences": [
     {
       "venue": "CHI",
@@ -441,6 +441,50 @@
       "status": "announced",
       "source": "https://facctconference.org/2027/cfp.html",
       "notes": "ACM FAccT is the ACM Conference on Fairness, Accountability, and Transparency — a major interdisciplinary venue on the societal impacts of algorithmic and sociotechnical systems (algorithmic, critical, human-centered, legal, philosophical, sociological, statistical, and theoretical work all in scope), classified here under \"HCI & Society\". FAccT 2026 (Montreal, Canada, Le Centre Sheraton Montréal, June 25-28, 2026) has concluded, so the next edition is FAccT 2027. The official FAccT 2027 CFP (facctconference.org/2027/cfp.html) is OPEN and publishes the following dates, all at 11:59 PM Anywhere on Earth (AoE): abstract submission Oct 27, 2026; full paper submission Nov 3, 2026; initial review decisions (accept/revise/reject) Dec 22, 2026; revision & rebuttal due Jan 28, 2027; final decisions Mar 23, 2027; camera-ready TBD. FAccT uses a two-stage submission (abstract one week before the full paper) followed by a revise-and-resubmit round. The conference is scheduled for June 21-24, 2027; the host city/country for 2027 has NOT yet been officially announced (the CFP lists only the dates), so the place field is left empty pending the announcement. Added 2026-07-25 (new) from the official FAccT 2027 CFP; the /2027/ index page currently 404s while the cfp.html page is live. Re-verify the location and any workshop/tutorial/CRAFT deadlines once the full FAccT 2027 site is published."
+    },
+    {
+      "venue": "Complex Networks",
+      "year": 2026,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Conference on Complex Networks and their Applications",
+      "place": "Granada, Spain",
+      "dates": "December 2-4, 2026",
+      "end": "2026-12-04",
+      "website": "https://complexnetworks.org/",
+      "deadlines": [
+        {
+          "label": "Full Paper / Extended Abstract",
+          "date": "2026-09-02T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://complexnetworks.org/",
+      "notes": "The 15th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS / CNA 2026) is held in Granada, Spain, December 2-4, 2026 (tutorials December 1). It is a major annual network-science venue whose call for papers explicitly covers social-computing topics — including Social Network Analysis, Social Reputation/Influence and Trust, Information Spreading in Social Media, and Rumor and Viral Marketing — alongside the broader network-science program (dynamics, epidemics, biological, financial, and infrastructure networks); this is why it is tracked here alongside ASONAM and SBP-BRiMS. The official site (complexnetworks.org) lists a single submission deadline of September 2, 2026, 23:59 AoE for BOTH full papers (published in the Springer Studies in Computational Intelligence proceedings) and extended abstracts (presentation only, no proceedings); acceptance notification October 1, 2026; camera-ready October 8, 2026; registration October 15, 2026. Submissions are handled via CMT. The September 2, 2026 deadline is still upcoming relative to today. Added 2026-07-27 (backfill) from the official CNA 2026 site; ignore WASET/other decoy 'Complex Networks' listings, which are unaffiliated."
+    },
+    {
+      "venue": "Hypertext",
+      "year": 2026,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "ACM Conference on Hypertext and Social Media",
+      "place": "London, England, United Kingdom",
+      "dates": "September 14-18, 2026",
+      "end": "2026-09-18",
+      "website": "https://ht.acm.org/ht2026/",
+      "deadlines": [
+        {
+          "label": "Research Track Full Paper (final, extended)",
+          "date": "2026-04-30T13:00:00+01:00",
+          "tz": "BST"
+        }
+      ],
+      "status": "announced",
+      "source": "https://ht.acm.org/ht2026/open-calls/ ; https://ht.acm.org/ht2026/",
+      "notes": "ACM Hypertext (HT) is the ACM SIGWEB Conference on Hypertext and Social Media — the canonical venue for hypertext, hypermedia, linked information structures, and social-media/social-network analysis — classified here under 'Web & Social Media'. HT 2026 (theme 'Hypertext as Method') is held at the London College of Communication (Elephant and Castle), London, England, UK, September 14-18, 2026. The official Open Calls page lists the Research Track submission window as March 27, 2026 (AoE) extended to a final deadline of April 30, 2026 13:00 BST (12:00 UTC); notification June 19, 2026 (AoE); camera-ready August 3, 2026 (AoE). All main research-track deadlines have already PASSED relative to today (2026-07-27), so there is no remaining future submission deadline for HT 2026; the conference itself is still upcoming. The deadline recorded here is the final (extended) research-track full-paper deadline for reference. HT 2027 has not yet been announced. Added 2026-07-27 (backfill) from the official ht.acm.org/ht2026 Open Calls and homepage."
     },
     {
       "venue": "CHI",
@@ -1112,6 +1156,21 @@
       "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 22, 2026 (both the official CFP page sbp-brims.org/2026/cfp/ and the homepage list \"22-Jun-2026\", author notification 15-Jul-2026, final files 26-Jul-2026); this supersedes an earlier Jun 15, 2026 date that still appears on the stale EasyChair CFP mirror, so the deadline was evidently extended by a week. Working papers / challenge / panels / tutorials Aug 21, 2026 (confirmed on the CFP). Timezone not stated on the official CFP; AoE assumed per neighboring entries. Both paper deadlines are now past; conference still upcoming. Re-verified 2026-07-20."
     },
     {
+      "venue": "Complex Networks",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "International Conference on Complex Networks and their Applications",
+      "deadline_label": "Full Paper / Extended Abstract",
+      "deadline_date": "2026-09-02T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "December 2-4, 2026",
+      "place": "Granada, Spain",
+      "website": "https://complexnetworks.org/",
+      "status": "announced",
+      "source": "https://complexnetworks.org/",
+      "notes": "The 15th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS / CNA 2026) is held in Granada, Spain, December 2-4, 2026 (tutorials December 1). It is a major annual network-science venue whose call for papers explicitly covers social-computing topics — including Social Network Analysis, Social Reputation/Influence and Trust, Information Spreading in Social Media, and Rumor and Viral Marketing — alongside the broader network-science program (dynamics, epidemics, biological, financial, and infrastructure networks); this is why it is tracked here alongside ASONAM and SBP-BRiMS. The official site (complexnetworks.org) lists a single submission deadline of September 2, 2026, 23:59 AoE for BOTH full papers (published in the Springer Studies in Computational Intelligence proceedings) and extended abstracts (presentation only, no proceedings); acceptance notification October 1, 2026; camera-ready October 8, 2026; registration October 15, 2026. Submissions are handled via CMT. The September 2, 2026 deadline is still upcoming relative to today. Added 2026-07-27 (backfill) from the official CNA 2026 site; ignore WASET/other decoy 'Complex Networks' listings, which are unaffiliated."
+    },
+    {
       "venue": "CHI",
       "year": 2027,
       "area": "HCI",
@@ -1410,6 +1469,21 @@
       "status": "announced",
       "source": "https://hcomp.acm.org/2026/",
       "notes": "Next upcoming edition is HCOMP 2026, held Sept 27-30, 2026 near Washington DC at Virginia Tech, co-located and tightly integrated with the 2026 ACM Collective Intelligence (CI) Conference (joint CFP, theme \"Connections\"). Original CFP deadlines were abstract June 1 / full paper June 8 (AoE); both were officially EXTENDED by one week to abstract June 8 and full paper June 15 (AoE), per the official site. Both deadlines are still in the future relative to 2026-06-04. Times stated only as date + AoE (11:59pm AoE assumed). Note: for 2026 the venue has been rebranded under ACM as the \"Conference on Human-AI Complementarity and Alignment\" but it is the continuation of the HCOMP series (formerly under AAAI). HCOMP 2027 details not yet announced. Cross-checked: official hcomp.acm.org/2026 site, SIGWEB call for participation, WikiCFP (eventid=195395), crowd-hcomp Google Group CFP, and ci.acm.org/2026."
+    },
+    {
+      "venue": "Hypertext",
+      "year": 2026,
+      "area": "WS",
+      "fullName": "ACM Conference on Hypertext and Social Media",
+      "deadline_label": "Research Track Full Paper (final, extended)",
+      "deadline_date": "2026-04-30T13:00:00+01:00",
+      "timezone": "BST",
+      "conference_dates": "September 14-18, 2026",
+      "place": "London, England, United Kingdom",
+      "website": "https://ht.acm.org/ht2026/",
+      "status": "announced",
+      "source": "https://ht.acm.org/ht2026/open-calls/ ; https://ht.acm.org/ht2026/",
+      "notes": "ACM Hypertext (HT) is the ACM SIGWEB Conference on Hypertext and Social Media — the canonical venue for hypertext, hypermedia, linked information structures, and social-media/social-network analysis — classified here under 'Web & Social Media'. HT 2026 (theme 'Hypertext as Method') is held at the London College of Communication (Elephant and Castle), London, England, UK, September 14-18, 2026. The official Open Calls page lists the Research Track submission window as March 27, 2026 (AoE) extended to a final deadline of April 30, 2026 13:00 BST (12:00 UTC); notification June 19, 2026 (AoE); camera-ready August 3, 2026 (AoE). All main research-track deadlines have already PASSED relative to today (2026-07-27), so there is no remaining future submission deadline for HT 2026; the conference itself is still upcoming. The deadline recorded here is the final (extended) research-track full-paper deadline for reference. HT 2027 has not yet been announced. Added 2026-07-27 (backfill) from the official ht.acm.org/ht2026 Open Calls and homepage."
     },
     {
       "venue": "CI",
