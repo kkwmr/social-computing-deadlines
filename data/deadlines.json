@@ -3,7 +3,7 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-27",
+  "lastUpdated": "2026-08-01",
   "count": 61,
   "conferences": [
     {
@@ -31,7 +31,7 @@
       ],
       "status": "announced",
       "source": "https://chi2027.acm.org/authors/papers/",
-      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens July 30, 2026. The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
+      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens Thursday, August 13, 2026 (re-verified 2026-08-01 against the official authors/papers page; an earlier note stated July 30, 2026, which was corrected). The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
     },
     {
       "venue": "CSCW",
@@ -1006,36 +1006,6 @@
   ],
   "deadlines_flat": [
     {
-      "venue": "KDD",
-      "year": 2027,
-      "area": "WS",
-      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
-      "deadline_label": "Research Track (Cycle 1 Abstract)",
-      "deadline_date": "2026-07-19T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "August 1-5, 2027",
-      "place": "San Jose, California, USA (San Jose McEnery Convention Center)",
-      "website": "https://kdd2027.kdd.org/",
-      "status": "announced",
-      "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
-      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The CFP also states that \"The submission deadlines are strict and no extensions, regardless of circumstances, will be allowed\" — re-verified against the official Research Track CFP on 2026-07-15 (5 days before the Cycle 1 abstract deadline), with no extension announced. The official site now publishes the exact conference dates and venue (confirmed 2026-07-15): August 1-5, 2027 at the San Jose McEnery Convention Center, San Jose, California, USA; the `end` field and `dates`/`place` are updated accordingly (previously the CFP gave only the month and city). This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
-    },
-    {
-      "venue": "KDD",
-      "year": 2027,
-      "area": "WS",
-      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
-      "deadline_label": "Research Track (Cycle 1 Full Paper)",
-      "deadline_date": "2026-07-26T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "August 1-5, 2027",
-      "place": "San Jose, California, USA (San Jose McEnery Convention Center)",
-      "website": "https://kdd2027.kdd.org/",
-      "status": "announced",
-      "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
-      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The CFP also states that \"The submission deadlines are strict and no extensions, regardless of circumstances, will be allowed\" — re-verified against the official Research Track CFP on 2026-07-15 (5 days before the Cycle 1 abstract deadline), with no extension announced. The official site now publishes the exact conference dates and venue (confirmed 2026-07-15): August 1-5, 2027 at the San Jose McEnery Convention Center, San Jose, California, USA; the `end` field and `dates`/`place` are updated accordingly (previously the CFP gave only the month and city). This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
-    },
-    {
       "venue": "IMWUT",
       "year": 2026,
       "area": "HCI",
@@ -1183,7 +1153,7 @@
       "website": "https://chi2027.acm.org/",
       "status": "announced",
       "source": "https://chi2027.acm.org/authors/papers/",
-      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens July 30, 2026. The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
+      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens Thursday, August 13, 2026 (re-verified 2026-08-01 against the official authors/papers page; an earlier note stated July 30, 2026, which was corrected). The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
     },
     {
       "venue": "CHI",
@@ -1198,7 +1168,7 @@
       "website": "https://chi2027.acm.org/",
       "status": "announced",
       "source": "https://chi2027.acm.org/authors/papers/",
-      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens July 30, 2026. The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
+      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens Thursday, August 13, 2026 (re-verified 2026-08-01 against the official authors/papers page; an earlier note stated July 30, 2026, which was corrected). The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
     },
     {
       "venue": "iConference",
@@ -1469,6 +1439,36 @@
       "status": "announced",
       "source": "https://hcomp.acm.org/2026/",
       "notes": "Next upcoming edition is HCOMP 2026, held Sept 27-30, 2026 near Washington DC at Virginia Tech, co-located and tightly integrated with the 2026 ACM Collective Intelligence (CI) Conference (joint CFP, theme \"Connections\"). Original CFP deadlines were abstract June 1 / full paper June 8 (AoE); both were officially EXTENDED by one week to abstract June 8 and full paper June 15 (AoE), per the official site. Both deadlines are still in the future relative to 2026-06-04. Times stated only as date + AoE (11:59pm AoE assumed). Note: for 2026 the venue has been rebranded under ACM as the \"Conference on Human-AI Complementarity and Alignment\" but it is the continuation of the HCOMP series (formerly under AAAI). HCOMP 2027 details not yet announced. Cross-checked: official hcomp.acm.org/2026 site, SIGWEB call for participation, WikiCFP (eventid=195395), crowd-hcomp Google Group CFP, and ci.acm.org/2026."
+    },
+    {
+      "venue": "KDD",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "deadline_label": "Research Track (Cycle 1 Abstract)",
+      "deadline_date": "2026-07-19T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 1-5, 2027",
+      "place": "San Jose, California, USA (San Jose McEnery Convention Center)",
+      "website": "https://kdd2027.kdd.org/",
+      "status": "announced",
+      "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
+      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The CFP also states that \"The submission deadlines are strict and no extensions, regardless of circumstances, will be allowed\" — re-verified against the official Research Track CFP on 2026-07-15 (5 days before the Cycle 1 abstract deadline), with no extension announced. The official site now publishes the exact conference dates and venue (confirmed 2026-07-15): August 1-5, 2027 at the San Jose McEnery Convention Center, San Jose, California, USA; the `end` field and `dates`/`place` are updated accordingly (previously the CFP gave only the month and city). This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
+    },
+    {
+      "venue": "KDD",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "deadline_label": "Research Track (Cycle 1 Full Paper)",
+      "deadline_date": "2026-07-26T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 1-5, 2027",
+      "place": "San Jose, California, USA (San Jose McEnery Convention Center)",
+      "website": "https://kdd2027.kdd.org/",
+      "status": "announced",
+      "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
+      "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The CFP also states that \"The submission deadlines are strict and no extensions, regardless of circumstances, will be allowed\" — re-verified against the official Research Track CFP on 2026-07-15 (5 days before the Cycle 1 abstract deadline), with no extension announced. The official site now publishes the exact conference dates and venue (confirmed 2026-07-15): August 1-5, 2027 at the San Jose McEnery Convention Center, San Jose, California, USA; the `end` field and `dates`/`place` are updated accordingly (previously the CFP gave only the month and city). This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
     },
     {
       "venue": "Hypertext",
