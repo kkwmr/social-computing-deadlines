@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-01",
-  "count": 61,
+  "lastUpdated": "2026-08-03",
+  "count": 62,
   "conferences": [
     {
       "venue": "CHI",
@@ -485,6 +485,28 @@
       "status": "announced",
       "source": "https://ht.acm.org/ht2026/open-calls/ ; https://ht.acm.org/ht2026/",
       "notes": "ACM Hypertext (HT) is the ACM SIGWEB Conference on Hypertext and Social Media — the canonical venue for hypertext, hypermedia, linked information structures, and social-media/social-network analysis — classified here under 'Web & Social Media'. HT 2026 (theme 'Hypertext as Method') is held at the London College of Communication (Elephant and Castle), London, England, UK, September 14-18, 2026. The official Open Calls page lists the Research Track submission window as March 27, 2026 (AoE) extended to a final deadline of April 30, 2026 13:00 BST (12:00 UTC); notification June 19, 2026 (AoE); camera-ready August 3, 2026 (AoE). All main research-track deadlines have already PASSED relative to today (2026-07-27), so there is no remaining future submission deadline for HT 2026; the conference itself is still upcoming. The deadline recorded here is the final (extended) research-track full-paper deadline for reference. HT 2027 has not yet been announced. Added 2026-07-27 (backfill) from the official ht.acm.org/ht2026 Open Calls and homepage."
+    },
+    {
+      "venue": "C&T",
+      "year": 2027,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "ACM International Conference on Communities and Technologies",
+      "place": "Delft, The Netherlands",
+      "dates": "April 12-16, 2027",
+      "end": "2027-04-16",
+      "website": "https://2027.comtech.community/",
+      "deadlines": [
+        {
+          "label": "Full, Short & Exploratory Papers",
+          "date": "2026-11-09T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://2027.comtech.community/papers/ ; https://2027.comtech.community/",
+      "notes": "Communities and Technologies (C&T) is the biennial ACM international conference on the connections between communities (in their many forms) and information & communication technologies — a core social-computing venue (classified here 'Social Computing'), previously untracked. C&T is held in odd years (…2023, 2025, 2027). The 2027 edition (theme 'Communities of Hope') is held in Delft, The Netherlands, April 12-16, 2027, per the official site 2027.comtech.community. The Papers track has a SINGLE submission deadline covering Full, Short, and Exploratory papers — November 9, 2026 (AoE, 23:59 UTC-12) per the official Call for Papers (2027.comtech.community/papers/); there is NO separate abstract deadline. Acceptance notification January 15, 2027; camera-ready February 26, 2027. Accepted papers are published in the ACM Digital Library and are part of the ACM Open program. The Nov 9, 2026 deadline is still upcoming relative to today. Added 2026-08-03 (new) from the official C&T 2027 site and Papers CFP; re-verify any workshop/DC/poster deadlines against the site nearer the date."
     },
     {
       "venue": "CHI",
@@ -1006,36 +1028,6 @@
   ],
   "deadlines_flat": [
     {
-      "venue": "IMWUT",
-      "year": 2026,
-      "area": "HCI",
-      "fullName": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) / ACM UbiComp",
-      "deadline_label": "Major-revision resubmissions only (rolling cycle)",
-      "deadline_date": "2026-08-01T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "October 13-15, 2026",
-      "place": "Shanghai, China",
-      "website": "https://www.ubicomp.org/ubicomp-iswc-2026/",
-      "status": "announced",
-      "source": "https://dl.acm.org/journal/imwut/how-to-submit ; https://www.ubicomp.org/ubicomp-iswc-2026/ ; https://sigchi.org/events/ubicomp-iswc-2026/ ; https://hci-deadlines.github.io/",
-      "notes": "IMWUT is a JOURNAL with rolling/quarterly submission deadlines (journal-style, not a single conference CFP). New submissions are accepted three times per year: February 1, May 1, and November 1; August 1 is an additional deadline for RESUBMISSIONS after major revisions only (new submissions cannot be made on Aug 1). All submission sites close at 23:59 AoE (UTC-12). Given today is 2026-06-04, the next deadline of any kind is August 1, 2026 (resubmissions only); the next NEW-submission deadline is November 1, 2026. Accepted IMWUT papers are presented at the annual ACM UbiComp/ISWC conference. UbiComp/ISWC 2026 will be held in Shanghai, China; SIGCHI lists dates as October 11-15, 2026 (some sources list the core program as Oct 13-15, 2026). The conference website (https://www.ubicomp.org/ubicomp-iswc-2026/) covers IMWUT papers plus ISWC notes/briefs, workshops, posters/demos tracks. hci-deadlines.github.io splits IMWUT '26 into 4 rolling rounds consistent with the quarterly cycle."
-    },
-    {
-      "venue": "IMWUT",
-      "year": 2026,
-      "area": "HCI",
-      "fullName": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) / ACM UbiComp",
-      "deadline_label": "Full Paper (next new-submission round, rolling cycle)",
-      "deadline_date": "2026-11-01T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "October 13-15, 2026",
-      "place": "Shanghai, China",
-      "website": "https://www.ubicomp.org/ubicomp-iswc-2026/",
-      "status": "announced",
-      "source": "https://dl.acm.org/journal/imwut/how-to-submit ; https://www.ubicomp.org/ubicomp-iswc-2026/ ; https://sigchi.org/events/ubicomp-iswc-2026/ ; https://hci-deadlines.github.io/",
-      "notes": "IMWUT is a JOURNAL with rolling/quarterly submission deadlines (journal-style, not a single conference CFP). New submissions are accepted three times per year: February 1, May 1, and November 1; August 1 is an additional deadline for RESUBMISSIONS after major revisions only (new submissions cannot be made on Aug 1). All submission sites close at 23:59 AoE (UTC-12). Given today is 2026-06-04, the next deadline of any kind is August 1, 2026 (resubmissions only); the next NEW-submission deadline is November 1, 2026. Accepted IMWUT papers are presented at the annual ACM UbiComp/ISWC conference. UbiComp/ISWC 2026 will be held in Shanghai, China; SIGCHI lists dates as October 11-15, 2026 (some sources list the core program as Oct 13-15, 2026). The conference website (https://www.ubicomp.org/ubicomp-iswc-2026/) covers IMWUT papers plus ISWC notes/briefs, workshops, posters/demos tracks. hci-deadlines.github.io splits IMWUT '26 into 4 rolling rounds consistent with the quarterly cycle."
-    },
-    {
       "venue": "IUI",
       "year": 2027,
       "area": "HCI",
@@ -1334,6 +1326,51 @@
       "status": "announced",
       "source": "https://facctconference.org/2027/cfp.html",
       "notes": "ACM FAccT is the ACM Conference on Fairness, Accountability, and Transparency — a major interdisciplinary venue on the societal impacts of algorithmic and sociotechnical systems (algorithmic, critical, human-centered, legal, philosophical, sociological, statistical, and theoretical work all in scope), classified here under \"HCI & Society\". FAccT 2026 (Montreal, Canada, Le Centre Sheraton Montréal, June 25-28, 2026) has concluded, so the next edition is FAccT 2027. The official FAccT 2027 CFP (facctconference.org/2027/cfp.html) is OPEN and publishes the following dates, all at 11:59 PM Anywhere on Earth (AoE): abstract submission Oct 27, 2026; full paper submission Nov 3, 2026; initial review decisions (accept/revise/reject) Dec 22, 2026; revision & rebuttal due Jan 28, 2027; final decisions Mar 23, 2027; camera-ready TBD. FAccT uses a two-stage submission (abstract one week before the full paper) followed by a revise-and-resubmit round. The conference is scheduled for June 21-24, 2027; the host city/country for 2027 has NOT yet been officially announced (the CFP lists only the dates), so the place field is left empty pending the announcement. Added 2026-07-25 (new) from the official FAccT 2027 CFP; the /2027/ index page currently 404s while the cfp.html page is live. Re-verify the location and any workshop/tutorial/CRAFT deadlines once the full FAccT 2027 site is published."
+    },
+    {
+      "venue": "IMWUT",
+      "year": 2026,
+      "area": "HCI",
+      "fullName": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) / ACM UbiComp",
+      "deadline_label": "Major-revision resubmissions only (rolling cycle)",
+      "deadline_date": "2026-08-01T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 13-15, 2026",
+      "place": "Shanghai, China",
+      "website": "https://www.ubicomp.org/ubicomp-iswc-2026/",
+      "status": "announced",
+      "source": "https://dl.acm.org/journal/imwut/how-to-submit ; https://www.ubicomp.org/ubicomp-iswc-2026/ ; https://sigchi.org/events/ubicomp-iswc-2026/ ; https://hci-deadlines.github.io/",
+      "notes": "IMWUT is a JOURNAL with rolling/quarterly submission deadlines (journal-style, not a single conference CFP). New submissions are accepted three times per year: February 1, May 1, and November 1; August 1 is an additional deadline for RESUBMISSIONS after major revisions only (new submissions cannot be made on Aug 1). All submission sites close at 23:59 AoE (UTC-12). Given today is 2026-06-04, the next deadline of any kind is August 1, 2026 (resubmissions only); the next NEW-submission deadline is November 1, 2026. Accepted IMWUT papers are presented at the annual ACM UbiComp/ISWC conference. UbiComp/ISWC 2026 will be held in Shanghai, China; SIGCHI lists dates as October 11-15, 2026 (some sources list the core program as Oct 13-15, 2026). The conference website (https://www.ubicomp.org/ubicomp-iswc-2026/) covers IMWUT papers plus ISWC notes/briefs, workshops, posters/demos tracks. hci-deadlines.github.io splits IMWUT '26 into 4 rolling rounds consistent with the quarterly cycle."
+    },
+    {
+      "venue": "IMWUT",
+      "year": 2026,
+      "area": "HCI",
+      "fullName": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) / ACM UbiComp",
+      "deadline_label": "Full Paper (next new-submission round, rolling cycle)",
+      "deadline_date": "2026-11-01T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 13-15, 2026",
+      "place": "Shanghai, China",
+      "website": "https://www.ubicomp.org/ubicomp-iswc-2026/",
+      "status": "announced",
+      "source": "https://dl.acm.org/journal/imwut/how-to-submit ; https://www.ubicomp.org/ubicomp-iswc-2026/ ; https://sigchi.org/events/ubicomp-iswc-2026/ ; https://hci-deadlines.github.io/",
+      "notes": "IMWUT is a JOURNAL with rolling/quarterly submission deadlines (journal-style, not a single conference CFP). New submissions are accepted three times per year: February 1, May 1, and November 1; August 1 is an additional deadline for RESUBMISSIONS after major revisions only (new submissions cannot be made on Aug 1). All submission sites close at 23:59 AoE (UTC-12). Given today is 2026-06-04, the next deadline of any kind is August 1, 2026 (resubmissions only); the next NEW-submission deadline is November 1, 2026. Accepted IMWUT papers are presented at the annual ACM UbiComp/ISWC conference. UbiComp/ISWC 2026 will be held in Shanghai, China; SIGCHI lists dates as October 11-15, 2026 (some sources list the core program as Oct 13-15, 2026). The conference website (https://www.ubicomp.org/ubicomp-iswc-2026/) covers IMWUT papers plus ISWC notes/briefs, workshops, posters/demos tracks. hci-deadlines.github.io splits IMWUT '26 into 4 rolling rounds consistent with the quarterly cycle."
+    },
+    {
+      "venue": "C&T",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "ACM International Conference on Communities and Technologies",
+      "deadline_label": "Full, Short & Exploratory Papers",
+      "deadline_date": "2026-11-09T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "April 12-16, 2027",
+      "place": "Delft, The Netherlands",
+      "website": "https://2027.comtech.community/",
+      "status": "announced",
+      "source": "https://2027.comtech.community/papers/ ; https://2027.comtech.community/",
+      "notes": "Communities and Technologies (C&T) is the biennial ACM international conference on the connections between communities (in their many forms) and information & communication technologies — a core social-computing venue (classified here 'Social Computing'), previously untracked. C&T is held in odd years (…2023, 2025, 2027). The 2027 edition (theme 'Communities of Hope') is held in Delft, The Netherlands, April 12-16, 2027, per the official site 2027.comtech.community. The Papers track has a SINGLE submission deadline covering Full, Short, and Exploratory papers — November 9, 2026 (AoE, 23:59 UTC-12) per the official Call for Papers (2027.comtech.community/papers/); there is NO separate abstract deadline. Acceptance notification January 15, 2027; camera-ready February 26, 2027. Accepted papers are published in the ACM Digital Library and are part of the ACM Open program. The Nov 9, 2026 deadline is still upcoming relative to today. Added 2026-08-03 (new) from the official C&T 2027 site and Papers CFP; re-verify any workshop/DC/poster deadlines against the site nearer the date."
     },
     {
       "venue": "DIS",
