@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-03",
-  "count": 62,
+  "lastUpdated": "2026-08-08",
+  "count": 64,
   "conferences": [
     {
       "venue": "CHI",
@@ -507,6 +507,33 @@
       "status": "announced",
       "source": "https://2027.comtech.community/papers/ ; https://2027.comtech.community/",
       "notes": "Communities and Technologies (C&T) is the biennial ACM international conference on the connections between communities (in their many forms) and information & communication technologies — a core social-computing venue (classified here 'Social Computing'), previously untracked. C&T is held in odd years (…2023, 2025, 2027). The 2027 edition (theme 'Communities of Hope') is held in Delft, The Netherlands, April 12-16, 2027, per the official site 2027.comtech.community. The Papers track has a SINGLE submission deadline covering Full, Short, and Exploratory papers — November 9, 2026 (AoE, 23:59 UTC-12) per the official Call for Papers (2027.comtech.community/papers/); there is NO separate abstract deadline. Acceptance notification January 15, 2027; camera-ready February 26, 2027. Accepted papers are published in the ACM Digital Library and are part of the ACM Open program. The Nov 9, 2026 deadline is still upcoming relative to today. Added 2026-08-03 (new) from the official C&T 2027 site and Papers CFP; re-verify any workshop/DC/poster deadlines against the site nearer the date."
+    },
+    {
+      "venue": "AIES",
+      "year": 2026,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "AAAI/ACM Conference on AI, Ethics, and Society",
+      "place": "Malmö, Sweden",
+      "dates": "October 12-14, 2026",
+      "end": "2026-10-14",
+      "website": "https://www.aies-conference.com/2026/",
+      "deadlines": [
+        {
+          "label": "Abstract",
+          "date": "2026-05-14T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2026-05-21T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://www.aies-conference.com/2026/call-for-papers/ ; https://www.aies-conference.com/2026/",
+      "notes": "AIES is the AAAI/ACM Conference on AI, Ethics, and Society — a major interdisciplinary venue on the ethical and societal challenges of artificial intelligence, co-sponsored by AAAI and ACM. Classified here under 'HCI & Society' alongside FAccT, its closest sibling venue. The Ninth AIES (AIES 2026) is held in Malmö, Sweden, October 12-14, 2026, per the official site aies-conference.com/2026. The official Call for Papers lists a two-stage submission, all at 11:59 PM Anywhere on Earth (AoE): abstract registration May 14, 2026; full paper submission May 21, 2026; author notification July 16, 2026. Both submission deadlines have already PASSED relative to today (2026-08-08), so there is no remaining future submission deadline for AIES 2026; the conference itself is still upcoming. Archival papers are published in the AAAI Digital Library (authors may also opt for a non-archival one-page-abstract option); submissions are handled via EasyChair (conf=aies26). AIES 2027 has not yet been announced. Added 2026-08-08 (backfill) from the official AIES 2026 CFP and homepage; re-verify once the AIES 2027 site opens."
     },
     {
       "venue": "CHI",
@@ -1521,6 +1548,36 @@
       "status": "announced",
       "source": "https://ht.acm.org/ht2026/open-calls/ ; https://ht.acm.org/ht2026/",
       "notes": "ACM Hypertext (HT) is the ACM SIGWEB Conference on Hypertext and Social Media — the canonical venue for hypertext, hypermedia, linked information structures, and social-media/social-network analysis — classified here under 'Web & Social Media'. HT 2026 (theme 'Hypertext as Method') is held at the London College of Communication (Elephant and Castle), London, England, UK, September 14-18, 2026. The official Open Calls page lists the Research Track submission window as March 27, 2026 (AoE) extended to a final deadline of April 30, 2026 13:00 BST (12:00 UTC); notification June 19, 2026 (AoE); camera-ready August 3, 2026 (AoE). All main research-track deadlines have already PASSED relative to today (2026-07-27), so there is no remaining future submission deadline for HT 2026; the conference itself is still upcoming. The deadline recorded here is the final (extended) research-track full-paper deadline for reference. HT 2027 has not yet been announced. Added 2026-07-27 (backfill) from the official ht.acm.org/ht2026 Open Calls and homepage."
+    },
+    {
+      "venue": "AIES",
+      "year": 2026,
+      "area": "HCI",
+      "fullName": "AAAI/ACM Conference on AI, Ethics, and Society",
+      "deadline_label": "Abstract",
+      "deadline_date": "2026-05-14T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 12-14, 2026",
+      "place": "Malmö, Sweden",
+      "website": "https://www.aies-conference.com/2026/",
+      "status": "announced",
+      "source": "https://www.aies-conference.com/2026/call-for-papers/ ; https://www.aies-conference.com/2026/",
+      "notes": "AIES is the AAAI/ACM Conference on AI, Ethics, and Society — a major interdisciplinary venue on the ethical and societal challenges of artificial intelligence, co-sponsored by AAAI and ACM. Classified here under 'HCI & Society' alongside FAccT, its closest sibling venue. The Ninth AIES (AIES 2026) is held in Malmö, Sweden, October 12-14, 2026, per the official site aies-conference.com/2026. The official Call for Papers lists a two-stage submission, all at 11:59 PM Anywhere on Earth (AoE): abstract registration May 14, 2026; full paper submission May 21, 2026; author notification July 16, 2026. Both submission deadlines have already PASSED relative to today (2026-08-08), so there is no remaining future submission deadline for AIES 2026; the conference itself is still upcoming. Archival papers are published in the AAAI Digital Library (authors may also opt for a non-archival one-page-abstract option); submissions are handled via EasyChair (conf=aies26). AIES 2027 has not yet been announced. Added 2026-08-08 (backfill) from the official AIES 2026 CFP and homepage; re-verify once the AIES 2027 site opens."
+    },
+    {
+      "venue": "AIES",
+      "year": 2026,
+      "area": "HCI",
+      "fullName": "AAAI/ACM Conference on AI, Ethics, and Society",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-05-21T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 12-14, 2026",
+      "place": "Malmö, Sweden",
+      "website": "https://www.aies-conference.com/2026/",
+      "status": "announced",
+      "source": "https://www.aies-conference.com/2026/call-for-papers/ ; https://www.aies-conference.com/2026/",
+      "notes": "AIES is the AAAI/ACM Conference on AI, Ethics, and Society — a major interdisciplinary venue on the ethical and societal challenges of artificial intelligence, co-sponsored by AAAI and ACM. Classified here under 'HCI & Society' alongside FAccT, its closest sibling venue. The Ninth AIES (AIES 2026) is held in Malmö, Sweden, October 12-14, 2026, per the official site aies-conference.com/2026. The official Call for Papers lists a two-stage submission, all at 11:59 PM Anywhere on Earth (AoE): abstract registration May 14, 2026; full paper submission May 21, 2026; author notification July 16, 2026. Both submission deadlines have already PASSED relative to today (2026-08-08), so there is no remaining future submission deadline for AIES 2026; the conference itself is still upcoming. Archival papers are published in the AAAI Digital Library (authors may also opt for a non-archival one-page-abstract option); submissions are handled via EasyChair (conf=aies26). AIES 2027 has not yet been announced. Added 2026-08-08 (backfill) from the official AIES 2026 CFP and homepage; re-verify once the AIES 2027 site opens."
     },
     {
       "venue": "CI",
