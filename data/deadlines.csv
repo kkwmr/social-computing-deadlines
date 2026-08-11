@@ -1,10 +1,10 @@
 venue,year,area,deadline_label,deadline_date,timezone,conference_dates,place,website,status,source
 IUI,2027,HCI,Full/Long Paper (Abstract),2026-08-13T23:59:00-12:00,AoE,"February 8-11, 2027","Helsinki, Finland",https://iui.acm.org/2027/,announced,https://iui.acm.org/2027/call-for-papers/
 IUI,2027,HCI,Full/Long Paper,2026-08-20T23:59:00-12:00,AoE,"February 8-11, 2027","Helsinki, Finland",https://iui.acm.org/2027/,announced,https://iui.acm.org/2027/call-for-papers/
-WSDM,2027,WS,Abstract,2026-08-17T23:59:00-12:00,AoE,"February 15-19, 2027","Hong Kong, China",https://wsdm-conference.org/2027/,announced,https://wsdm-conference.org/2027/
-WSDM,2027,WS,Full Paper,2026-08-24T23:59:00-12:00,AoE,"February 15-19, 2027","Hong Kong, China",https://wsdm-conference.org/2027/,announced,https://wsdm-conference.org/2027/
 SBP-BRiMS,2026,SC,Full Paper,2026-06-22T23:59:00-12:00,AoE,"October 12-14, 2026","Pittsburgh, PA, USA (Carnegie Mellon University)",https://sbp-brims.org/2026/,announced,https://sbp-brims.org/2026/cfp/ ; https://sbp-brims.org/2026/
 SBP-BRiMS,2026,SC,Working Papers / Challenge,2026-08-21T23:59:00-12:00,AoE,"October 12-14, 2026","Pittsburgh, PA, USA (Carnegie Mellon University)",https://sbp-brims.org/2026/,announced,https://sbp-brims.org/2026/cfp/ ; https://sbp-brims.org/2026/
+WSDM,2027,WS,Abstract,2026-08-17T23:59:00-12:00,AoE,"February 15-19, 2027","Hong Kong, China",https://wsdm-conference.org/2027/,announced,https://wsdm-conference.org/2027/
+WSDM,2027,WS,Full Paper,2026-08-24T23:59:00-12:00,AoE,"February 15-19, 2027","Hong Kong, China",https://wsdm-conference.org/2027/,announced,https://wsdm-conference.org/2027/
 Complex Networks,2026,SC,Full Paper / Extended Abstract,2026-09-02T23:59:00-12:00,AoE,"December 2-4, 2026","Granada, Spain",https://complexnetworks.org/,announced,https://complexnetworks.org/
 CHI,2027,HCI,Full Paper,2026-09-10T23:59:00-12:00,AoE,"May 10-14, 2027","Pittsburgh, PA, USA",https://chi2027.acm.org/,announced,https://chi2027.acm.org/authors/papers/
 CHI,2027,HCI,Revise & Resubmit (resubmission),2026-12-03T23:59:00-12:00,AoE,"May 10-14, 2027","Pittsburgh, PA, USA",https://chi2027.acm.org/,announced,https://chi2027.acm.org/authors/papers/
@@ -17,10 +17,10 @@ CHIIR,2027,HCI,Short Papers,2026-10-29T23:59:00-12:00,AoE,"March 7-11, 2027","Be
 CHIIR,2027,HCI,"Demos, Design and Resource Papers",2026-10-29T23:59:00-12:00,AoE,"March 7-11, 2027","Berlin, Germany",https://chiir2027.github.io/,announced,https://chiir2027.github.io/
 WWW,2027,WS,Research & Industry Track (Abstract),2026-10-11T23:59:00-12:00,AoE,"May 10-14, 2027","Dublin, Ireland",https://acmweb2027.org/,announced,https://acmweb2027.org/ ; https://acmweb2027.org/important-dates/
 WWW,2027,WS,Research & Industry Track (Full Paper),2026-10-18T23:59:00-12:00,AoE,"May 10-14, 2027","Dublin, Ireland",https://acmweb2027.org/,announced,https://acmweb2027.org/ ; https://acmweb2027.org/important-dates/
-FAccT,2027,HCI,Abstract,2026-10-27T23:59:00-12:00,AoE,"June 21-24, 2027",,https://facctconference.org/2027/cfp.html,announced,https://facctconference.org/2027/cfp.html
-FAccT,2027,HCI,Full Paper,2026-11-03T23:59:00-12:00,AoE,"June 21-24, 2027",,https://facctconference.org/2027/cfp.html,announced,https://facctconference.org/2027/cfp.html
 IMWUT,2026,HCI,Major-revision resubmissions only (rolling cycle),2026-08-01T23:59:00-12:00,AoE,"October 13-15, 2026","Shanghai, China",https://www.ubicomp.org/ubicomp-iswc-2026/,announced,https://dl.acm.org/journal/imwut/how-to-submit ; https://www.ubicomp.org/ubicomp-iswc-2026/ ; https://sigchi.org/events/ubicomp-iswc-2026/ ; https://hci-deadlines.github.io/
 IMWUT,2026,HCI,"Full Paper (next new-submission round, rolling cycle)",2026-11-01T23:59:00-12:00,AoE,"October 13-15, 2026","Shanghai, China",https://www.ubicomp.org/ubicomp-iswc-2026/,announced,https://dl.acm.org/journal/imwut/how-to-submit ; https://www.ubicomp.org/ubicomp-iswc-2026/ ; https://sigchi.org/events/ubicomp-iswc-2026/ ; https://hci-deadlines.github.io/
+FAccT,2027,HCI,Abstract,2026-10-27T23:59:00-12:00,AoE,"June 21-24, 2027",,https://facctconference.org/2027/cfp.html,announced,https://facctconference.org/2027/cfp.html
+FAccT,2027,HCI,Full Paper,2026-11-03T23:59:00-12:00,AoE,"June 21-24, 2027",,https://facctconference.org/2027/cfp.html,announced,https://facctconference.org/2027/cfp.html
 C&T,2027,SC,"Full, Short & Exploratory Papers",2026-11-09T23:59:00-12:00,AoE,"April 12-16, 2027","Delft, The Netherlands",https://2027.comtech.community/,announced,https://2027.comtech.community/papers/ ; https://2027.comtech.community/
 DIS,2027,HCI,Full Paper & Pictorials (Abstract & Title),2027-01-11T23:59:00-12:00,AoE,"June 28 – July 2, 2027","Stockholm, Sweden (KTH Royal Institute of Technology)",https://dis.acm.org/2027/,announced,https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/
 DIS,2027,HCI,Full Papers & Pictorials,2027-01-18T23:59:00-12:00,AoE,"June 28 – July 2, 2027","Stockholm, Sweden (KTH Royal Institute of Technology)",https://dis.acm.org/2027/,announced,https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/
