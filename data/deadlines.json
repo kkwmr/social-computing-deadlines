@@ -3,7 +3,7 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-08",
+  "lastUpdated": "2026-08-15",
   "count": 64,
   "conferences": [
     {
@@ -534,6 +534,22 @@
       "status": "announced",
       "source": "https://www.aies-conference.com/2026/call-for-papers/ ; https://www.aies-conference.com/2026/",
       "notes": "AIES is the AAAI/ACM Conference on AI, Ethics, and Society — a major interdisciplinary venue on the ethical and societal challenges of artificial intelligence, co-sponsored by AAAI and ACM. Classified here under 'HCI & Society' alongside FAccT, its closest sibling venue. The Ninth AIES (AIES 2026) is held in Malmö, Sweden, October 12-14, 2026, per the official site aies-conference.com/2026. The official Call for Papers lists a two-stage submission, all at 11:59 PM Anywhere on Earth (AoE): abstract registration May 14, 2026; full paper submission May 21, 2026; author notification July 16, 2026. Both submission deadlines have already PASSED relative to today (2026-08-08), so there is no remaining future submission deadline for AIES 2026; the conference itself is still upcoming. Archival papers are published in the AAAI Digital Library (authors may also opt for a non-archival one-page-abstract option); submissions are handled via EasyChair (conf=aies26). AIES 2027 has not yet been announced. Added 2026-08-08 (backfill) from the official AIES 2026 CFP and homepage; re-verify once the AIES 2027 site opens."
+    },
+    {
+      "venue": "SMSociety",
+      "year": 2028,
+      "sub": [
+        "WS"
+      ],
+      "fullName": "International Conference on Social Media & Society",
+      "place": "",
+      "dates": "",
+      "end": null,
+      "website": "https://socialmediaandsociety.org/",
+      "deadlines": [],
+      "status": "unknown",
+      "source": "https://socialmediaandsociety.org/ ; https://socialmediaandsociety.org/smsociety-2026/",
+      "notes": "The International Conference on Social Media & Society (#SMSociety) is the premier biennial interdisciplinary gathering of social-media researchers, focused on peer-reviewed research on the effects of social media on society — classified here under 'Web & Social Media', a core in-scope venue previously untracked. It is held in person biennially (2020, 2022, 2024, 2026, 2028, ...). The most recent edition, #SMSociety 2026, was held at the University of Glasgow, Glasgow, UK, July 13-15, 2026; its submission deadlines (extended-abstract waves in Jan/Feb/Mar 2026) and the conference itself have already PASSED relative to today (2026-08-15), so there is no remaining future deadline for the 2026 edition. Presenters are invited to submit expanded work to the open-access journal Platforms & Society. The NEXT edition is #SMSociety 2028 — confirmed as the venue's next conference on the official site (socialmediaandsociety.org), but its host location, exact dates, and call for papers have NOT yet been announced, so no future submission deadline can be recorded yet (year 2028 is the next scheduled biennial edition, not a placeholder). Added 2026-08-15 (new) from the official socialmediaandsociety.org site as venue coverage; re-check the site in 2027 once the #SMSociety 2028 CFP opens for the abstract deadline."
     },
     {
       "venue": "CHI",
