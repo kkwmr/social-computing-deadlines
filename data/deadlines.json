@@ -3,7 +3,7 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-15",
+  "lastUpdated": "2026-08-17",
   "count": 64,
   "conferences": [
     {
@@ -550,6 +550,22 @@
       "status": "unknown",
       "source": "https://socialmediaandsociety.org/ ; https://socialmediaandsociety.org/smsociety-2026/",
       "notes": "The International Conference on Social Media & Society (#SMSociety) is the premier biennial interdisciplinary gathering of social-media researchers, focused on peer-reviewed research on the effects of social media on society — classified here under 'Web & Social Media', a core in-scope venue previously untracked. It is held in person biennially (2020, 2022, 2024, 2026, 2028, ...). The most recent edition, #SMSociety 2026, was held at the University of Glasgow, Glasgow, UK, July 13-15, 2026; its submission deadlines (extended-abstract waves in Jan/Feb/Mar 2026) and the conference itself have already PASSED relative to today (2026-08-15), so there is no remaining future deadline for the 2026 edition. Presenters are invited to submit expanded work to the open-access journal Platforms & Society. The NEXT edition is #SMSociety 2028 — confirmed as the venue's next conference on the official site (socialmediaandsociety.org), but its host location, exact dates, and call for papers have NOT yet been announced, so no future submission deadline can be recorded yet (year 2028 is the next scheduled biennial edition, not a placeholder). Added 2026-08-15 (new) from the official socialmediaandsociety.org site as venue coverage; re-check the site in 2027 once the #SMSociety 2028 CFP opens for the abstract deadline."
+    },
+    {
+      "venue": "Sunbelt",
+      "year": 2027,
+      "sub": [
+        "SC"
+      ],
+      "fullName": "International Sunbelt Social Network Conference (INSNA)",
+      "place": "Montréal, QC, Canada",
+      "dates": "June 21-26, 2027",
+      "end": "2027-06-26",
+      "website": "https://www.insna.org/events/sunbelt-2027-montreal",
+      "deadlines": [],
+      "status": "unknown",
+      "source": "https://www.insna.org/events/sunbelt-2027-montreal ; https://www.insna.org/sunbelt",
+      "notes": "The International Sunbelt Social Network Conference is the annual flagship meeting of the International Network for Social Network Analysis (INSNA) and the premier venue for social network analysis — classified here under 'Social Computing' alongside ASONAM and Complex Networks, a core in-scope venue previously untracked. Sunbelt is held annually and is abstract-based (presenters submit abstracts for talks/posters and organized/interactive sessions, not archival full papers). The most recent edition, Sunbelt 2026, was held in Daytona Beach, Florida, USA, June 22-27, 2026, and has already concluded relative to today (2026-08-17), so no future deadline remains for it. The NEXT edition is Sunbelt 2027 — officially confirmed on the INSNA site for Le Centre Sheraton Montréal Hotel, Montréal, Québec, Canada, June 21-26, 2027. As of 2026-08-17 the location and dates are announced but the call for abstracts / submission deadline has NOT yet opened (the official page states 'More information about the conference will be available soon!'), so no future submission deadline can be recorded yet. Historically the abstract deadline falls in the winter/early spring preceding the June conference. Added 2026-08-17 (backfill) from the official insna.org site as venue coverage; re-check insna.org/sunbelt in late 2026 / early 2027 once the Sunbelt 2027 call for abstracts opens for the deadline."
     },
     {
       "venue": "CHI",
