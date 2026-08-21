@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-17",
-  "count": 64,
+  "lastUpdated": "2026-08-22",
+  "count": 66,
   "conferences": [
     {
       "venue": "CHI",
@@ -410,10 +410,21 @@
       "dates": "May 3-7, 2027",
       "end": "2027-05-07",
       "website": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
-      "deadlines": [],
-      "status": "unknown",
-      "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/ ; https://cyprusconferences.org/aamas2026/important-dates/",
-      "notes": "AAMAS 2026 (25th edition) was held May 25-29, 2026 in Paphos, Cyprus, so it is now in the past (today is 2026-06-04). The NEXT edition is AAMAS 2027 (26th), confirmed by the official conference site hosted at Warwick: Hanoi, Vietnam, May 3-7, 2027, at the JW Marriott Hotel. The official site lists the main paper submission deadline only as \"Oct 2026 (TBC)\" — not yet finalized. The deadline above (2026-11-05, AoE) is ESTIMATED from the AAMAS 2026 main-track cycle, where the full paper deadline was Nov 5, 2025 (about 6 months before the May conference); AAMAS 2027 is again in early May, so an Oct/early-Nov 2026 deadline is consistent. AAMAS typically uses a single full-paper deadline (no separate abstract pre-registration in the main cycle) with all deadlines at end of day Anywhere on Earth (UTC-12). Note: one aggregator (mlciv/ai-deadlines) showed an incorrect \"Thessaloniki, Greece, April 6-9, 2027\" entry which contradicts the official Warwick site and appears to be erroneous; the Hanoi/May dates are authoritative. Check the official site again after Oct 2026 for the confirmed deadline and detailed important dates (rebuttal, notification, camera-ready)."
+      "deadlines": [
+        {
+          "label": "Main Track (Abstract)",
+          "date": "2026-10-01T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Main Track (Full Paper)",
+          "date": "2026-10-08T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/ ; https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "notes": "AAMAS 2026 (25th edition) was held May 25-29, 2026 in Paphos, Cyprus. The NEXT edition is AAMAS 2027 (26th), held at the JW Marriott Hotel, Hanoi, Vietnam, May 3-7, 2027. The official AAMAS 2027 Call for the Main Track (warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/) now publishes the confirmed important dates (re-verified 2026-08-22, superseding the earlier \"Oct 2026 (TBC)\" placeholder and its estimated 2026-11-05 deadline): abstract submission October 1, 2026; full paper submission October 8, 2026; author rebuttal period November 20-24, 2026; author notification December 21, 2026; camera-ready January 25, 2027. The CFP states \"All deadlines are at the end of the specified day, Anywhere on Earth (UTC-12),\" so both submission deadlines above are AoE. AAMAS uses a two-step main-track submission (abstract pre-registration one week before the full paper). The next upcoming round is the abstract deadline Oct 1, 2026. Note: one aggregator (mlciv/ai-deadlines) earlier showed an incorrect \"Thessaloniki, Greece, April 6-9, 2027\" entry which contradicts the official Warwick site and is erroneous; the Hanoi/May dates are authoritative. Re-check the official site for any workshop/DC deadlines nearer the date."
     },
     {
       "venue": "FAccT",
@@ -1087,36 +1098,6 @@
   ],
   "deadlines_flat": [
     {
-      "venue": "IUI",
-      "year": 2027,
-      "area": "HCI",
-      "fullName": "ACM Conference on Intelligent User Interfaces",
-      "deadline_label": "Full/Long Paper (Abstract)",
-      "deadline_date": "2026-08-13T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "February 8-11, 2027",
-      "place": "Helsinki, Finland",
-      "website": "https://iui.acm.org/2027/",
-      "status": "announced",
-      "source": "https://iui.acm.org/2027/call-for-papers/",
-      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; re-verify the timezone and any short-paper/late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
-    },
-    {
-      "venue": "IUI",
-      "year": 2027,
-      "area": "HCI",
-      "fullName": "ACM Conference on Intelligent User Interfaces",
-      "deadline_label": "Full/Long Paper",
-      "deadline_date": "2026-08-20T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "February 8-11, 2027",
-      "place": "Helsinki, Finland",
-      "website": "https://iui.acm.org/2027/",
-      "status": "announced",
-      "source": "https://iui.acm.org/2027/call-for-papers/",
-      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; re-verify the timezone and any short-paper/late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
-    },
-    {
       "venue": "SBP-BRiMS",
       "year": 2026,
       "area": "SC",
@@ -1265,6 +1246,36 @@
       "status": "announced",
       "source": "https://www.icwsm.org/2027/submit/",
       "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The dedicated official ICWSM 2027 site (icwsm.org/2027/) is now LIVE and its submit page confirms the three rounds for the Edinburgh edition (re-verified 2026-07-14): Round 1 May 15, 2026 (passed; notification Jul 15, 2026); Round 2 Sept 15, 2026 (notification Nov 15, 2026); Round 3 Jan 15, 2027 (notification Mar 15, 2027), all at 23:59 AoE. Papers accepted in any of these three rounds are presented at ICWSM 2027; papers that receive an R&R in the January 2027 round will NOT be presented at ICWSM 2027. The NEXT upcoming round is Round 2 on Sept 15, 2026. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. The website/source fields previously pointed at the ICWSM 2026 submit page (icwsm.org/2026/submit.html) because no 2027 site existed; they now point at the official 2027 pages, which state identical round deadlines."
+    },
+    {
+      "venue": "AAMAS",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "International Conference on Autonomous Agents and Multiagent Systems",
+      "deadline_label": "Main Track (Abstract)",
+      "deadline_date": "2026-10-01T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 3-7, 2027",
+      "place": "Hanoi, Vietnam",
+      "website": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "status": "announced",
+      "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/ ; https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "notes": "AAMAS 2026 (25th edition) was held May 25-29, 2026 in Paphos, Cyprus. The NEXT edition is AAMAS 2027 (26th), held at the JW Marriott Hotel, Hanoi, Vietnam, May 3-7, 2027. The official AAMAS 2027 Call for the Main Track (warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/) now publishes the confirmed important dates (re-verified 2026-08-22, superseding the earlier \"Oct 2026 (TBC)\" placeholder and its estimated 2026-11-05 deadline): abstract submission October 1, 2026; full paper submission October 8, 2026; author rebuttal period November 20-24, 2026; author notification December 21, 2026; camera-ready January 25, 2027. The CFP states \"All deadlines are at the end of the specified day, Anywhere on Earth (UTC-12),\" so both submission deadlines above are AoE. AAMAS uses a two-step main-track submission (abstract pre-registration one week before the full paper). The next upcoming round is the abstract deadline Oct 1, 2026. Note: one aggregator (mlciv/ai-deadlines) earlier showed an incorrect \"Thessaloniki, Greece, April 6-9, 2027\" entry which contradicts the official Warwick site and is erroneous; the Hanoi/May dates are authoritative. Re-check the official site for any workshop/DC deadlines nearer the date."
+    },
+    {
+      "venue": "AAMAS",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "International Conference on Autonomous Agents and Multiagent Systems",
+      "deadline_label": "Main Track (Full Paper)",
+      "deadline_date": "2026-10-08T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 3-7, 2027",
+      "place": "Hanoi, Vietnam",
+      "website": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "status": "announced",
+      "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/ ; https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "notes": "AAMAS 2026 (25th edition) was held May 25-29, 2026 in Paphos, Cyprus. The NEXT edition is AAMAS 2027 (26th), held at the JW Marriott Hotel, Hanoi, Vietnam, May 3-7, 2027. The official AAMAS 2027 Call for the Main Track (warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/) now publishes the confirmed important dates (re-verified 2026-08-22, superseding the earlier \"Oct 2026 (TBC)\" placeholder and its estimated 2026-11-05 deadline): abstract submission October 1, 2026; full paper submission October 8, 2026; author rebuttal period November 20-24, 2026; author notification December 21, 2026; camera-ready January 25, 2027. The CFP states \"All deadlines are at the end of the specified day, Anywhere on Earth (UTC-12),\" so both submission deadlines above are AoE. AAMAS uses a two-step main-track submission (abstract pre-registration one week before the full paper). The next upcoming round is the abstract deadline Oct 1, 2026. Note: one aggregator (mlciv/ai-deadlines) earlier showed an incorrect \"Thessaloniki, Greece, April 6-9, 2027\" entry which contradicts the official Warwick site and is erroneous; the Hanoi/May dates are authoritative. Re-check the official site for any workshop/DC deadlines nearer the date."
     },
     {
       "venue": "CHIIR",
@@ -1535,6 +1546,36 @@
       "status": "announced",
       "source": "https://hcomp.acm.org/2026/",
       "notes": "Next upcoming edition is HCOMP 2026, held Sept 27-30, 2026 near Washington DC at Virginia Tech, co-located and tightly integrated with the 2026 ACM Collective Intelligence (CI) Conference (joint CFP, theme \"Connections\"). Original CFP deadlines were abstract June 1 / full paper June 8 (AoE); both were officially EXTENDED by one week to abstract June 8 and full paper June 15 (AoE), per the official site. Both deadlines are still in the future relative to 2026-06-04. Times stated only as date + AoE (11:59pm AoE assumed). Note: for 2026 the venue has been rebranded under ACM as the \"Conference on Human-AI Complementarity and Alignment\" but it is the continuation of the HCOMP series (formerly under AAAI). HCOMP 2027 details not yet announced. Cross-checked: official hcomp.acm.org/2026 site, SIGWEB call for participation, WikiCFP (eventid=195395), crowd-hcomp Google Group CFP, and ci.acm.org/2026."
+    },
+    {
+      "venue": "IUI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Intelligent User Interfaces",
+      "deadline_label": "Full/Long Paper (Abstract)",
+      "deadline_date": "2026-08-13T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "February 8-11, 2027",
+      "place": "Helsinki, Finland",
+      "website": "https://iui.acm.org/2027/",
+      "status": "announced",
+      "source": "https://iui.acm.org/2027/call-for-papers/",
+      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; re-verify the timezone and any short-paper/late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
+    },
+    {
+      "venue": "IUI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Intelligent User Interfaces",
+      "deadline_label": "Full/Long Paper",
+      "deadline_date": "2026-08-20T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "February 8-11, 2027",
+      "place": "Helsinki, Finland",
+      "website": "https://iui.acm.org/2027/",
+      "status": "announced",
+      "source": "https://iui.acm.org/2027/call-for-papers/",
+      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; re-verify the timezone and any short-paper/late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
     },
     {
       "venue": "KDD",
