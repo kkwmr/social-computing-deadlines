@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-22",
-  "count": 66,
+  "lastUpdated": "2026-08-24",
+  "count": 67,
   "conferences": [
     {
       "venue": "CHI",
@@ -545,6 +545,28 @@
       "status": "announced",
       "source": "https://www.aies-conference.com/2026/call-for-papers/ ; https://www.aies-conference.com/2026/",
       "notes": "AIES is the AAAI/ACM Conference on AI, Ethics, and Society — a major interdisciplinary venue on the ethical and societal challenges of artificial intelligence, co-sponsored by AAAI and ACM. Classified here under 'HCI & Society' alongside FAccT, its closest sibling venue. The Ninth AIES (AIES 2026) is held in Malmö, Sweden, October 12-14, 2026, per the official site aies-conference.com/2026. The official Call for Papers lists a two-stage submission, all at 11:59 PM Anywhere on Earth (AoE): abstract registration May 14, 2026; full paper submission May 21, 2026; author notification July 16, 2026. Both submission deadlines have already PASSED relative to today (2026-08-08), so there is no remaining future submission deadline for AIES 2026; the conference itself is still upcoming. Archival papers are published in the AAAI Digital Library (authors may also opt for a non-archival one-page-abstract option); submissions are handled via EasyChair (conf=aies26). AIES 2027 has not yet been announced. Added 2026-08-08 (backfill) from the official AIES 2026 CFP and homepage; re-verify once the AIES 2027 site opens."
+    },
+    {
+      "venue": "EAAMO",
+      "year": 2026,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization",
+      "place": "Munich, Germany",
+      "dates": "November 5-7, 2026",
+      "end": "2026-11-07",
+      "website": "https://conference2026.eaamo.org/",
+      "deadlines": [
+        {
+          "label": "Work-in-Progress Poster (non-archival)",
+          "date": "2026-09-07T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://conference2026.eaamo.org/cfp/ ; https://conference2026.eaamo.org/call_for_posters/",
+      "notes": "EAAMO is the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization — an interdisciplinary venue (computer science, economics, operations research, and the social sciences) on using algorithms, optimization, and mechanism design to improve equity and access for historically underserved and disadvantaged communities. Classified here under 'HCI & Society' alongside FAccT and AIES, its closest sibling venues. The Sixth EAAMO (EAAMO '26) is held at Ludwig-Maximilians-Universität München (LMU Munich), Munich, Germany, November 5-7, 2026, per the official site conference2026.eaamo.org. The main archival Papers track used a two-stage submission, all Anywhere on Earth (AoE): abstract May 8, 2026 (extended from May 1); full paper May 15, 2026 (extended from May 8); author notification August 1, 2026 — all now PASSED relative to today (2026-08-24). The one remaining FUTURE deadline is the Work-in-Progress Poster session: September 7, 2026, Anywhere on Earth (AoE). WiP posters require a title and abstract (a full paper is optional/encouraged); they are NON-ARCHIVAL — accepted posters do not constitute an accepted paper and are not published in the ACM proceedings, so presenters may later submit the work elsewhere. Archival papers appear in the ACM Digital Library; submissions are handled via OpenReview. EAAMO 2027 has not yet been announced. Added 2026-08-24 (new) from the official EAAMO '26 CFP and Call for Posters pages."
     },
     {
       "venue": "SMSociety",
@@ -1098,36 +1120,6 @@
   ],
   "deadlines_flat": [
     {
-      "venue": "SBP-BRiMS",
-      "year": 2026,
-      "area": "SC",
-      "fullName": "International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation",
-      "deadline_label": "Full Paper",
-      "deadline_date": "2026-06-22T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "October 12-14, 2026",
-      "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
-      "website": "https://sbp-brims.org/2026/",
-      "status": "announced",
-      "source": "https://sbp-brims.org/2026/cfp/ ; https://sbp-brims.org/2026/",
-      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 22, 2026 (both the official CFP page sbp-brims.org/2026/cfp/ and the homepage list \"22-Jun-2026\", author notification 15-Jul-2026, final files 26-Jul-2026); this supersedes an earlier Jun 15, 2026 date that still appears on the stale EasyChair CFP mirror, so the deadline was evidently extended by a week. Working papers / challenge / panels / tutorials Aug 21, 2026 (confirmed on the CFP). Timezone not stated on the official CFP; AoE assumed per neighboring entries. Both paper deadlines are now past; conference still upcoming. Re-verified 2026-07-20."
-    },
-    {
-      "venue": "SBP-BRiMS",
-      "year": 2026,
-      "area": "SC",
-      "fullName": "International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation",
-      "deadline_label": "Working Papers / Challenge",
-      "deadline_date": "2026-08-21T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "October 12-14, 2026",
-      "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
-      "website": "https://sbp-brims.org/2026/",
-      "status": "announced",
-      "source": "https://sbp-brims.org/2026/cfp/ ; https://sbp-brims.org/2026/",
-      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 22, 2026 (both the official CFP page sbp-brims.org/2026/cfp/ and the homepage list \"22-Jun-2026\", author notification 15-Jul-2026, final files 26-Jul-2026); this supersedes an earlier Jun 15, 2026 date that still appears on the stale EasyChair CFP mirror, so the deadline was evidently extended by a week. Working papers / challenge / panels / tutorials Aug 21, 2026 (confirmed on the CFP). Timezone not stated on the official CFP; AoE assumed per neighboring entries. Both paper deadlines are now past; conference still upcoming. Re-verified 2026-07-20."
-    },
-    {
       "venue": "WSDM",
       "year": 2027,
       "area": "WS",
@@ -1171,6 +1163,21 @@
       "status": "announced",
       "source": "https://complexnetworks.org/",
       "notes": "The 15th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS / CNA 2026) is held in Granada, Spain, December 2-4, 2026 (tutorials December 1). It is a major annual network-science venue whose call for papers explicitly covers social-computing topics — including Social Network Analysis, Social Reputation/Influence and Trust, Information Spreading in Social Media, and Rumor and Viral Marketing — alongside the broader network-science program (dynamics, epidemics, biological, financial, and infrastructure networks); this is why it is tracked here alongside ASONAM and SBP-BRiMS. The official site (complexnetworks.org) lists a single submission deadline of September 2, 2026, 23:59 AoE for BOTH full papers (published in the Springer Studies in Computational Intelligence proceedings) and extended abstracts (presentation only, no proceedings); acceptance notification October 1, 2026; camera-ready October 8, 2026; registration October 15, 2026. Submissions are handled via CMT. The September 2, 2026 deadline is still upcoming relative to today. Added 2026-07-27 (backfill) from the official CNA 2026 site; ignore WASET/other decoy 'Complex Networks' listings, which are unaffiliated."
+    },
+    {
+      "venue": "EAAMO",
+      "year": 2026,
+      "area": "HCI",
+      "fullName": "ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization",
+      "deadline_label": "Work-in-Progress Poster (non-archival)",
+      "deadline_date": "2026-09-07T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "November 5-7, 2026",
+      "place": "Munich, Germany",
+      "website": "https://conference2026.eaamo.org/",
+      "status": "announced",
+      "source": "https://conference2026.eaamo.org/cfp/ ; https://conference2026.eaamo.org/call_for_posters/",
+      "notes": "EAAMO is the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization — an interdisciplinary venue (computer science, economics, operations research, and the social sciences) on using algorithms, optimization, and mechanism design to improve equity and access for historically underserved and disadvantaged communities. Classified here under 'HCI & Society' alongside FAccT and AIES, its closest sibling venues. The Sixth EAAMO (EAAMO '26) is held at Ludwig-Maximilians-Universität München (LMU Munich), Munich, Germany, November 5-7, 2026, per the official site conference2026.eaamo.org. The main archival Papers track used a two-stage submission, all Anywhere on Earth (AoE): abstract May 8, 2026 (extended from May 1); full paper May 15, 2026 (extended from May 8); author notification August 1, 2026 — all now PASSED relative to today (2026-08-24). The one remaining FUTURE deadline is the Work-in-Progress Poster session: September 7, 2026, Anywhere on Earth (AoE). WiP posters require a title and abstract (a full paper is optional/encouraged); they are NON-ARCHIVAL — accepted posters do not constitute an accepted paper and are not published in the ACM proceedings, so presenters may later submit the work elsewhere. Archival papers appear in the ACM Digital Library; submissions are handled via OpenReview. EAAMO 2027 has not yet been announced. Added 2026-08-24 (new) from the official EAAMO '26 CFP and Call for Posters pages."
     },
     {
       "venue": "CHI",
@@ -1666,6 +1673,36 @@
       "status": "announced",
       "source": "https://ci.acm.org/2026/cfp.html",
       "notes": "CI 2026 (14th ACM Collective Intelligence Conference) is held Sep 27-30, 2026 at Virginia Tech's Academic Building One near Washington, DC, co-located and integrated with HCOMP 2026. Full-paper deadline Jun 15, 2026 (AoE)."
+    },
+    {
+      "venue": "SBP-BRiMS",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-06-22T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 12-14, 2026",
+      "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
+      "website": "https://sbp-brims.org/2026/",
+      "status": "announced",
+      "source": "https://sbp-brims.org/2026/cfp/ ; https://sbp-brims.org/2026/",
+      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 22, 2026 (both the official CFP page sbp-brims.org/2026/cfp/ and the homepage list \"22-Jun-2026\", author notification 15-Jul-2026, final files 26-Jul-2026); this supersedes an earlier Jun 15, 2026 date that still appears on the stale EasyChair CFP mirror, so the deadline was evidently extended by a week. Working papers / challenge / panels / tutorials Aug 21, 2026 (confirmed on the CFP). Timezone not stated on the official CFP; AoE assumed per neighboring entries. Both paper deadlines are now past; conference still upcoming. Re-verified 2026-07-20."
+    },
+    {
+      "venue": "SBP-BRiMS",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation",
+      "deadline_label": "Working Papers / Challenge",
+      "deadline_date": "2026-08-21T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "October 12-14, 2026",
+      "place": "Pittsburgh, PA, USA (Carnegie Mellon University)",
+      "website": "https://sbp-brims.org/2026/",
+      "status": "announced",
+      "source": "https://sbp-brims.org/2026/cfp/ ; https://sbp-brims.org/2026/",
+      "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 22, 2026 (both the official CFP page sbp-brims.org/2026/cfp/ and the homepage list \"22-Jun-2026\", author notification 15-Jul-2026, final files 26-Jul-2026); this supersedes an earlier Jun 15, 2026 date that still appears on the stale EasyChair CFP mirror, so the deadline was evidently extended by a week. Working papers / challenge / panels / tutorials Aug 21, 2026 (confirmed on the CFP). Timezone not stated on the official CFP; AoE assumed per neighboring entries. Both paper deadlines are now past; conference still upcoming. Re-verified 2026-07-20."
     },
     {
       "venue": "ASONAM",
