@@ -3,7 +3,7 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-24",
+  "lastUpdated": "2026-08-29",
   "count": 67,
   "conferences": [
     {
@@ -938,6 +938,22 @@
     },
     {
       "venue": "ECSCW",
+      "year": 2027,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "European Conference on Computer-Supported Cooperative Work (EUSSET)",
+      "place": "Limassol, Cyprus",
+      "dates": "",
+      "end": null,
+      "website": "https://www.eusset.eu/events/",
+      "deadlines": [],
+      "status": "unknown",
+      "source": "https://www.eusset.eu/events/ ; https://ecscw.eusset.eu/2026/",
+      "notes": "ECSCW 2027 (25th EUSSET Conference on Computer Supported Cooperative Work) will take place in Limassol, Cyprus. The host/location is officially announced on the EUSSET events page ('ECSCW 2027 – The 25th EUSSET Conference on Computer Supported Cooperative Work. The link to the website will be added soon. Limassol, Cyprus, TBA 2027') and confirmed in the ECSCW 2026 site's 'ECSCW 2026 has ended' news post (2026-07-04: 'ECSCW 2027 will take place in Limassol'). As of 2026-08-29 the exact conference dates, dedicated website, and call for papers / submission deadline have NOT yet been published, so no future submission deadline can be recorded yet and status is 'unknown' (dates/deadlines left empty). ECSCW papers are published in PACM HCI (EUSSET/ACM). The most recent tracked edition, ECSCW 2026 (Munich, Germany, Jun 29 – Jul 3, 2026), has already concluded relative to today, so this entry represents the next edition. Added 2026-08-29 (backfill) from the official EUSSET events page as venue coverage; re-check eusset.eu/events and the eventual ecscw.eusset.eu/2027 site in late 2026 once the ECSCW 2027 call for papers opens for the deadline (historically conference/exploratory papers close in late Feb / early Mar preceding the summer conference)."
+    },
+    {
+      "venue": "ECSCW",
       "year": 2026,
       "sub": [
         "HCI"
@@ -1119,36 +1135,6 @@
     }
   ],
   "deadlines_flat": [
-    {
-      "venue": "WSDM",
-      "year": 2027,
-      "area": "WS",
-      "fullName": "ACM International Conference on Web Search and Data Mining",
-      "deadline_label": "Abstract",
-      "deadline_date": "2026-08-17T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "February 15-19, 2027",
-      "place": "Hong Kong, China",
-      "website": "https://wsdm-conference.org/2027/",
-      "status": "announced",
-      "source": "https://wsdm-conference.org/2027/",
-      "notes": "WSDM 2027 is the 20th edition and the next upcoming one; WSDM 2026 (Boise, Idaho, USA) had its deadline in August 2025, already passed. WSDM 2027 will be held at Cordis Hotel, 555 Shanghai St, Mong Kok, Hong Kong, Feb 15-19, 2027. Deadlines per the official call for papers: Abstract registration Aug 17, 2026; Full Papers Aug 24, 2026; notifications Nov 2, 2026. All deadlines are 11:59pm Anywhere on Earth (AoE). The site also lists a Call for Short Papers; a separate short-paper deadline was not distinctly stated and appears to follow the same Aug 24 cycle. Time of 23:59 inferred from the \"11:59pm AoE\" statement. aideadlines.org and wikicfp were unreachable (connection refused / 404) for cross-check; data confirmed from the official conference website only."
-    },
-    {
-      "venue": "WSDM",
-      "year": 2027,
-      "area": "WS",
-      "fullName": "ACM International Conference on Web Search and Data Mining",
-      "deadline_label": "Full Paper",
-      "deadline_date": "2026-08-24T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "February 15-19, 2027",
-      "place": "Hong Kong, China",
-      "website": "https://wsdm-conference.org/2027/",
-      "status": "announced",
-      "source": "https://wsdm-conference.org/2027/",
-      "notes": "WSDM 2027 is the 20th edition and the next upcoming one; WSDM 2026 (Boise, Idaho, USA) had its deadline in August 2025, already passed. WSDM 2027 will be held at Cordis Hotel, 555 Shanghai St, Mong Kok, Hong Kong, Feb 15-19, 2027. Deadlines per the official call for papers: Abstract registration Aug 17, 2026; Full Papers Aug 24, 2026; notifications Nov 2, 2026. All deadlines are 11:59pm Anywhere on Earth (AoE). The site also lists a Call for Short Papers; a separate short-paper deadline was not distinctly stated and appears to follow the same Aug 24 cycle. Time of 23:59 inferred from the \"11:59pm AoE\" statement. aideadlines.org and wikicfp were unreachable (connection refused / 404) for cross-check; data confirmed from the official conference website only."
-    },
     {
       "venue": "Complex Networks",
       "year": 2026,
@@ -1583,6 +1569,36 @@
       "status": "announced",
       "source": "https://iui.acm.org/2027/call-for-papers/",
       "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; re-verify the timezone and any short-paper/late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
+    },
+    {
+      "venue": "WSDM",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "ACM International Conference on Web Search and Data Mining",
+      "deadline_label": "Abstract",
+      "deadline_date": "2026-08-17T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "February 15-19, 2027",
+      "place": "Hong Kong, China",
+      "website": "https://wsdm-conference.org/2027/",
+      "status": "announced",
+      "source": "https://wsdm-conference.org/2027/",
+      "notes": "WSDM 2027 is the 20th edition and the next upcoming one; WSDM 2026 (Boise, Idaho, USA) had its deadline in August 2025, already passed. WSDM 2027 will be held at Cordis Hotel, 555 Shanghai St, Mong Kok, Hong Kong, Feb 15-19, 2027. Deadlines per the official call for papers: Abstract registration Aug 17, 2026; Full Papers Aug 24, 2026; notifications Nov 2, 2026. All deadlines are 11:59pm Anywhere on Earth (AoE). The site also lists a Call for Short Papers; a separate short-paper deadline was not distinctly stated and appears to follow the same Aug 24 cycle. Time of 23:59 inferred from the \"11:59pm AoE\" statement. aideadlines.org and wikicfp were unreachable (connection refused / 404) for cross-check; data confirmed from the official conference website only."
+    },
+    {
+      "venue": "WSDM",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "ACM International Conference on Web Search and Data Mining",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-08-24T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "February 15-19, 2027",
+      "place": "Hong Kong, China",
+      "website": "https://wsdm-conference.org/2027/",
+      "status": "announced",
+      "source": "https://wsdm-conference.org/2027/",
+      "notes": "WSDM 2027 is the 20th edition and the next upcoming one; WSDM 2026 (Boise, Idaho, USA) had its deadline in August 2025, already passed. WSDM 2027 will be held at Cordis Hotel, 555 Shanghai St, Mong Kok, Hong Kong, Feb 15-19, 2027. Deadlines per the official call for papers: Abstract registration Aug 17, 2026; Full Papers Aug 24, 2026; notifications Nov 2, 2026. All deadlines are 11:59pm Anywhere on Earth (AoE). The site also lists a Call for Short Papers; a separate short-paper deadline was not distinctly stated and appears to follow the same Aug 24 cycle. Time of 23:59 inferred from the \"11:59pm AoE\" statement. aideadlines.org and wikicfp were unreachable (connection refused / 404) for cross-check; data confirmed from the official conference website only."
     },
     {
       "venue": "KDD",

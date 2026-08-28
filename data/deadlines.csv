@@ -1,6 +1,4 @@
 venue,year,area,deadline_label,deadline_date,timezone,conference_dates,place,website,status,source
-WSDM,2027,WS,Abstract,2026-08-17T23:59:00-12:00,AoE,"February 15-19, 2027","Hong Kong, China",https://wsdm-conference.org/2027/,announced,https://wsdm-conference.org/2027/
-WSDM,2027,WS,Full Paper,2026-08-24T23:59:00-12:00,AoE,"February 15-19, 2027","Hong Kong, China",https://wsdm-conference.org/2027/,announced,https://wsdm-conference.org/2027/
 Complex Networks,2026,SC,Full Paper / Extended Abstract,2026-09-02T23:59:00-12:00,AoE,"December 2-4, 2026","Granada, Spain",https://complexnetworks.org/,announced,https://complexnetworks.org/
 EAAMO,2026,HCI,Work-in-Progress Poster (non-archival),2026-09-07T23:59:00-12:00,AoE,"November 5-7, 2026","Munich, Germany",https://conference2026.eaamo.org/,announced,https://conference2026.eaamo.org/cfp/ ; https://conference2026.eaamo.org/call_for_posters/
 CHI,2027,HCI,Full Paper,2026-09-10T23:59:00-12:00,AoE,"May 10-14, 2027","Pittsburgh, PA, USA",https://chi2027.acm.org/,announced,https://chi2027.acm.org/authors/papers/
@@ -30,6 +28,8 @@ HCOMP,2026,SC,Abstract,2026-06-08T23:59:00-12:00,AoE,"September 27-30, 2026","Ne
 HCOMP,2026,SC,Full Paper,2026-06-15T23:59:00-12:00,AoE,"September 27-30, 2026","Near Washington, DC, USA (Virginia Tech Academic Building One)",https://hcomp.acm.org/2026/,announced,https://hcomp.acm.org/2026/
 IUI,2027,HCI,Full/Long Paper (Abstract),2026-08-13T23:59:00-12:00,AoE,"February 8-11, 2027","Helsinki, Finland",https://iui.acm.org/2027/,announced,https://iui.acm.org/2027/call-for-papers/
 IUI,2027,HCI,Full/Long Paper,2026-08-20T23:59:00-12:00,AoE,"February 8-11, 2027","Helsinki, Finland",https://iui.acm.org/2027/,announced,https://iui.acm.org/2027/call-for-papers/
+WSDM,2027,WS,Abstract,2026-08-17T23:59:00-12:00,AoE,"February 15-19, 2027","Hong Kong, China",https://wsdm-conference.org/2027/,announced,https://wsdm-conference.org/2027/
+WSDM,2027,WS,Full Paper,2026-08-24T23:59:00-12:00,AoE,"February 15-19, 2027","Hong Kong, China",https://wsdm-conference.org/2027/,announced,https://wsdm-conference.org/2027/
 KDD,2027,WS,Research Track (Cycle 1 Abstract),2026-07-19T23:59:00-12:00,AoE,"August 1-5, 2027","San Jose, California, USA (San Jose McEnery Convention Center)",https://kdd2027.kdd.org/,announced,https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/
 KDD,2027,WS,Research Track (Cycle 1 Full Paper),2026-07-26T23:59:00-12:00,AoE,"August 1-5, 2027","San Jose, California, USA (San Jose McEnery Convention Center)",https://kdd2027.kdd.org/,announced,https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/
 Hypertext,2026,WS,"Research Track Full Paper (final, extended)",2026-04-30T13:00:00+01:00,BST,"September 14-18, 2026","London, England, United Kingdom",https://ht.acm.org/ht2026/,announced,https://ht.acm.org/ht2026/open-calls/ ; https://ht.acm.org/ht2026/
