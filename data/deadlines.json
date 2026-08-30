@@ -3,7 +3,7 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-29",
+  "lastUpdated": "2026-08-31",
   "count": 67,
   "conferences": [
     {
@@ -128,18 +128,18 @@
       "deadlines": [
         {
           "label": "Research & Industry Track (Abstract)",
-          "date": "2026-10-11T23:59:00-12:00",
+          "date": "2026-10-18T23:59:00-12:00",
           "tz": "AoE"
         },
         {
           "label": "Research & Industry Track (Full Paper)",
-          "date": "2026-10-18T23:59:00-12:00",
+          "date": "2026-10-25T23:59:00-12:00",
           "tz": "AoE"
         }
       ],
       "status": "announced",
       "source": "https://acmweb2027.org/ ; https://acmweb2027.org/important-dates/",
-      "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). The official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates (confirmed 2026-07-05): abstract submission Oct 11, 2026 and full paper submission Oct 18, 2026; notification Dec 10, 2026, rebuttal Dec 12-19, 2026, camera-ready Jan 31, 2027. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round after today (2026-07-05) is the Oct 11, 2026 abstract deadline followed by the Oct 18, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
+      "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). DATES REVISED (re-verified 2026-08-31): the official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates as abstract submission Oct 18, 2026 and full paper submission Oct 25, 2026; results released Dec 21, 2026, rebuttal Dec 21-31, 2026, notification Jan 4, 2027, camera-ready Jan 31, 2027. This is a one-week shift from the dates published on 2026-07-05 (then abstract Oct 11 / full paper Oct 18, notification Dec 10, rebuttal Dec 12-19); the official site was moved back a week. Aggregator sites (getpaperpilot, myhuiban, aideadlines, beri.net) still show the old Oct 11/18 dates but the official acmweb2027.org page is authoritative. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round is the Oct 18, 2026 abstract deadline followed by the Oct 25, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
     },
     {
       "venue": "SOCINFO",
@@ -1336,21 +1336,6 @@
       "area": "WS",
       "fullName": "The Web Conference (ACM Web Conference)",
       "deadline_label": "Research & Industry Track (Abstract)",
-      "deadline_date": "2026-10-11T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "May 10-14, 2027",
-      "place": "Dublin, Ireland",
-      "website": "https://acmweb2027.org/",
-      "status": "announced",
-      "source": "https://acmweb2027.org/ ; https://acmweb2027.org/important-dates/",
-      "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). The official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates (confirmed 2026-07-05): abstract submission Oct 11, 2026 and full paper submission Oct 18, 2026; notification Dec 10, 2026, rebuttal Dec 12-19, 2026, camera-ready Jan 31, 2027. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round after today (2026-07-05) is the Oct 11, 2026 abstract deadline followed by the Oct 18, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
-    },
-    {
-      "venue": "WWW",
-      "year": 2027,
-      "area": "WS",
-      "fullName": "The Web Conference (ACM Web Conference)",
-      "deadline_label": "Research & Industry Track (Full Paper)",
       "deadline_date": "2026-10-18T23:59:00-12:00",
       "timezone": "AoE",
       "conference_dates": "May 10-14, 2027",
@@ -1358,7 +1343,22 @@
       "website": "https://acmweb2027.org/",
       "status": "announced",
       "source": "https://acmweb2027.org/ ; https://acmweb2027.org/important-dates/",
-      "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). The official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates (confirmed 2026-07-05): abstract submission Oct 11, 2026 and full paper submission Oct 18, 2026; notification Dec 10, 2026, rebuttal Dec 12-19, 2026, camera-ready Jan 31, 2027. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round after today (2026-07-05) is the Oct 11, 2026 abstract deadline followed by the Oct 18, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
+      "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). DATES REVISED (re-verified 2026-08-31): the official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates as abstract submission Oct 18, 2026 and full paper submission Oct 25, 2026; results released Dec 21, 2026, rebuttal Dec 21-31, 2026, notification Jan 4, 2027, camera-ready Jan 31, 2027. This is a one-week shift from the dates published on 2026-07-05 (then abstract Oct 11 / full paper Oct 18, notification Dec 10, rebuttal Dec 12-19); the official site was moved back a week. Aggregator sites (getpaperpilot, myhuiban, aideadlines, beri.net) still show the old Oct 11/18 dates but the official acmweb2027.org page is authoritative. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round is the Oct 18, 2026 abstract deadline followed by the Oct 25, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
+    },
+    {
+      "venue": "WWW",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "The Web Conference (ACM Web Conference)",
+      "deadline_label": "Research & Industry Track (Full Paper)",
+      "deadline_date": "2026-10-25T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 10-14, 2027",
+      "place": "Dublin, Ireland",
+      "website": "https://acmweb2027.org/",
+      "status": "announced",
+      "source": "https://acmweb2027.org/ ; https://acmweb2027.org/important-dates/",
+      "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). DATES REVISED (re-verified 2026-08-31): the official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates as abstract submission Oct 18, 2026 and full paper submission Oct 25, 2026; results released Dec 21, 2026, rebuttal Dec 21-31, 2026, notification Jan 4, 2027, camera-ready Jan 31, 2027. This is a one-week shift from the dates published on 2026-07-05 (then abstract Oct 11 / full paper Oct 18, notification Dec 10, rebuttal Dec 12-19); the official site was moved back a week. Aggregator sites (getpaperpilot, myhuiban, aideadlines, beri.net) still show the old Oct 11/18 dates but the official acmweb2027.org page is authoritative. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round is the Oct 18, 2026 abstract deadline followed by the Oct 25, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
     },
     {
       "venue": "IMWUT",
