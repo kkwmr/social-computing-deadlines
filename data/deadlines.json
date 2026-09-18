@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-31",
-  "count": 67,
+  "lastUpdated": "2026-09-19",
+  "count": 69,
   "conferences": [
     {
       "venue": "CHI",
@@ -317,6 +317,33 @@
       "status": "announced",
       "source": "https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/",
       "notes": "DIS 2027 is now OFFICIALLY ANNOUNCED (confirmed 2026-06-29 from the official dis.acm.org/2027 site): the conference will be held at KTH Royal Institute of Technology (Department of Media Technology and Interaction Design), Stockholm, Sweden, June 28 – July 2, 2027.\n\nDIS is an annual ACM SIGCHI conference (sub=HCI) with a two-stage Papers track: an abstract/title/metadata deadline followed ~one week later by the full-paper deadline. Per the official Contributing page, the (provisional) DIS 2027 dates are: Full paper & Pictorials abstract+title Jan 11, 2027; Full papers & Pictorials Jan 18, 2027; Workshops Feb 1, 2027; Doctoral Consortium & Interactivities Feb 19, 2027. The official page lists these as PROVISIONAL and does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with prior DIS cycles (DIS 2026 used AoE) and with neighboring entries — verify when the full CFP is finalized.\n\nReference cycle - DIS 2026 (Singapore, National University of Singapore, June 13-17, 2026): abstract Jan 9, 2026; full paper Jan 19, 2026 (AoE). Recent locations: DIS 2025 Funchal, Madeira, Portugal (July 5-9, 2025); DIS 2024 Copenhagen. Conference is annual (not biennial); no skipped years."
+    },
+    {
+      "venue": "MobileHCI",
+      "year": 2027,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM International Conference on Mobile Human-Computer Interaction",
+      "place": "Limassol, Cyprus",
+      "dates": "September 20-23, 2027",
+      "end": "2027-09-23",
+      "website": "https://mobilehci.acm.org/2027/",
+      "deadlines": [
+        {
+          "label": "Full Paper (Abstract)",
+          "date": "2027-02-10T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2027-02-17T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://mobilehci.acm.org/2027/",
+      "notes": "MobileHCI is the ACM SIGCHI flagship annual conference on human-computer interaction with mobile devices and services (sub=HCI), a core in-scope HCI venue previously untracked alongside CHI/UIST/DIS/GROUP. MobileHCI 2027 is OFFICIALLY ANNOUNCED (official site mobilehci.acm.org/2027 live as of 2026-09-19): hosted by the University of Cyprus and CYENS Centre of Excellence at the St. Raphael Resort & Marina, Limassol, Cyprus, September 20-23, 2027, theme \"Connecting Realities\". The Papers track is a two-stage journal-style (revise-and-resubmit) process: abstract submission Feb 10, 2027; full paper submission Feb 17, 2027; first-round notification Apr 15, 2027; revised submission May 13, 2027; final notification June 17, 2027. Both submission deadlines are still in the future relative to today (2026-09-19). The official 2027 site does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with the MobileHCI 2026 papers page (which stated all deadlines are 23:59 AoE) and with neighboring entries — verify when the full CFP is finalized. Reference cycle: MobileHCI 2026 was held in Swansea, Wales, UK, Aug 31 - Sep 3, 2026 (paper deadline Jan 29, 2026 AoE), now concluded, so MobileHCI 2027 is the next upcoming edition. Cross-checked the official mobilehci.acm.org/2027 site with the SIGCHI upcoming-conferences listing and hci-deadlines.github.io."
     },
     {
       "venue": "IMWUT",
@@ -1136,111 +1163,6 @@
   ],
   "deadlines_flat": [
     {
-      "venue": "Complex Networks",
-      "year": 2026,
-      "area": "SC",
-      "fullName": "International Conference on Complex Networks and their Applications",
-      "deadline_label": "Full Paper / Extended Abstract",
-      "deadline_date": "2026-09-02T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "December 2-4, 2026",
-      "place": "Granada, Spain",
-      "website": "https://complexnetworks.org/",
-      "status": "announced",
-      "source": "https://complexnetworks.org/",
-      "notes": "The 15th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS / CNA 2026) is held in Granada, Spain, December 2-4, 2026 (tutorials December 1). It is a major annual network-science venue whose call for papers explicitly covers social-computing topics — including Social Network Analysis, Social Reputation/Influence and Trust, Information Spreading in Social Media, and Rumor and Viral Marketing — alongside the broader network-science program (dynamics, epidemics, biological, financial, and infrastructure networks); this is why it is tracked here alongside ASONAM and SBP-BRiMS. The official site (complexnetworks.org) lists a single submission deadline of September 2, 2026, 23:59 AoE for BOTH full papers (published in the Springer Studies in Computational Intelligence proceedings) and extended abstracts (presentation only, no proceedings); acceptance notification October 1, 2026; camera-ready October 8, 2026; registration October 15, 2026. Submissions are handled via CMT. The September 2, 2026 deadline is still upcoming relative to today. Added 2026-07-27 (backfill) from the official CNA 2026 site; ignore WASET/other decoy 'Complex Networks' listings, which are unaffiliated."
-    },
-    {
-      "venue": "EAAMO",
-      "year": 2026,
-      "area": "HCI",
-      "fullName": "ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization",
-      "deadline_label": "Work-in-Progress Poster (non-archival)",
-      "deadline_date": "2026-09-07T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "November 5-7, 2026",
-      "place": "Munich, Germany",
-      "website": "https://conference2026.eaamo.org/",
-      "status": "announced",
-      "source": "https://conference2026.eaamo.org/cfp/ ; https://conference2026.eaamo.org/call_for_posters/",
-      "notes": "EAAMO is the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization — an interdisciplinary venue (computer science, economics, operations research, and the social sciences) on using algorithms, optimization, and mechanism design to improve equity and access for historically underserved and disadvantaged communities. Classified here under 'HCI & Society' alongside FAccT and AIES, its closest sibling venues. The Sixth EAAMO (EAAMO '26) is held at Ludwig-Maximilians-Universität München (LMU Munich), Munich, Germany, November 5-7, 2026, per the official site conference2026.eaamo.org. The main archival Papers track used a two-stage submission, all Anywhere on Earth (AoE): abstract May 8, 2026 (extended from May 1); full paper May 15, 2026 (extended from May 8); author notification August 1, 2026 — all now PASSED relative to today (2026-08-24). The one remaining FUTURE deadline is the Work-in-Progress Poster session: September 7, 2026, Anywhere on Earth (AoE). WiP posters require a title and abstract (a full paper is optional/encouraged); they are NON-ARCHIVAL — accepted posters do not constitute an accepted paper and are not published in the ACM proceedings, so presenters may later submit the work elsewhere. Archival papers appear in the ACM Digital Library; submissions are handled via OpenReview. EAAMO 2027 has not yet been announced. Added 2026-08-24 (new) from the official EAAMO '26 CFP and Call for Posters pages."
-    },
-    {
-      "venue": "CHI",
-      "year": 2027,
-      "area": "HCI",
-      "fullName": "ACM CHI Conference on Human Factors in Computing Systems",
-      "deadline_label": "Full Paper",
-      "deadline_date": "2026-09-10T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "May 10-14, 2027",
-      "place": "Pittsburgh, PA, USA",
-      "website": "https://chi2027.acm.org/",
-      "status": "announced",
-      "source": "https://chi2027.acm.org/authors/papers/",
-      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens Thursday, August 13, 2026 (re-verified 2026-08-01 against the official authors/papers page; an earlier note stated July 30, 2026, which was corrected). The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
-    },
-    {
-      "venue": "CHI",
-      "year": 2027,
-      "area": "HCI",
-      "fullName": "ACM CHI Conference on Human Factors in Computing Systems",
-      "deadline_label": "Revise & Resubmit (resubmission)",
-      "deadline_date": "2026-12-03T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "May 10-14, 2027",
-      "place": "Pittsburgh, PA, USA",
-      "website": "https://chi2027.acm.org/",
-      "status": "announced",
-      "source": "https://chi2027.acm.org/authors/papers/",
-      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens Thursday, August 13, 2026 (re-verified 2026-08-01 against the official authors/papers page; an earlier note stated July 30, 2026, which was corrected). The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
-    },
-    {
-      "venue": "iConference",
-      "year": 2027,
-      "area": "SC",
-      "fullName": "iConference (iSchools)",
-      "deadline_label": "Full Research Papers",
-      "deadline_date": "2026-09-15T23:59:00-11:00",
-      "timezone": "GMT-11",
-      "conference_dates": "April 5-9, 2027",
-      "place": "Wellington, New Zealand",
-      "website": "https://www.ischools.org/iconference",
-      "status": "announced",
-      "source": "https://www.ischools.org/full-papers ; https://www.ischools.org/post/iconference-2027-to-be-hosted-by-victoria-university-of-wellington",
-      "notes": "iConference 2027 (iSchools) is jointly hosted by Victoria University of Wellington and Monash University; on-site program Apr 5-9, 2027 in Wellington, NZ (virtual Mar 22-25, 2027). First full-research-paper submission deadline Sep 15, 2026. TIMEZONE CORRECTION (2026-07-15): the official iSchools full-papers CFP states \"Submission deadline: 15 September 2026\" and \"All deadlines are in GMT-11 23:59\" — iConference uses GMT-11, NOT AoE (UTC-12), so the deadline instant is one hour EARLIER than the AoE convention used by most neighbouring entries. This entry previously stored the deadline as 23:59 AoE, overstating the submission window by one hour; it is now stored as 23:59 GMT-11 (UTC-11) per the official source."
-    },
-    {
-      "venue": "ICWSM",
-      "year": 2027,
-      "area": "WS",
-      "fullName": "International AAAI Conference on Web and Social Media",
-      "deadline_label": "Round 2 Full Paper",
-      "deadline_date": "2026-09-15T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "",
-      "place": "Edinburgh, Scotland, United Kingdom",
-      "website": "https://www.icwsm.org/2027/",
-      "status": "announced",
-      "source": "https://www.icwsm.org/2027/submit/",
-      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The dedicated official ICWSM 2027 site (icwsm.org/2027/) is now LIVE and its submit page confirms the three rounds for the Edinburgh edition (re-verified 2026-07-14): Round 1 May 15, 2026 (passed; notification Jul 15, 2026); Round 2 Sept 15, 2026 (notification Nov 15, 2026); Round 3 Jan 15, 2027 (notification Mar 15, 2027), all at 23:59 AoE. Papers accepted in any of these three rounds are presented at ICWSM 2027; papers that receive an R&R in the January 2027 round will NOT be presented at ICWSM 2027. The NEXT upcoming round is Round 2 on Sept 15, 2026. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. The website/source fields previously pointed at the ICWSM 2026 submit page (icwsm.org/2026/submit.html) because no 2027 site existed; they now point at the official 2027 pages, which state identical round deadlines."
-    },
-    {
-      "venue": "ICWSM",
-      "year": 2027,
-      "area": "WS",
-      "fullName": "International AAAI Conference on Web and Social Media",
-      "deadline_label": "Round 3 Full Paper (also posters/demos/datasets)",
-      "deadline_date": "2027-01-15T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "",
-      "place": "Edinburgh, Scotland, United Kingdom",
-      "website": "https://www.icwsm.org/2027/",
-      "status": "announced",
-      "source": "https://www.icwsm.org/2027/submit/",
-      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The dedicated official ICWSM 2027 site (icwsm.org/2027/) is now LIVE and its submit page confirms the three rounds for the Edinburgh edition (re-verified 2026-07-14): Round 1 May 15, 2026 (passed; notification Jul 15, 2026); Round 2 Sept 15, 2026 (notification Nov 15, 2026); Round 3 Jan 15, 2027 (notification Mar 15, 2027), all at 23:59 AoE. Papers accepted in any of these three rounds are presented at ICWSM 2027; papers that receive an R&R in the January 2027 round will NOT be presented at ICWSM 2027. The NEXT upcoming round is Round 2 on Sept 15, 2026. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. The website/source fields previously pointed at the ICWSM 2026 submit page (icwsm.org/2026/submit.html) because no 2027 site existed; they now point at the official 2027 pages, which state identical round deadlines."
-    },
-    {
       "venue": "AAMAS",
       "year": 2027,
       "area": "SC",
@@ -1436,6 +1358,66 @@
       "notes": "Communities and Technologies (C&T) is the biennial ACM international conference on the connections between communities (in their many forms) and information & communication technologies — a core social-computing venue (classified here 'Social Computing'), previously untracked. C&T is held in odd years (…2023, 2025, 2027). The 2027 edition (theme 'Communities of Hope') is held in Delft, The Netherlands, April 12-16, 2027, per the official site 2027.comtech.community. The Papers track has a SINGLE submission deadline covering Full, Short, and Exploratory papers — November 9, 2026 (AoE, 23:59 UTC-12) per the official Call for Papers (2027.comtech.community/papers/); there is NO separate abstract deadline. Acceptance notification January 15, 2027; camera-ready February 26, 2027. Accepted papers are published in the ACM Digital Library and are part of the ACM Open program. The Nov 9, 2026 deadline is still upcoming relative to today. Added 2026-08-03 (new) from the official C&T 2027 site and Papers CFP; re-verify any workshop/DC/poster deadlines against the site nearer the date."
     },
     {
+      "venue": "CHI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM CHI Conference on Human Factors in Computing Systems",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-09-10T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 10-14, 2027",
+      "place": "Pittsburgh, PA, USA",
+      "website": "https://chi2027.acm.org/",
+      "status": "announced",
+      "source": "https://chi2027.acm.org/authors/papers/",
+      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens Thursday, August 13, 2026 (re-verified 2026-08-01 against the official authors/papers page; an earlier note stated July 30, 2026, which was corrected). The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
+    },
+    {
+      "venue": "CHI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM CHI Conference on Human Factors in Computing Systems",
+      "deadline_label": "Revise & Resubmit (resubmission)",
+      "deadline_date": "2026-12-03T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 10-14, 2027",
+      "place": "Pittsburgh, PA, USA",
+      "website": "https://chi2027.acm.org/",
+      "status": "announced",
+      "source": "https://chi2027.acm.org/authors/papers/",
+      "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens Thursday, August 13, 2026 (re-verified 2026-08-01 against the official authors/papers page; an earlier note stated July 30, 2026, which was corrected). The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
+    },
+    {
+      "venue": "ICWSM",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "International AAAI Conference on Web and Social Media",
+      "deadline_label": "Round 2 Full Paper",
+      "deadline_date": "2026-09-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "",
+      "place": "Edinburgh, Scotland, United Kingdom",
+      "website": "https://www.icwsm.org/2027/",
+      "status": "announced",
+      "source": "https://www.icwsm.org/2027/submit/",
+      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The dedicated official ICWSM 2027 site (icwsm.org/2027/) is now LIVE and its submit page confirms the three rounds for the Edinburgh edition (re-verified 2026-07-14): Round 1 May 15, 2026 (passed; notification Jul 15, 2026); Round 2 Sept 15, 2026 (notification Nov 15, 2026); Round 3 Jan 15, 2027 (notification Mar 15, 2027), all at 23:59 AoE. Papers accepted in any of these three rounds are presented at ICWSM 2027; papers that receive an R&R in the January 2027 round will NOT be presented at ICWSM 2027. The NEXT upcoming round is Round 2 on Sept 15, 2026. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. The website/source fields previously pointed at the ICWSM 2026 submit page (icwsm.org/2026/submit.html) because no 2027 site existed; they now point at the official 2027 pages, which state identical round deadlines."
+    },
+    {
+      "venue": "ICWSM",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "International AAAI Conference on Web and Social Media",
+      "deadline_label": "Round 3 Full Paper (also posters/demos/datasets)",
+      "deadline_date": "2027-01-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "",
+      "place": "Edinburgh, Scotland, United Kingdom",
+      "website": "https://www.icwsm.org/2027/",
+      "status": "announced",
+      "source": "https://www.icwsm.org/2027/submit/",
+      "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The dedicated official ICWSM 2027 site (icwsm.org/2027/) is now LIVE and its submit page confirms the three rounds for the Edinburgh edition (re-verified 2026-07-14): Round 1 May 15, 2026 (passed; notification Jul 15, 2026); Round 2 Sept 15, 2026 (notification Nov 15, 2026); Round 3 Jan 15, 2027 (notification Mar 15, 2027), all at 23:59 AoE. Papers accepted in any of these three rounds are presented at ICWSM 2027; papers that receive an R&R in the January 2027 round will NOT be presented at ICWSM 2027. The NEXT upcoming round is Round 2 on Sept 15, 2026. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. The website/source fields previously pointed at the ICWSM 2026 submit page (icwsm.org/2026/submit.html) because no 2027 site existed; they now point at the official 2027 pages, which state identical round deadlines."
+    },
+    {
       "venue": "DIS",
       "year": 2027,
       "area": "HCI",
@@ -1464,6 +1446,36 @@
       "status": "announced",
       "source": "https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/",
       "notes": "DIS 2027 is now OFFICIALLY ANNOUNCED (confirmed 2026-06-29 from the official dis.acm.org/2027 site): the conference will be held at KTH Royal Institute of Technology (Department of Media Technology and Interaction Design), Stockholm, Sweden, June 28 – July 2, 2027.\n\nDIS is an annual ACM SIGCHI conference (sub=HCI) with a two-stage Papers track: an abstract/title/metadata deadline followed ~one week later by the full-paper deadline. Per the official Contributing page, the (provisional) DIS 2027 dates are: Full paper & Pictorials abstract+title Jan 11, 2027; Full papers & Pictorials Jan 18, 2027; Workshops Feb 1, 2027; Doctoral Consortium & Interactivities Feb 19, 2027. The official page lists these as PROVISIONAL and does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with prior DIS cycles (DIS 2026 used AoE) and with neighboring entries — verify when the full CFP is finalized.\n\nReference cycle - DIS 2026 (Singapore, National University of Singapore, June 13-17, 2026): abstract Jan 9, 2026; full paper Jan 19, 2026 (AoE). Recent locations: DIS 2025 Funchal, Madeira, Portugal (July 5-9, 2025); DIS 2024 Copenhagen. Conference is annual (not biennial); no skipped years."
+    },
+    {
+      "venue": "MobileHCI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM International Conference on Mobile Human-Computer Interaction",
+      "deadline_label": "Full Paper (Abstract)",
+      "deadline_date": "2027-02-10T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "September 20-23, 2027",
+      "place": "Limassol, Cyprus",
+      "website": "https://mobilehci.acm.org/2027/",
+      "status": "announced",
+      "source": "https://mobilehci.acm.org/2027/",
+      "notes": "MobileHCI is the ACM SIGCHI flagship annual conference on human-computer interaction with mobile devices and services (sub=HCI), a core in-scope HCI venue previously untracked alongside CHI/UIST/DIS/GROUP. MobileHCI 2027 is OFFICIALLY ANNOUNCED (official site mobilehci.acm.org/2027 live as of 2026-09-19): hosted by the University of Cyprus and CYENS Centre of Excellence at the St. Raphael Resort & Marina, Limassol, Cyprus, September 20-23, 2027, theme \"Connecting Realities\". The Papers track is a two-stage journal-style (revise-and-resubmit) process: abstract submission Feb 10, 2027; full paper submission Feb 17, 2027; first-round notification Apr 15, 2027; revised submission May 13, 2027; final notification June 17, 2027. Both submission deadlines are still in the future relative to today (2026-09-19). The official 2027 site does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with the MobileHCI 2026 papers page (which stated all deadlines are 23:59 AoE) and with neighboring entries — verify when the full CFP is finalized. Reference cycle: MobileHCI 2026 was held in Swansea, Wales, UK, Aug 31 - Sep 3, 2026 (paper deadline Jan 29, 2026 AoE), now concluded, so MobileHCI 2027 is the next upcoming edition. Cross-checked the official mobilehci.acm.org/2027 site with the SIGCHI upcoming-conferences listing and hci-deadlines.github.io."
+    },
+    {
+      "venue": "MobileHCI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM International Conference on Mobile Human-Computer Interaction",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2027-02-17T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "September 20-23, 2027",
+      "place": "Limassol, Cyprus",
+      "website": "https://mobilehci.acm.org/2027/",
+      "status": "announced",
+      "source": "https://mobilehci.acm.org/2027/",
+      "notes": "MobileHCI is the ACM SIGCHI flagship annual conference on human-computer interaction with mobile devices and services (sub=HCI), a core in-scope HCI venue previously untracked alongside CHI/UIST/DIS/GROUP. MobileHCI 2027 is OFFICIALLY ANNOUNCED (official site mobilehci.acm.org/2027 live as of 2026-09-19): hosted by the University of Cyprus and CYENS Centre of Excellence at the St. Raphael Resort & Marina, Limassol, Cyprus, September 20-23, 2027, theme \"Connecting Realities\". The Papers track is a two-stage journal-style (revise-and-resubmit) process: abstract submission Feb 10, 2027; full paper submission Feb 17, 2027; first-round notification Apr 15, 2027; revised submission May 13, 2027; final notification June 17, 2027. Both submission deadlines are still in the future relative to today (2026-09-19). The official 2027 site does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with the MobileHCI 2026 papers page (which stated all deadlines are 23:59 AoE) and with neighboring entries — verify when the full CFP is finalized. Reference cycle: MobileHCI 2026 was held in Swansea, Wales, UK, Aug 31 - Sep 3, 2026 (paper deadline Jan 29, 2026 AoE), now concluded, so MobileHCI 2027 is the next upcoming edition. Cross-checked the official mobilehci.acm.org/2027 site with the SIGCHI upcoming-conferences listing and hci-deadlines.github.io."
     },
     {
       "venue": "CSCW",
@@ -1631,6 +1643,21 @@
       "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The CFP also states that \"The submission deadlines are strict and no extensions, regardless of circumstances, will be allowed\" — re-verified against the official Research Track CFP on 2026-07-15 (5 days before the Cycle 1 abstract deadline), with no extension announced. The official site now publishes the exact conference dates and venue (confirmed 2026-07-15): August 1-5, 2027 at the San Jose McEnery Convention Center, San Jose, California, USA; the `end` field and `dates`/`place` are updated accordingly (previously the CFP gave only the month and city). This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
     },
     {
+      "venue": "Complex Networks",
+      "year": 2026,
+      "area": "SC",
+      "fullName": "International Conference on Complex Networks and their Applications",
+      "deadline_label": "Full Paper / Extended Abstract",
+      "deadline_date": "2026-09-02T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "December 2-4, 2026",
+      "place": "Granada, Spain",
+      "website": "https://complexnetworks.org/",
+      "status": "announced",
+      "source": "https://complexnetworks.org/",
+      "notes": "The 15th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS / CNA 2026) is held in Granada, Spain, December 2-4, 2026 (tutorials December 1). It is a major annual network-science venue whose call for papers explicitly covers social-computing topics — including Social Network Analysis, Social Reputation/Influence and Trust, Information Spreading in Social Media, and Rumor and Viral Marketing — alongside the broader network-science program (dynamics, epidemics, biological, financial, and infrastructure networks); this is why it is tracked here alongside ASONAM and SBP-BRiMS. The official site (complexnetworks.org) lists a single submission deadline of September 2, 2026, 23:59 AoE for BOTH full papers (published in the Springer Studies in Computational Intelligence proceedings) and extended abstracts (presentation only, no proceedings); acceptance notification October 1, 2026; camera-ready October 8, 2026; registration October 15, 2026. Submissions are handled via CMT. The September 2, 2026 deadline is still upcoming relative to today. Added 2026-07-27 (backfill) from the official CNA 2026 site; ignore WASET/other decoy 'Complex Networks' listings, which are unaffiliated."
+    },
+    {
       "venue": "Hypertext",
       "year": 2026,
       "area": "WS",
@@ -1676,6 +1703,21 @@
       "notes": "AIES is the AAAI/ACM Conference on AI, Ethics, and Society — a major interdisciplinary venue on the ethical and societal challenges of artificial intelligence, co-sponsored by AAAI and ACM. Classified here under 'HCI & Society' alongside FAccT, its closest sibling venue. The Ninth AIES (AIES 2026) is held in Malmö, Sweden, October 12-14, 2026, per the official site aies-conference.com/2026. The official Call for Papers lists a two-stage submission, all at 11:59 PM Anywhere on Earth (AoE): abstract registration May 14, 2026; full paper submission May 21, 2026; author notification July 16, 2026. Both submission deadlines have already PASSED relative to today (2026-08-08), so there is no remaining future submission deadline for AIES 2026; the conference itself is still upcoming. Archival papers are published in the AAAI Digital Library (authors may also opt for a non-archival one-page-abstract option); submissions are handled via EasyChair (conf=aies26). AIES 2027 has not yet been announced. Added 2026-08-08 (backfill) from the official AIES 2026 CFP and homepage; re-verify once the AIES 2027 site opens."
     },
     {
+      "venue": "EAAMO",
+      "year": 2026,
+      "area": "HCI",
+      "fullName": "ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization",
+      "deadline_label": "Work-in-Progress Poster (non-archival)",
+      "deadline_date": "2026-09-07T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "November 5-7, 2026",
+      "place": "Munich, Germany",
+      "website": "https://conference2026.eaamo.org/",
+      "status": "announced",
+      "source": "https://conference2026.eaamo.org/cfp/ ; https://conference2026.eaamo.org/call_for_posters/",
+      "notes": "EAAMO is the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization — an interdisciplinary venue (computer science, economics, operations research, and the social sciences) on using algorithms, optimization, and mechanism design to improve equity and access for historically underserved and disadvantaged communities. Classified here under 'HCI & Society' alongside FAccT and AIES, its closest sibling venues. The Sixth EAAMO (EAAMO '26) is held at Ludwig-Maximilians-Universität München (LMU Munich), Munich, Germany, November 5-7, 2026, per the official site conference2026.eaamo.org. The main archival Papers track used a two-stage submission, all Anywhere on Earth (AoE): abstract May 8, 2026 (extended from May 1); full paper May 15, 2026 (extended from May 8); author notification August 1, 2026 — all now PASSED relative to today (2026-08-24). The one remaining FUTURE deadline is the Work-in-Progress Poster session: September 7, 2026, Anywhere on Earth (AoE). WiP posters require a title and abstract (a full paper is optional/encouraged); they are NON-ARCHIVAL — accepted posters do not constitute an accepted paper and are not published in the ACM proceedings, so presenters may later submit the work elsewhere. Archival papers appear in the ACM Digital Library; submissions are handled via OpenReview. EAAMO 2027 has not yet been announced. Added 2026-08-24 (new) from the official EAAMO '26 CFP and Call for Posters pages."
+    },
+    {
       "venue": "CI",
       "year": 2026,
       "area": "SC",
@@ -1719,6 +1761,21 @@
       "status": "announced",
       "source": "https://sbp-brims.org/2026/cfp/ ; https://sbp-brims.org/2026/",
       "notes": "SBP-BRiMS 2026 is held Oct 12-14, 2026 at Carnegie Mellon University, Pittsburgh. Strong on social-media manipulation, disinformation, and behavioral modeling. Full-paper deadline Jun 22, 2026 (both the official CFP page sbp-brims.org/2026/cfp/ and the homepage list \"22-Jun-2026\", author notification 15-Jul-2026, final files 26-Jul-2026); this supersedes an earlier Jun 15, 2026 date that still appears on the stale EasyChair CFP mirror, so the deadline was evidently extended by a week. Working papers / challenge / panels / tutorials Aug 21, 2026 (confirmed on the CFP). Timezone not stated on the official CFP; AoE assumed per neighboring entries. Both paper deadlines are now past; conference still upcoming. Re-verified 2026-07-20."
+    },
+    {
+      "venue": "iConference",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "iConference (iSchools)",
+      "deadline_label": "Full Research Papers",
+      "deadline_date": "2026-09-15T23:59:00-11:00",
+      "timezone": "GMT-11",
+      "conference_dates": "April 5-9, 2027",
+      "place": "Wellington, New Zealand",
+      "website": "https://www.ischools.org/iconference",
+      "status": "announced",
+      "source": "https://www.ischools.org/full-papers ; https://www.ischools.org/post/iconference-2027-to-be-hosted-by-victoria-university-of-wellington",
+      "notes": "iConference 2027 (iSchools) is jointly hosted by Victoria University of Wellington and Monash University; on-site program Apr 5-9, 2027 in Wellington, NZ (virtual Mar 22-25, 2027). First full-research-paper submission deadline Sep 15, 2026. TIMEZONE CORRECTION (2026-07-15): the official iSchools full-papers CFP states \"Submission deadline: 15 September 2026\" and \"All deadlines are in GMT-11 23:59\" — iConference uses GMT-11, NOT AoE (UTC-12), so the deadline instant is one hour EARLIER than the AoE convention used by most neighbouring entries. This entry previously stored the deadline as 23:59 AoE, overstating the submission window by one hour; it is now stored as 23:59 GMT-11 (UTC-11) per the official source."
     },
     {
       "venue": "ASONAM",
