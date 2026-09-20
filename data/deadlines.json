@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-09-19",
-  "count": 69,
+  "lastUpdated": "2026-09-21",
+  "count": 70,
   "conferences": [
     {
       "venue": "CHI",
@@ -89,14 +89,20 @@
         "WS"
       ],
       "fullName": "ACM Web Science Conference",
-      "place": "",
-      "dates": "May–June 2027 (expected; exact dates not yet announced)",
-      "end": null,
-      "website": "https://webscience.org/category/acm-websci/",
-      "deadlines": [],
-      "status": "unknown",
-      "source": "https://webscience.org/deadline-approaching-call-for-initial-statements-of-interest-for-hosting-acm-web-science-conference-2027/",
-      "notes": "WebSci'26 (18th edition) was held May 26-29, 2026 at TU Braunschweig, Braunschweig, Germany; its full-paper submission deadline was December 17, 2025 (notifications Feb 18, 2026), both now in the past relative to 2026-06-04, so it is NOT the next upcoming edition. The next edition is WebSci'27 (19th ACM Web Science Conference). As of the latest authoritative info, WebSci'27 is still in the host-bidding phase: the Web Science Trust Steering Committee issued a Call for Initial Statements of Interest for hosting, with preference for bids in the Americas. Host-selection timeline: statements of interest due 23 May 2025, shortlist 20 Jun 2025, formal applications 19 Sep 2025, final host announced ~31 Oct 2025; the host was also to be announced at WebSci'26 in May 2026. The conference is \"expected to take place in May–June\" 2027. No official WebSci'27 website, exact location, conference dates, or paper-submission deadlines (abstract or full paper) have been published yet, so the next submission deadline is currently UNKNOWN. Cross-checked across webscience.org host-call page, websci25.org call-for-hosting page, and webscience.org news feed — all consistent that no CFP/deadline exists yet. Recommend re-checking webscience.org and the eventual websci27 site in late 2026 once a host is confirmed."
+      "place": "Singapore",
+      "dates": "May 25-28, 2027",
+      "end": "2027-05-28",
+      "website": "https://websci27.webscience.org/",
+      "deadlines": [
+        {
+          "label": "Full Paper",
+          "date": "2026-12-15T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://websci27.webscience.org/ ; https://websci27.webscience.org/call-for-papers/",
+      "notes": "WebSci'26 (18th edition) was held May 26-29, 2026 at TU Braunschweig, Braunschweig, Germany; its full-paper submission deadline was December 17, 2025 (both now in the past). The next edition is WebSci'27 (19th ACM Web Science Conference), and its host is now confirmed: the official site (websci27.webscience.org) is live, hosted in Singapore, May 25-28, 2027 (this upgrades the entry from status \"unknown\" to \"announced\" on 2026-09-21; previously WebSci'27 was still in the host-bidding phase — Call for Initial Statements of Interest, preference for the Americas — with no host, dates, or CFP published). The Call for Papers is OPEN with a single firm full-paper submission deadline of December 15, 2026 (the CFP states \"The paper submission deadline is firm\"; there is no separate abstract deadline). Workshop/tutorial proposals are due November 15, 2026. The official site does NOT state a timezone; AoE is assumed here, consistent with prior WebSci CFPs (WebSci'26/'25 used 23:59 AoE) and neighboring entries. Cross-checked: websci27.webscience.org homepage and its call-for-papers page. Re-verify the exact timezone and any camera-ready/notification dates once fuller details are posted."
     },
     {
       "venue": "IC2S2",
@@ -1388,6 +1394,21 @@
       "notes": "CHI is annual. CHI 2027 is held at the David L. Lawrence Convention Center in Pittsburgh, USA. There is NO abstract deadline for CHI 2027 papers (the official papers page explicitly states this). The submission site opens Thursday, August 13, 2026 (re-verified 2026-08-01 against the official authors/papers page; an earlier note stated July 30, 2026, which was corrected). The single full-paper submission deadline is Thursday, September 10, 2026 (AoE), covering papers, videos, and supplementary materials. CHI uses a single-cycle Papers process with a Revise & Resubmit (R&R) phase: reviews released Nov 5, 2026; R&R resubmission deadline Dec 3, 2026; final notification Dec 17, 2026. All deadlines are AoE (UTC-12) and include a 24-hour grace period. The next upcoming round after today (2026-06-04) is the Sept 10, 2026 full-paper deadline; the Dec 3, 2026 R&R deadline only applies to papers invited to resubmit. Cross-checked official site (chi2027.acm.org) with WebSearch aggregators (Paperpin, hci-deadlines.github.io, ai-deadlines), all consistent."
     },
     {
+      "venue": "WEBSCI",
+      "year": 2027,
+      "area": "WS",
+      "fullName": "ACM Web Science Conference",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-12-15T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 25-28, 2027",
+      "place": "Singapore",
+      "website": "https://websci27.webscience.org/",
+      "status": "announced",
+      "source": "https://websci27.webscience.org/ ; https://websci27.webscience.org/call-for-papers/",
+      "notes": "WebSci'26 (18th edition) was held May 26-29, 2026 at TU Braunschweig, Braunschweig, Germany; its full-paper submission deadline was December 17, 2025 (both now in the past). The next edition is WebSci'27 (19th ACM Web Science Conference), and its host is now confirmed: the official site (websci27.webscience.org) is live, hosted in Singapore, May 25-28, 2027 (this upgrades the entry from status \"unknown\" to \"announced\" on 2026-09-21; previously WebSci'27 was still in the host-bidding phase — Call for Initial Statements of Interest, preference for the Americas — with no host, dates, or CFP published). The Call for Papers is OPEN with a single firm full-paper submission deadline of December 15, 2026 (the CFP states \"The paper submission deadline is firm\"; there is no separate abstract deadline). Workshop/tutorial proposals are due November 15, 2026. The official site does NOT state a timezone; AoE is assumed here, consistent with prior WebSci CFPs (WebSci'26/'25 used 23:59 AoE) and neighboring entries. Cross-checked: websci27.webscience.org homepage and its call-for-papers page. Re-verify the exact timezone and any camera-ready/notification dates once fuller details are posted."
+    },
+    {
       "venue": "ICWSM",
       "year": 2027,
       "area": "WS",
@@ -1658,21 +1679,6 @@
       "notes": "The 15th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS / CNA 2026) is held in Granada, Spain, December 2-4, 2026 (tutorials December 1). It is a major annual network-science venue whose call for papers explicitly covers social-computing topics — including Social Network Analysis, Social Reputation/Influence and Trust, Information Spreading in Social Media, and Rumor and Viral Marketing — alongside the broader network-science program (dynamics, epidemics, biological, financial, and infrastructure networks); this is why it is tracked here alongside ASONAM and SBP-BRiMS. The official site (complexnetworks.org) lists a single submission deadline of September 2, 2026, 23:59 AoE for BOTH full papers (published in the Springer Studies in Computational Intelligence proceedings) and extended abstracts (presentation only, no proceedings); acceptance notification October 1, 2026; camera-ready October 8, 2026; registration October 15, 2026. Submissions are handled via CMT. The September 2, 2026 deadline is still upcoming relative to today. Added 2026-07-27 (backfill) from the official CNA 2026 site; ignore WASET/other decoy 'Complex Networks' listings, which are unaffiliated."
     },
     {
-      "venue": "Hypertext",
-      "year": 2026,
-      "area": "WS",
-      "fullName": "ACM Conference on Hypertext and Social Media",
-      "deadline_label": "Research Track Full Paper (final, extended)",
-      "deadline_date": "2026-04-30T13:00:00+01:00",
-      "timezone": "BST",
-      "conference_dates": "September 14-18, 2026",
-      "place": "London, England, United Kingdom",
-      "website": "https://ht.acm.org/ht2026/",
-      "status": "announced",
-      "source": "https://ht.acm.org/ht2026/open-calls/ ; https://ht.acm.org/ht2026/",
-      "notes": "ACM Hypertext (HT) is the ACM SIGWEB Conference on Hypertext and Social Media — the canonical venue for hypertext, hypermedia, linked information structures, and social-media/social-network analysis — classified here under 'Web & Social Media'. HT 2026 (theme 'Hypertext as Method') is held at the London College of Communication (Elephant and Castle), London, England, UK, September 14-18, 2026. The official Open Calls page lists the Research Track submission window as March 27, 2026 (AoE) extended to a final deadline of April 30, 2026 13:00 BST (12:00 UTC); notification June 19, 2026 (AoE); camera-ready August 3, 2026 (AoE). All main research-track deadlines have already PASSED relative to today (2026-07-27), so there is no remaining future submission deadline for HT 2026; the conference itself is still upcoming. The deadline recorded here is the final (extended) research-track full-paper deadline for reference. HT 2027 has not yet been announced. Added 2026-07-27 (backfill) from the official ht.acm.org/ht2026 Open Calls and homepage."
-    },
-    {
       "venue": "AIES",
       "year": 2026,
       "area": "HCI",
@@ -1776,6 +1782,21 @@
       "status": "announced",
       "source": "https://www.ischools.org/full-papers ; https://www.ischools.org/post/iconference-2027-to-be-hosted-by-victoria-university-of-wellington",
       "notes": "iConference 2027 (iSchools) is jointly hosted by Victoria University of Wellington and Monash University; on-site program Apr 5-9, 2027 in Wellington, NZ (virtual Mar 22-25, 2027). First full-research-paper submission deadline Sep 15, 2026. TIMEZONE CORRECTION (2026-07-15): the official iSchools full-papers CFP states \"Submission deadline: 15 September 2026\" and \"All deadlines are in GMT-11 23:59\" — iConference uses GMT-11, NOT AoE (UTC-12), so the deadline instant is one hour EARLIER than the AoE convention used by most neighbouring entries. This entry previously stored the deadline as 23:59 AoE, overstating the submission window by one hour; it is now stored as 23:59 GMT-11 (UTC-11) per the official source."
+    },
+    {
+      "venue": "Hypertext",
+      "year": 2026,
+      "area": "WS",
+      "fullName": "ACM Conference on Hypertext and Social Media",
+      "deadline_label": "Research Track Full Paper (final, extended)",
+      "deadline_date": "2026-04-30T13:00:00+01:00",
+      "timezone": "BST",
+      "conference_dates": "September 14-18, 2026",
+      "place": "London, England, United Kingdom",
+      "website": "https://ht.acm.org/ht2026/",
+      "status": "announced",
+      "source": "https://ht.acm.org/ht2026/open-calls/ ; https://ht.acm.org/ht2026/",
+      "notes": "ACM Hypertext (HT) is the ACM SIGWEB Conference on Hypertext and Social Media — the canonical venue for hypertext, hypermedia, linked information structures, and social-media/social-network analysis — classified here under 'Web & Social Media'. HT 2026 (theme 'Hypertext as Method') is held at the London College of Communication (Elephant and Castle), London, England, UK, September 14-18, 2026. The official Open Calls page lists the Research Track submission window as March 27, 2026 (AoE) extended to a final deadline of April 30, 2026 13:00 BST (12:00 UTC); notification June 19, 2026 (AoE); camera-ready August 3, 2026 (AoE). All main research-track deadlines have already PASSED relative to today (2026-07-27), so there is no remaining future submission deadline for HT 2026; the conference itself is still upcoming. The deadline recorded here is the final (extended) research-track full-paper deadline for reference. HT 2027 has not yet been announced. Added 2026-07-27 (backfill) from the official ht.acm.org/ht2026 Open Calls and homepage."
     },
     {
       "venue": "ASONAM",
