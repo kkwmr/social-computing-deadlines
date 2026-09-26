@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-09-21",
-  "count": 70,
+  "lastUpdated": "2026-09-27",
+  "count": 71,
   "conferences": [
     {
       "venue": "CHI",
@@ -275,11 +275,16 @@
           "label": "Full/Long Paper",
           "date": "2026-08-20T23:59:00-12:00",
           "tz": "AoE"
+        },
+        {
+          "label": "Posters & Demos",
+          "date": "2026-11-10T23:59:00-12:00",
+          "tz": "AoE"
         }
       ],
       "status": "announced",
-      "source": "https://iui.acm.org/2027/call-for-papers/",
-      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; re-verify the timezone and any short-paper/late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
+      "source": "https://iui.acm.org/2027/call-for-papers/ ; https://iui.acm.org/2027/",
+      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers — both now PASSED relative to today. The remaining upcoming submission deadline is the Posters & Demos track: November 10, 2026 (23:59 AoE) per the official IUI 2027 important-dates page (re-verified 2026-09-27), added here so the entry stays actionable now that the paper deadlines have closed. The Doctoral Consortium deadline (October 19, 2026, AoE) is also listed on the official site but, consistent with other venues in this dataset, DC deadlines are not tracked. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; Posters & Demos deadline added 2026-09-27 (fix). Re-verify the timezone and any late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
     },
     {
       "venue": "UIST",
@@ -1364,6 +1369,51 @@
       "notes": "Communities and Technologies (C&T) is the biennial ACM international conference on the connections between communities (in their many forms) and information & communication technologies — a core social-computing venue (classified here 'Social Computing'), previously untracked. C&T is held in odd years (…2023, 2025, 2027). The 2027 edition (theme 'Communities of Hope') is held in Delft, The Netherlands, April 12-16, 2027, per the official site 2027.comtech.community. The Papers track has a SINGLE submission deadline covering Full, Short, and Exploratory papers — November 9, 2026 (AoE, 23:59 UTC-12) per the official Call for Papers (2027.comtech.community/papers/); there is NO separate abstract deadline. Acceptance notification January 15, 2027; camera-ready February 26, 2027. Accepted papers are published in the ACM Digital Library and are part of the ACM Open program. The Nov 9, 2026 deadline is still upcoming relative to today. Added 2026-08-03 (new) from the official C&T 2027 site and Papers CFP; re-verify any workshop/DC/poster deadlines against the site nearer the date."
     },
     {
+      "venue": "IUI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Intelligent User Interfaces",
+      "deadline_label": "Full/Long Paper (Abstract)",
+      "deadline_date": "2026-08-13T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "February 8-11, 2027",
+      "place": "Helsinki, Finland",
+      "website": "https://iui.acm.org/2027/",
+      "status": "announced",
+      "source": "https://iui.acm.org/2027/call-for-papers/ ; https://iui.acm.org/2027/",
+      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers — both now PASSED relative to today. The remaining upcoming submission deadline is the Posters & Demos track: November 10, 2026 (23:59 AoE) per the official IUI 2027 important-dates page (re-verified 2026-09-27), added here so the entry stays actionable now that the paper deadlines have closed. The Doctoral Consortium deadline (October 19, 2026, AoE) is also listed on the official site but, consistent with other venues in this dataset, DC deadlines are not tracked. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; Posters & Demos deadline added 2026-09-27 (fix). Re-verify the timezone and any late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
+    },
+    {
+      "venue": "IUI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Intelligent User Interfaces",
+      "deadline_label": "Full/Long Paper",
+      "deadline_date": "2026-08-20T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "February 8-11, 2027",
+      "place": "Helsinki, Finland",
+      "website": "https://iui.acm.org/2027/",
+      "status": "announced",
+      "source": "https://iui.acm.org/2027/call-for-papers/ ; https://iui.acm.org/2027/",
+      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers — both now PASSED relative to today. The remaining upcoming submission deadline is the Posters & Demos track: November 10, 2026 (23:59 AoE) per the official IUI 2027 important-dates page (re-verified 2026-09-27), added here so the entry stays actionable now that the paper deadlines have closed. The Doctoral Consortium deadline (October 19, 2026, AoE) is also listed on the official site but, consistent with other venues in this dataset, DC deadlines are not tracked. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; Posters & Demos deadline added 2026-09-27 (fix). Re-verify the timezone and any late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
+    },
+    {
+      "venue": "IUI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Intelligent User Interfaces",
+      "deadline_label": "Posters & Demos",
+      "deadline_date": "2026-11-10T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "February 8-11, 2027",
+      "place": "Helsinki, Finland",
+      "website": "https://iui.acm.org/2027/",
+      "status": "announced",
+      "source": "https://iui.acm.org/2027/call-for-papers/ ; https://iui.acm.org/2027/",
+      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers — both now PASSED relative to today. The remaining upcoming submission deadline is the Posters & Demos track: November 10, 2026 (23:59 AoE) per the official IUI 2027 important-dates page (re-verified 2026-09-27), added here so the entry stays actionable now that the paper deadlines have closed. The Doctoral Consortium deadline (October 19, 2026, AoE) is also listed on the official site but, consistent with other venues in this dataset, DC deadlines are not tracked. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; Posters & Demos deadline added 2026-09-27 (fix). Re-verify the timezone and any late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
+    },
+    {
       "venue": "CHI",
       "year": 2027,
       "area": "HCI",
@@ -1572,36 +1622,6 @@
       "status": "announced",
       "source": "https://hcomp.acm.org/2026/",
       "notes": "Next upcoming edition is HCOMP 2026, held Sept 27-30, 2026 near Washington DC at Virginia Tech, co-located and tightly integrated with the 2026 ACM Collective Intelligence (CI) Conference (joint CFP, theme \"Connections\"). Original CFP deadlines were abstract June 1 / full paper June 8 (AoE); both were officially EXTENDED by one week to abstract June 8 and full paper June 15 (AoE), per the official site. Both deadlines are still in the future relative to 2026-06-04. Times stated only as date + AoE (11:59pm AoE assumed). Note: for 2026 the venue has been rebranded under ACM as the \"Conference on Human-AI Complementarity and Alignment\" but it is the continuation of the HCOMP series (formerly under AAAI). HCOMP 2027 details not yet announced. Cross-checked: official hcomp.acm.org/2026 site, SIGWEB call for participation, WikiCFP (eventid=195395), crowd-hcomp Google Group CFP, and ci.acm.org/2026."
-    },
-    {
-      "venue": "IUI",
-      "year": 2027,
-      "area": "HCI",
-      "fullName": "ACM Conference on Intelligent User Interfaces",
-      "deadline_label": "Full/Long Paper (Abstract)",
-      "deadline_date": "2026-08-13T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "February 8-11, 2027",
-      "place": "Helsinki, Finland",
-      "website": "https://iui.acm.org/2027/",
-      "status": "announced",
-      "source": "https://iui.acm.org/2027/call-for-papers/",
-      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; re-verify the timezone and any short-paper/late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
-    },
-    {
-      "venue": "IUI",
-      "year": 2027,
-      "area": "HCI",
-      "fullName": "ACM Conference on Intelligent User Interfaces",
-      "deadline_label": "Full/Long Paper",
-      "deadline_date": "2026-08-20T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "February 8-11, 2027",
-      "place": "Helsinki, Finland",
-      "website": "https://iui.acm.org/2027/",
-      "status": "announced",
-      "source": "https://iui.acm.org/2027/call-for-papers/",
-      "notes": "ACM IUI is the annual ACM SIGCHI-sponsored conference on Intelligent User Interfaces (the intersection of AI and HCI). IUI 2026 was held in Cagliari, Italy (March 2026) and has concluded. The next edition is IUI 2027, held at Paasitorni in Helsinki, Finland, February 8-11, 2027 (dates confirmed on both the official site iui.acm.org/2027 and the SIGCHI events page sigchi.org/events/iui-2027). The full/long-paper track uses a two-stage deadline: abstract registration due August 13, 2026 and full paper due August 20, 2026, both at 23:59 Anywhere on Earth (AoE, UTC-12) per the official Call for Papers. Sponsored by ACM SIGCHI (the CFP directs authors to select the SIGCHI society on the submission platform). Added 2026-07-18 (backfill) from the official IUI 2027 CFP; re-verify the timezone and any short-paper/late-breaking deadlines against iui.acm.org/2027 nearer the deadline."
     },
     {
       "venue": "WSDM",
