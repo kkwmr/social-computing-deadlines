@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-09-27",
-  "count": 71,
+  "lastUpdated": "2026-09-28",
+  "count": 75,
   "conferences": [
     {
       "venue": "CHI",
@@ -355,6 +355,43 @@
       "status": "announced",
       "source": "https://mobilehci.acm.org/2027/",
       "notes": "MobileHCI is the ACM SIGCHI flagship annual conference on human-computer interaction with mobile devices and services (sub=HCI), a core in-scope HCI venue previously untracked alongside CHI/UIST/DIS/GROUP. MobileHCI 2027 is OFFICIALLY ANNOUNCED (official site mobilehci.acm.org/2027 live as of 2026-09-19): hosted by the University of Cyprus and CYENS Centre of Excellence at the St. Raphael Resort & Marina, Limassol, Cyprus, September 20-23, 2027, theme \"Connecting Realities\". The Papers track is a two-stage journal-style (revise-and-resubmit) process: abstract submission Feb 10, 2027; full paper submission Feb 17, 2027; first-round notification Apr 15, 2027; revised submission May 13, 2027; final notification June 17, 2027. Both submission deadlines are still in the future relative to today (2026-09-19). The official 2027 site does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with the MobileHCI 2026 papers page (which stated all deadlines are 23:59 AoE) and with neighboring entries — verify when the full CFP is finalized. Reference cycle: MobileHCI 2026 was held in Swansea, Wales, UK, Aug 31 - Sep 3, 2026 (paper deadline Jan 29, 2026 AoE), now concluded, so MobileHCI 2027 is the next upcoming edition. Cross-checked the official mobilehci.acm.org/2027 site with the SIGCHI upcoming-conferences listing and hci-deadlines.github.io."
+    },
+    {
+      "venue": "HRI",
+      "year": 2027,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM/IEEE International Conference on Human-Robot Interaction",
+      "place": "Santa Clara, CA, USA",
+      "dates": "March 8-12, 2027",
+      "end": "2027-03-12",
+      "website": "https://humanrobotinteraction.org/2027/",
+      "deadlines": [
+        {
+          "label": "Full Paper (Abstract)",
+          "date": "2026-09-11T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2026-09-18T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Short Contributions",
+          "date": "2026-10-01T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "alt.HRI",
+          "date": "2026-10-01T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://humanrobotinteraction.org/2027/ ; https://humanrobotinteraction.org/2027/full-papers/",
+      "notes": "HRI is the annual ACM/IEEE International Conference on Human-Robot Interaction, a premier, highly selective, single-track venue at the intersection of HCI, robotics, and social/behavioral science (sub=HCI, on the \"HCI & Society\" side alongside CHI/UIST/DIS/MobileHCI). HRI 2027 (the 22nd edition) is OFFICIALLY ANNOUNCED and its CFP is live (official site humanrobotinteraction.org/2027 confirmed 2026-09-28): held in Santa Clara, CA, USA (Silicon Valley), March 8-12, 2027, theme \"Innovative HRI\". The official site states ALL deadlines are 23:59 AoE (Anywhere on Earth). Full Papers use a two-stage deadline: abstract Sep 11, 2026 and full paper Sep 18, 2026 (both now PASSED relative to today; review notification Oct 28, rebuttals due Nov 3, decision Nov 30, camera-ready Dec 18, 2026). The remaining upcoming paper-class deadlines are Short Contributions and alt.HRI, both Oct 1, 2026 (23:59 AoE), tracked here so the entry stays actionable now that the full-paper deadline has closed. Additional official deadlines NOT tracked here, consistent with other venues: Workshops & Tutorials Oct 5, 2026; Industry White Papers Oct 10, 2026; HRI Pioneers Oct 18, 2026; Videos and Demos & Student Design Competition Nov 20, 2026. Added 2026-09-28 (backfill) from the official HRI 2027 site and its Full Papers page; re-verify the timezone and any late-breaking deadlines against humanrobotinteraction.org/2027 nearer each deadline."
     },
     {
       "venue": "IMWUT",
@@ -1173,6 +1210,66 @@
     }
   ],
   "deadlines_flat": [
+    {
+      "venue": "HRI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM/IEEE International Conference on Human-Robot Interaction",
+      "deadline_label": "Full Paper (Abstract)",
+      "deadline_date": "2026-09-11T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 8-12, 2027",
+      "place": "Santa Clara, CA, USA",
+      "website": "https://humanrobotinteraction.org/2027/",
+      "status": "announced",
+      "source": "https://humanrobotinteraction.org/2027/ ; https://humanrobotinteraction.org/2027/full-papers/",
+      "notes": "HRI is the annual ACM/IEEE International Conference on Human-Robot Interaction, a premier, highly selective, single-track venue at the intersection of HCI, robotics, and social/behavioral science (sub=HCI, on the \"HCI & Society\" side alongside CHI/UIST/DIS/MobileHCI). HRI 2027 (the 22nd edition) is OFFICIALLY ANNOUNCED and its CFP is live (official site humanrobotinteraction.org/2027 confirmed 2026-09-28): held in Santa Clara, CA, USA (Silicon Valley), March 8-12, 2027, theme \"Innovative HRI\". The official site states ALL deadlines are 23:59 AoE (Anywhere on Earth). Full Papers use a two-stage deadline: abstract Sep 11, 2026 and full paper Sep 18, 2026 (both now PASSED relative to today; review notification Oct 28, rebuttals due Nov 3, decision Nov 30, camera-ready Dec 18, 2026). The remaining upcoming paper-class deadlines are Short Contributions and alt.HRI, both Oct 1, 2026 (23:59 AoE), tracked here so the entry stays actionable now that the full-paper deadline has closed. Additional official deadlines NOT tracked here, consistent with other venues: Workshops & Tutorials Oct 5, 2026; Industry White Papers Oct 10, 2026; HRI Pioneers Oct 18, 2026; Videos and Demos & Student Design Competition Nov 20, 2026. Added 2026-09-28 (backfill) from the official HRI 2027 site and its Full Papers page; re-verify the timezone and any late-breaking deadlines against humanrobotinteraction.org/2027 nearer each deadline."
+    },
+    {
+      "venue": "HRI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM/IEEE International Conference on Human-Robot Interaction",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-09-18T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 8-12, 2027",
+      "place": "Santa Clara, CA, USA",
+      "website": "https://humanrobotinteraction.org/2027/",
+      "status": "announced",
+      "source": "https://humanrobotinteraction.org/2027/ ; https://humanrobotinteraction.org/2027/full-papers/",
+      "notes": "HRI is the annual ACM/IEEE International Conference on Human-Robot Interaction, a premier, highly selective, single-track venue at the intersection of HCI, robotics, and social/behavioral science (sub=HCI, on the \"HCI & Society\" side alongside CHI/UIST/DIS/MobileHCI). HRI 2027 (the 22nd edition) is OFFICIALLY ANNOUNCED and its CFP is live (official site humanrobotinteraction.org/2027 confirmed 2026-09-28): held in Santa Clara, CA, USA (Silicon Valley), March 8-12, 2027, theme \"Innovative HRI\". The official site states ALL deadlines are 23:59 AoE (Anywhere on Earth). Full Papers use a two-stage deadline: abstract Sep 11, 2026 and full paper Sep 18, 2026 (both now PASSED relative to today; review notification Oct 28, rebuttals due Nov 3, decision Nov 30, camera-ready Dec 18, 2026). The remaining upcoming paper-class deadlines are Short Contributions and alt.HRI, both Oct 1, 2026 (23:59 AoE), tracked here so the entry stays actionable now that the full-paper deadline has closed. Additional official deadlines NOT tracked here, consistent with other venues: Workshops & Tutorials Oct 5, 2026; Industry White Papers Oct 10, 2026; HRI Pioneers Oct 18, 2026; Videos and Demos & Student Design Competition Nov 20, 2026. Added 2026-09-28 (backfill) from the official HRI 2027 site and its Full Papers page; re-verify the timezone and any late-breaking deadlines against humanrobotinteraction.org/2027 nearer each deadline."
+    },
+    {
+      "venue": "HRI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM/IEEE International Conference on Human-Robot Interaction",
+      "deadline_label": "Short Contributions",
+      "deadline_date": "2026-10-01T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 8-12, 2027",
+      "place": "Santa Clara, CA, USA",
+      "website": "https://humanrobotinteraction.org/2027/",
+      "status": "announced",
+      "source": "https://humanrobotinteraction.org/2027/ ; https://humanrobotinteraction.org/2027/full-papers/",
+      "notes": "HRI is the annual ACM/IEEE International Conference on Human-Robot Interaction, a premier, highly selective, single-track venue at the intersection of HCI, robotics, and social/behavioral science (sub=HCI, on the \"HCI & Society\" side alongside CHI/UIST/DIS/MobileHCI). HRI 2027 (the 22nd edition) is OFFICIALLY ANNOUNCED and its CFP is live (official site humanrobotinteraction.org/2027 confirmed 2026-09-28): held in Santa Clara, CA, USA (Silicon Valley), March 8-12, 2027, theme \"Innovative HRI\". The official site states ALL deadlines are 23:59 AoE (Anywhere on Earth). Full Papers use a two-stage deadline: abstract Sep 11, 2026 and full paper Sep 18, 2026 (both now PASSED relative to today; review notification Oct 28, rebuttals due Nov 3, decision Nov 30, camera-ready Dec 18, 2026). The remaining upcoming paper-class deadlines are Short Contributions and alt.HRI, both Oct 1, 2026 (23:59 AoE), tracked here so the entry stays actionable now that the full-paper deadline has closed. Additional official deadlines NOT tracked here, consistent with other venues: Workshops & Tutorials Oct 5, 2026; Industry White Papers Oct 10, 2026; HRI Pioneers Oct 18, 2026; Videos and Demos & Student Design Competition Nov 20, 2026. Added 2026-09-28 (backfill) from the official HRI 2027 site and its Full Papers page; re-verify the timezone and any late-breaking deadlines against humanrobotinteraction.org/2027 nearer each deadline."
+    },
+    {
+      "venue": "HRI",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM/IEEE International Conference on Human-Robot Interaction",
+      "deadline_label": "alt.HRI",
+      "deadline_date": "2026-10-01T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "March 8-12, 2027",
+      "place": "Santa Clara, CA, USA",
+      "website": "https://humanrobotinteraction.org/2027/",
+      "status": "announced",
+      "source": "https://humanrobotinteraction.org/2027/ ; https://humanrobotinteraction.org/2027/full-papers/",
+      "notes": "HRI is the annual ACM/IEEE International Conference on Human-Robot Interaction, a premier, highly selective, single-track venue at the intersection of HCI, robotics, and social/behavioral science (sub=HCI, on the \"HCI & Society\" side alongside CHI/UIST/DIS/MobileHCI). HRI 2027 (the 22nd edition) is OFFICIALLY ANNOUNCED and its CFP is live (official site humanrobotinteraction.org/2027 confirmed 2026-09-28): held in Santa Clara, CA, USA (Silicon Valley), March 8-12, 2027, theme \"Innovative HRI\". The official site states ALL deadlines are 23:59 AoE (Anywhere on Earth). Full Papers use a two-stage deadline: abstract Sep 11, 2026 and full paper Sep 18, 2026 (both now PASSED relative to today; review notification Oct 28, rebuttals due Nov 3, decision Nov 30, camera-ready Dec 18, 2026). The remaining upcoming paper-class deadlines are Short Contributions and alt.HRI, both Oct 1, 2026 (23:59 AoE), tracked here so the entry stays actionable now that the full-paper deadline has closed. Additional official deadlines NOT tracked here, consistent with other venues: Workshops & Tutorials Oct 5, 2026; Industry White Papers Oct 10, 2026; HRI Pioneers Oct 18, 2026; Videos and Demos & Student Design Competition Nov 20, 2026. Added 2026-09-28 (backfill) from the official HRI 2027 site and its Full Papers page; re-verify the timezone and any late-breaking deadlines against humanrobotinteraction.org/2027 nearer each deadline."
+    },
     {
       "venue": "AAMAS",
       "year": 2027,
