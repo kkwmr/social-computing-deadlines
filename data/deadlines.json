@@ -3,7 +3,7 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-10-03",
+  "lastUpdated": "2026-10-05",
   "count": 75,
   "conferences": [
     {
@@ -541,14 +541,14 @@
       "website": "https://complexnetworks.org/",
       "deadlines": [
         {
-          "label": "Full Paper / Extended Abstract",
-          "date": "2026-09-02T23:59:00-12:00",
+          "label": "Full Paper / Extended Abstract (extended)",
+          "date": "2026-09-13T23:59:00-12:00",
           "tz": "AoE"
         }
       ],
       "status": "announced",
       "source": "https://complexnetworks.org/",
-      "notes": "The 15th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS / CNA 2026) is held in Granada, Spain, December 2-4, 2026 (tutorials December 1). It is a major annual network-science venue whose call for papers explicitly covers social-computing topics — including Social Network Analysis, Social Reputation/Influence and Trust, Information Spreading in Social Media, and Rumor and Viral Marketing — alongside the broader network-science program (dynamics, epidemics, biological, financial, and infrastructure networks); this is why it is tracked here alongside ASONAM and SBP-BRiMS. The official site (complexnetworks.org) lists a single submission deadline of September 2, 2026, 23:59 AoE for BOTH full papers (published in the Springer Studies in Computational Intelligence proceedings) and extended abstracts (presentation only, no proceedings); acceptance notification October 1, 2026; camera-ready October 8, 2026; registration October 15, 2026. Submissions are handled via CMT. The September 2, 2026 deadline is still upcoming relative to today. Added 2026-07-27 (backfill) from the official CNA 2026 site; ignore WASET/other decoy 'Complex Networks' listings, which are unaffiliated."
+      "notes": "The 15th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS / CNA 2026) is held in Granada, Spain, December 2-4, 2026 (tutorials December 1). It is a major annual network-science venue whose call for papers explicitly covers social-computing topics — including Social Network Analysis, Social Reputation/Influence and Trust, Information Spreading in Social Media, and Rumor and Viral Marketing — alongside the broader network-science program (dynamics, epidemics, biological, financial, and infrastructure networks); this is why it is tracked here alongside ASONAM and SBP-BRiMS. The official site (complexnetworks.org) lists a single submission deadline for BOTH full papers (published in the Springer Studies in Computational Intelligence proceedings) and extended abstracts (presentation only, no proceedings); originally September 2, 2026, EXTENDED to September 13, 2026 (23:59 AoE) per the official site (re-verified 2026-10-05; the original date is shown struck through next to the extended one); acceptance notification October 1, 2026; camera-ready October 8, 2026; registration October 15, 2026. Submissions are handled via CMT. The extended deadline has now passed; the conference itself is still upcoming. Added 2026-07-27 (backfill) from the official CNA 2026 site; ignore WASET/other decoy 'Complex Networks' listings, which are unaffiliated."
     },
     {
       "venue": "Hypertext",
@@ -1019,13 +1019,13 @@
       ],
       "fullName": "European Conference on Computer-Supported Cooperative Work (EUSSET)",
       "place": "Limassol, Cyprus",
-      "dates": "",
-      "end": null,
+      "dates": "July 5-9, 2027",
+      "end": "2027-07-09",
       "website": "https://www.eusset.eu/events/",
       "deadlines": [],
       "status": "unknown",
       "source": "https://www.eusset.eu/events/ ; https://ecscw.eusset.eu/2026/",
-      "notes": "ECSCW 2027 (25th EUSSET Conference on Computer Supported Cooperative Work) will take place in Limassol, Cyprus. The host/location is officially announced on the EUSSET events page ('ECSCW 2027 – The 25th EUSSET Conference on Computer Supported Cooperative Work. The link to the website will be added soon. Limassol, Cyprus, TBA 2027') and confirmed in the ECSCW 2026 site's 'ECSCW 2026 has ended' news post (2026-07-04: 'ECSCW 2027 will take place in Limassol'). As of 2026-08-29 the exact conference dates, dedicated website, and call for papers / submission deadline have NOT yet been published, so no future submission deadline can be recorded yet and status is 'unknown' (dates/deadlines left empty). ECSCW papers are published in PACM HCI (EUSSET/ACM). The most recent tracked edition, ECSCW 2026 (Munich, Germany, Jun 29 – Jul 3, 2026), has already concluded relative to today, so this entry represents the next edition. Added 2026-08-29 (backfill) from the official EUSSET events page as venue coverage; re-check eusset.eu/events and the eventual ecscw.eusset.eu/2027 site in late 2026 once the ECSCW 2027 call for papers opens for the deadline (historically conference/exploratory papers close in late Feb / early Mar preceding the summer conference)."
+      "notes": "ECSCW 2027 (25th EUSSET Conference on Computer Supported Cooperative Work) will take place in Limassol, Cyprus. The host/location is officially announced on the EUSSET events page (originally 'Limassol, Cyprus, TBA 2027'; as of 2026-10-05 the page now reads 'ECSCW 2027 – The 25th EUSSET Conference on Computer Supported Cooperative Work. The link to the website will be added soon. Limassol, Cyprus, July 5 – July 9 2027', so the conference dates July 5-9, 2027 are now official) and confirmed in the ECSCW 2026 site's 'ECSCW 2026 has ended' news post (2026-07-04: 'ECSCW 2027 will take place in Limassol'). As of 2026-10-05 the dedicated website (ecscw.eusset.eu/2027/ exists but shows only 'Site will be available soon') and the call for papers / submission deadline have NOT yet been published, so no future submission deadline can be recorded yet and status is 'unknown' (deadlines left empty; dates populated as of 2026-10-05). ECSCW papers are published in PACM HCI (EUSSET/ACM). The most recent tracked edition, ECSCW 2026 (Munich, Germany, Jun 29 – Jul 3, 2026), has already concluded relative to today, so this entry represents the next edition. Added 2026-08-29 (backfill) from the official EUSSET events page as venue coverage; re-check eusset.eu/events and the eventual ecscw.eusset.eu/2027 site in late 2026 once the ECSCW 2027 call for papers opens for the deadline (historically conference/exploratory papers close in late Feb / early Mar preceding the summer conference)."
     },
     {
       "venue": "ECSCW",
@@ -1755,15 +1755,15 @@
       "year": 2026,
       "area": "SC",
       "fullName": "International Conference on Complex Networks and their Applications",
-      "deadline_label": "Full Paper / Extended Abstract",
-      "deadline_date": "2026-09-02T23:59:00-12:00",
+      "deadline_label": "Full Paper / Extended Abstract (extended)",
+      "deadline_date": "2026-09-13T23:59:00-12:00",
       "timezone": "AoE",
       "conference_dates": "December 2-4, 2026",
       "place": "Granada, Spain",
       "website": "https://complexnetworks.org/",
       "status": "announced",
       "source": "https://complexnetworks.org/",
-      "notes": "The 15th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS / CNA 2026) is held in Granada, Spain, December 2-4, 2026 (tutorials December 1). It is a major annual network-science venue whose call for papers explicitly covers social-computing topics — including Social Network Analysis, Social Reputation/Influence and Trust, Information Spreading in Social Media, and Rumor and Viral Marketing — alongside the broader network-science program (dynamics, epidemics, biological, financial, and infrastructure networks); this is why it is tracked here alongside ASONAM and SBP-BRiMS. The official site (complexnetworks.org) lists a single submission deadline of September 2, 2026, 23:59 AoE for BOTH full papers (published in the Springer Studies in Computational Intelligence proceedings) and extended abstracts (presentation only, no proceedings); acceptance notification October 1, 2026; camera-ready October 8, 2026; registration October 15, 2026. Submissions are handled via CMT. The September 2, 2026 deadline is still upcoming relative to today. Added 2026-07-27 (backfill) from the official CNA 2026 site; ignore WASET/other decoy 'Complex Networks' listings, which are unaffiliated."
+      "notes": "The 15th International Conference on Complex Networks and their Applications (COMPLEX NETWORKS / CNA 2026) is held in Granada, Spain, December 2-4, 2026 (tutorials December 1). It is a major annual network-science venue whose call for papers explicitly covers social-computing topics — including Social Network Analysis, Social Reputation/Influence and Trust, Information Spreading in Social Media, and Rumor and Viral Marketing — alongside the broader network-science program (dynamics, epidemics, biological, financial, and infrastructure networks); this is why it is tracked here alongside ASONAM and SBP-BRiMS. The official site (complexnetworks.org) lists a single submission deadline for BOTH full papers (published in the Springer Studies in Computational Intelligence proceedings) and extended abstracts (presentation only, no proceedings); originally September 2, 2026, EXTENDED to September 13, 2026 (23:59 AoE) per the official site (re-verified 2026-10-05; the original date is shown struck through next to the extended one); acceptance notification October 1, 2026; camera-ready October 8, 2026; registration October 15, 2026. Submissions are handled via CMT. The extended deadline has now passed; the conference itself is still upcoming. Added 2026-07-27 (backfill) from the official CNA 2026 site; ignore WASET/other decoy 'Complex Networks' listings, which are unaffiliated."
     },
     {
       "venue": "AIES",
