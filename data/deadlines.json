@@ -3,7 +3,7 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-10-05",
+  "lastUpdated": "2026-10-10",
   "count": 75,
   "conferences": [
     {
@@ -1028,6 +1028,22 @@
       "notes": "ECSCW 2027 (25th EUSSET Conference on Computer Supported Cooperative Work) will take place in Limassol, Cyprus. The host/location is officially announced on the EUSSET events page (originally 'Limassol, Cyprus, TBA 2027'; as of 2026-10-05 the page now reads 'ECSCW 2027 – The 25th EUSSET Conference on Computer Supported Cooperative Work. The link to the website will be added soon. Limassol, Cyprus, July 5 – July 9 2027', so the conference dates July 5-9, 2027 are now official) and confirmed in the ECSCW 2026 site's 'ECSCW 2026 has ended' news post (2026-07-04: 'ECSCW 2027 will take place in Limassol'). As of 2026-10-05 the dedicated website (ecscw.eusset.eu/2027/ exists but shows only 'Site will be available soon') and the call for papers / submission deadline have NOT yet been published, so no future submission deadline can be recorded yet and status is 'unknown' (deadlines left empty; dates populated as of 2026-10-05). ECSCW papers are published in PACM HCI (EUSSET/ACM). The most recent tracked edition, ECSCW 2026 (Munich, Germany, Jun 29 – Jul 3, 2026), has already concluded relative to today, so this entry represents the next edition. Added 2026-08-29 (backfill) from the official EUSSET events page as venue coverage; re-check eusset.eu/events and the eventual ecscw.eusset.eu/2027 site in late 2026 once the ECSCW 2027 call for papers opens for the deadline (historically conference/exploratory papers close in late Feb / early Mar preceding the summer conference)."
     },
     {
+      "venue": "CUI",
+      "year": 2027,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "ACM Conference on Conversational User Interfaces",
+      "place": "Swansea, Wales, United Kingdom",
+      "dates": "July 26-28, 2027",
+      "end": "2027-07-28",
+      "website": "https://cui.acm.org/2027/",
+      "deadlines": [],
+      "status": "unknown",
+      "source": "https://cui.acm.org/2027/ ; https://cui.acm.org/2027/submit/full-papers.html",
+      "notes": "CUI is the annual ACM conference on conversational user interfaces (speech, chat and agent-based interaction), an in-scope HCI venue (sub=HCI) previously untracked alongside CHI/UIST/DIS/MobileHCI/HRI. CUI 2027 is OFFICIALLY ANNOUNCED (official site cui.acm.org/2027 live as of 2026-10-10): Swansea, Wales, United Kingdom, July 26-28, 2027. No submission deadline is firm yet, so status is \"unknown\" with empty deadlines (ECSCW 2027 / Sunbelt 2027 style). The official Full Papers page lists all dates as TBC: abstract submission February 2027, full paper submission March 2027, acceptance notification May 2027, camera-ready May 2027 (all deadlines will be 23:59 AoE). The Short Papers & Works-in-Progress page lists a TBC April 2027 deadline with notification in May 2027. Other tracks (Provocations, Interactivity & Creativity, Workshops, Doctoral Consortium) have pages but no confirmed dates. Add concrete deadlines once the exact days are published on cui.acm.org/2027/submit/."
+    },
+    {
       "venue": "ECSCW",
       "year": 2026,
       "sub": [
@@ -1271,36 +1287,6 @@
       "notes": "CHIIR 2026 was held in Seattle, WA, USA on March 22-26, 2026 and has already concluded. The next edition is CHIIR 2027, hosted at Humboldt-Universitat zu Berlin, Berlin, Germany, March 7-11, 2027. CFP is officially open. The main paper track uses a two-stage deadline: abstracts due Oct 8, 2026 and full papers due Oct 15, 2026 (both AoE). Short papers and Demos/Design/Resource papers due Oct 29, 2026; Doctoral Consortium papers due Dec 6, 2026. All deadlines stated as 23:59 Anywhere on Earth. The official site (chiir2027.github.io) explicitly states the AoE timezone; the Oct 15 full-paper date and Berlin location are corroborated by the iSchools/Facebook CHIIR 2027 CFP announcement and the WikiCFP listing (eventid 195412). Annual conference; no skip noted."
     },
     {
-      "venue": "AAMAS",
-      "year": 2027,
-      "area": "SC",
-      "fullName": "International Conference on Autonomous Agents and Multiagent Systems",
-      "deadline_label": "Main Track (Abstract)",
-      "deadline_date": "2026-10-01T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "May 3-7, 2027",
-      "place": "Hanoi, Vietnam",
-      "website": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
-      "status": "announced",
-      "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/ ; https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
-      "notes": "AAMAS 2026 (25th edition) was held May 25-29, 2026 in Paphos, Cyprus. The NEXT edition is AAMAS 2027 (26th), held at the JW Marriott Hotel, Hanoi, Vietnam, May 3-7, 2027. The official AAMAS 2027 Call for the Main Track (warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/) now publishes the confirmed important dates (re-verified 2026-08-22, superseding the earlier \"Oct 2026 (TBC)\" placeholder and its estimated 2026-11-05 deadline): abstract submission October 1, 2026; full paper submission October 8, 2026; author rebuttal period November 20-24, 2026; author notification December 21, 2026; camera-ready January 25, 2027. The CFP states \"All deadlines are at the end of the specified day, Anywhere on Earth (UTC-12),\" so both submission deadlines above are AoE. AAMAS uses a two-step main-track submission (abstract pre-registration one week before the full paper). The next upcoming round is the abstract deadline Oct 1, 2026. Note: one aggregator (mlciv/ai-deadlines) earlier showed an incorrect \"Thessaloniki, Greece, April 6-9, 2027\" entry which contradicts the official Warwick site and is erroneous; the Hanoi/May dates are authoritative. Re-check the official site for any workshop/DC deadlines nearer the date."
-    },
-    {
-      "venue": "AAMAS",
-      "year": 2027,
-      "area": "SC",
-      "fullName": "International Conference on Autonomous Agents and Multiagent Systems",
-      "deadline_label": "Main Track (Full Paper)",
-      "deadline_date": "2026-10-08T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "May 3-7, 2027",
-      "place": "Hanoi, Vietnam",
-      "website": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
-      "status": "announced",
-      "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/ ; https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
-      "notes": "AAMAS 2026 (25th edition) was held May 25-29, 2026 in Paphos, Cyprus. The NEXT edition is AAMAS 2027 (26th), held at the JW Marriott Hotel, Hanoi, Vietnam, May 3-7, 2027. The official AAMAS 2027 Call for the Main Track (warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/) now publishes the confirmed important dates (re-verified 2026-08-22, superseding the earlier \"Oct 2026 (TBC)\" placeholder and its estimated 2026-11-05 deadline): abstract submission October 1, 2026; full paper submission October 8, 2026; author rebuttal period November 20-24, 2026; author notification December 21, 2026; camera-ready January 25, 2027. The CFP states \"All deadlines are at the end of the specified day, Anywhere on Earth (UTC-12),\" so both submission deadlines above are AoE. AAMAS uses a two-step main-track submission (abstract pre-registration one week before the full paper). The next upcoming round is the abstract deadline Oct 1, 2026. Note: one aggregator (mlciv/ai-deadlines) earlier showed an incorrect \"Thessaloniki, Greece, April 6-9, 2027\" entry which contradicts the official Warwick site and is erroneous; the Hanoi/May dates are authoritative. Re-check the official site for any workshop/DC deadlines nearer the date."
-    },
-    {
       "venue": "WWW",
       "year": 2027,
       "area": "WS",
@@ -1331,36 +1317,6 @@
       "notes": "Next edition after WWW 2026 (Dubai, UAE, June 29 - July 3, 2026), whose deadlines (abstract 2025-09-30, full paper 2025-10-07 AoE) are already in the past. WWW 2027 is held in Dublin, Ireland, May 10-14, 2027. General co-chairs are Owen Conlan (Trinity College Dublin), Cathal Gurrin (Dublin City University), and Geert-Jan Houben (TU Delft). DATES REVISED (re-verified 2026-08-31): the official Important Dates page (acmweb2027.org/important-dates) now publishes the Research & Industry Track submission dates as abstract submission Oct 18, 2026 and full paper submission Oct 25, 2026; results released Dec 15, 2026, rebuttal Dec 15-20, 2026, notification Jan 4, 2027, camera-ready Jan 31, 2027 (results/rebuttal dates updated 2026-10-03 per the official page; they were previously listed as results Dec 21 / rebuttal Dec 21-31, 2026 — submission, notification and camera-ready dates unchanged). The submission dates are a one-week shift from the dates published on 2026-07-05 (then abstract Oct 11 / full paper Oct 18, notification Dec 10, rebuttal Dec 12-19); the official site was moved back a week. Aggregator sites (getpaperpilot, myhuiban, aideadlines, beri.net) still show the old Oct 11/18 dates but the official acmweb2027.org page is authoritative. All deadlines are 11:59 PM Anywhere on Earth (AoE). The next upcoming round is the Oct 18, 2026 abstract deadline followed by the Oct 25, 2026 full-paper deadline. The earlier www2027.thewebconf.org URL pattern was superseded by the official acmweb2027.org site."
     },
     {
-      "venue": "FAccT",
-      "year": 2027,
-      "area": "HCI",
-      "fullName": "ACM Conference on Fairness, Accountability, and Transparency",
-      "deadline_label": "Abstract",
-      "deadline_date": "2026-10-27T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "June 21-24, 2027",
-      "place": "",
-      "website": "https://facctconference.org/2027/cfp.html",
-      "status": "announced",
-      "source": "https://facctconference.org/2027/cfp.html",
-      "notes": "ACM FAccT is the ACM Conference on Fairness, Accountability, and Transparency — a major interdisciplinary venue on the societal impacts of algorithmic and sociotechnical systems (algorithmic, critical, human-centered, legal, philosophical, sociological, statistical, and theoretical work all in scope), classified here under \"HCI & Society\". FAccT 2026 (Montreal, Canada, Le Centre Sheraton Montréal, June 25-28, 2026) has concluded, so the next edition is FAccT 2027. The official FAccT 2027 CFP (facctconference.org/2027/cfp.html) is OPEN and publishes the following dates, all at 11:59 PM Anywhere on Earth (AoE): abstract submission Oct 27, 2026; full paper submission Nov 3, 2026; initial review decisions (accept/revise/reject) Dec 22, 2026; revision & rebuttal due Jan 28, 2027; final decisions Mar 23, 2027; camera-ready TBD. FAccT uses a two-stage submission (abstract one week before the full paper) followed by a revise-and-resubmit round. The conference is scheduled for June 21-24, 2027; the host city/country for 2027 has NOT yet been officially announced (the CFP lists only the dates), so the place field is left empty pending the announcement. Added 2026-07-25 (new) from the official FAccT 2027 CFP; the /2027/ index page currently 404s while the cfp.html page is live. Re-verify the location and any workshop/tutorial/CRAFT deadlines once the full FAccT 2027 site is published."
-    },
-    {
-      "venue": "FAccT",
-      "year": 2027,
-      "area": "HCI",
-      "fullName": "ACM Conference on Fairness, Accountability, and Transparency",
-      "deadline_label": "Full Paper",
-      "deadline_date": "2026-11-03T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "June 21-24, 2027",
-      "place": "",
-      "website": "https://facctconference.org/2027/cfp.html",
-      "status": "announced",
-      "source": "https://facctconference.org/2027/cfp.html",
-      "notes": "ACM FAccT is the ACM Conference on Fairness, Accountability, and Transparency — a major interdisciplinary venue on the societal impacts of algorithmic and sociotechnical systems (algorithmic, critical, human-centered, legal, philosophical, sociological, statistical, and theoretical work all in scope), classified here under \"HCI & Society\". FAccT 2026 (Montreal, Canada, Le Centre Sheraton Montréal, June 25-28, 2026) has concluded, so the next edition is FAccT 2027. The official FAccT 2027 CFP (facctconference.org/2027/cfp.html) is OPEN and publishes the following dates, all at 11:59 PM Anywhere on Earth (AoE): abstract submission Oct 27, 2026; full paper submission Nov 3, 2026; initial review decisions (accept/revise/reject) Dec 22, 2026; revision & rebuttal due Jan 28, 2027; final decisions Mar 23, 2027; camera-ready TBD. FAccT uses a two-stage submission (abstract one week before the full paper) followed by a revise-and-resubmit round. The conference is scheduled for June 21-24, 2027; the host city/country for 2027 has NOT yet been officially announced (the CFP lists only the dates), so the place field is left empty pending the announcement. Added 2026-07-25 (new) from the official FAccT 2027 CFP; the /2027/ index page currently 404s while the cfp.html page is live. Re-verify the location and any workshop/tutorial/CRAFT deadlines once the full FAccT 2027 site is published."
-    },
-    {
       "venue": "IMWUT",
       "year": 2026,
       "area": "HCI",
@@ -1389,6 +1345,36 @@
       "status": "announced",
       "source": "https://dl.acm.org/journal/imwut/how-to-submit ; https://www.ubicomp.org/ubicomp-iswc-2026/ ; https://sigchi.org/events/ubicomp-iswc-2026/ ; https://hci-deadlines.github.io/",
       "notes": "IMWUT is a JOURNAL with rolling/quarterly submission deadlines (journal-style, not a single conference CFP). New submissions are accepted three times per year: February 1, May 1, and November 1; August 1 is an additional deadline for RESUBMISSIONS after major revisions only (new submissions cannot be made on Aug 1). All submission sites close at 23:59 AoE (UTC-12). Given today is 2026-06-04, the next deadline of any kind is August 1, 2026 (resubmissions only); the next NEW-submission deadline is November 1, 2026. Accepted IMWUT papers are presented at the annual ACM UbiComp/ISWC conference. UbiComp/ISWC 2026 will be held in Shanghai, China; SIGCHI lists dates as October 11-15, 2026 (some sources list the core program as Oct 13-15, 2026). The conference website (https://www.ubicomp.org/ubicomp-iswc-2026/) covers IMWUT papers plus ISWC notes/briefs, workshops, posters/demos tracks. hci-deadlines.github.io splits IMWUT '26 into 4 rolling rounds consistent with the quarterly cycle."
+    },
+    {
+      "venue": "FAccT",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Fairness, Accountability, and Transparency",
+      "deadline_label": "Abstract",
+      "deadline_date": "2026-10-27T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 21-24, 2027",
+      "place": "",
+      "website": "https://facctconference.org/2027/cfp.html",
+      "status": "announced",
+      "source": "https://facctconference.org/2027/cfp.html",
+      "notes": "ACM FAccT is the ACM Conference on Fairness, Accountability, and Transparency — a major interdisciplinary venue on the societal impacts of algorithmic and sociotechnical systems (algorithmic, critical, human-centered, legal, philosophical, sociological, statistical, and theoretical work all in scope), classified here under \"HCI & Society\". FAccT 2026 (Montreal, Canada, Le Centre Sheraton Montréal, June 25-28, 2026) has concluded, so the next edition is FAccT 2027. The official FAccT 2027 CFP (facctconference.org/2027/cfp.html) is OPEN and publishes the following dates, all at 11:59 PM Anywhere on Earth (AoE): abstract submission Oct 27, 2026; full paper submission Nov 3, 2026; initial review decisions (accept/revise/reject) Dec 22, 2026; revision & rebuttal due Jan 28, 2027; final decisions Mar 23, 2027; camera-ready TBD. FAccT uses a two-stage submission (abstract one week before the full paper) followed by a revise-and-resubmit round. The conference is scheduled for June 21-24, 2027; the host city/country for 2027 has NOT yet been officially announced (the CFP lists only the dates), so the place field is left empty pending the announcement. Added 2026-07-25 (new) from the official FAccT 2027 CFP; the /2027/ index page currently 404s while the cfp.html page is live. Re-verify the location and any workshop/tutorial/CRAFT deadlines once the full FAccT 2027 site is published."
+    },
+    {
+      "venue": "FAccT",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Fairness, Accountability, and Transparency",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2026-11-03T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 21-24, 2027",
+      "place": "",
+      "website": "https://facctconference.org/2027/cfp.html",
+      "status": "announced",
+      "source": "https://facctconference.org/2027/cfp.html",
+      "notes": "ACM FAccT is the ACM Conference on Fairness, Accountability, and Transparency — a major interdisciplinary venue on the societal impacts of algorithmic and sociotechnical systems (algorithmic, critical, human-centered, legal, philosophical, sociological, statistical, and theoretical work all in scope), classified here under \"HCI & Society\". FAccT 2026 (Montreal, Canada, Le Centre Sheraton Montréal, June 25-28, 2026) has concluded, so the next edition is FAccT 2027. The official FAccT 2027 CFP (facctconference.org/2027/cfp.html) is OPEN and publishes the following dates, all at 11:59 PM Anywhere on Earth (AoE): abstract submission Oct 27, 2026; full paper submission Nov 3, 2026; initial review decisions (accept/revise/reject) Dec 22, 2026; revision & rebuttal due Jan 28, 2027; final decisions Mar 23, 2027; camera-ready TBD. FAccT uses a two-stage submission (abstract one week before the full paper) followed by a revise-and-resubmit round. The conference is scheduled for June 21-24, 2027; the host city/country for 2027 has NOT yet been officially announced (the CFP lists only the dates), so the place field is left empty pending the announcement. Added 2026-07-25 (new) from the official FAccT 2027 CFP; the /2027/ index page currently 404s while the cfp.html page is live. Re-verify the location and any workshop/tutorial/CRAFT deadlines once the full FAccT 2027 site is published."
     },
     {
       "venue": "C&T",
@@ -1496,36 +1482,6 @@
       "notes": "WebSci'26 (18th edition) was held May 26-29, 2026 at TU Braunschweig, Braunschweig, Germany; its full-paper submission deadline was December 17, 2025 (both now in the past). The next edition is WebSci'27 (19th ACM Web Science Conference), and its host is now confirmed: the official site (websci27.webscience.org) is live, hosted in Singapore, May 25-28, 2027 (this upgrades the entry from status \"unknown\" to \"announced\" on 2026-09-21; previously WebSci'27 was still in the host-bidding phase — Call for Initial Statements of Interest, preference for the Americas — with no host, dates, or CFP published). The Call for Papers is OPEN with a single firm full-paper submission deadline of December 15, 2026 (the CFP states \"The paper submission deadline is firm\"; there is no separate abstract deadline). Workshop/tutorial proposals are due November 15, 2026. The official site does NOT state a timezone; AoE is assumed here, consistent with prior WebSci CFPs (WebSci'26/'25 used 23:59 AoE) and neighboring entries. Cross-checked: websci27.webscience.org homepage and its call-for-papers page. Re-verify the exact timezone and any camera-ready/notification dates once fuller details are posted."
     },
     {
-      "venue": "DIS",
-      "year": 2027,
-      "area": "HCI",
-      "fullName": "ACM Conference on Designing Interactive Systems",
-      "deadline_label": "Full Paper & Pictorials (Abstract & Title)",
-      "deadline_date": "2027-01-11T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "June 28 – July 2, 2027",
-      "place": "Stockholm, Sweden (KTH Royal Institute of Technology)",
-      "website": "https://dis.acm.org/2027/",
-      "status": "announced",
-      "source": "https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/",
-      "notes": "DIS 2027 is now OFFICIALLY ANNOUNCED (confirmed 2026-06-29 from the official dis.acm.org/2027 site): the conference will be held at KTH Royal Institute of Technology (Department of Media Technology and Interaction Design), Stockholm, Sweden, June 28 – July 2, 2027.\n\nDIS is an annual ACM SIGCHI conference (sub=HCI) with a two-stage Papers track: an abstract/title/metadata deadline followed ~one week later by the full-paper deadline. Per the official Contributing page, the (provisional) DIS 2027 dates are: Full paper & Pictorials abstract+title Jan 11, 2027; Full papers & Pictorials Jan 18, 2027; Workshops Feb 1, 2027; Doctoral Consortium & Interactivities Feb 19, 2027. The official page lists these as PROVISIONAL and does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with prior DIS cycles (DIS 2026 used AoE) and with neighboring entries — verify when the full CFP is finalized.\n\nReference cycle - DIS 2026 (Singapore, National University of Singapore, June 13-17, 2026): abstract Jan 9, 2026; full paper Jan 19, 2026 (AoE). Recent locations: DIS 2025 Funchal, Madeira, Portugal (July 5-9, 2025); DIS 2024 Copenhagen. Conference is annual (not biennial); no skipped years."
-    },
-    {
-      "venue": "DIS",
-      "year": 2027,
-      "area": "HCI",
-      "fullName": "ACM Conference on Designing Interactive Systems",
-      "deadline_label": "Full Papers & Pictorials",
-      "deadline_date": "2027-01-18T23:59:00-12:00",
-      "timezone": "AoE",
-      "conference_dates": "June 28 – July 2, 2027",
-      "place": "Stockholm, Sweden (KTH Royal Institute of Technology)",
-      "website": "https://dis.acm.org/2027/",
-      "status": "announced",
-      "source": "https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/",
-      "notes": "DIS 2027 is now OFFICIALLY ANNOUNCED (confirmed 2026-06-29 from the official dis.acm.org/2027 site): the conference will be held at KTH Royal Institute of Technology (Department of Media Technology and Interaction Design), Stockholm, Sweden, June 28 – July 2, 2027.\n\nDIS is an annual ACM SIGCHI conference (sub=HCI) with a two-stage Papers track: an abstract/title/metadata deadline followed ~one week later by the full-paper deadline. Per the official Contributing page, the (provisional) DIS 2027 dates are: Full paper & Pictorials abstract+title Jan 11, 2027; Full papers & Pictorials Jan 18, 2027; Workshops Feb 1, 2027; Doctoral Consortium & Interactivities Feb 19, 2027. The official page lists these as PROVISIONAL and does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with prior DIS cycles (DIS 2026 used AoE) and with neighboring entries — verify when the full CFP is finalized.\n\nReference cycle - DIS 2026 (Singapore, National University of Singapore, June 13-17, 2026): abstract Jan 9, 2026; full paper Jan 19, 2026 (AoE). Recent locations: DIS 2025 Funchal, Madeira, Portugal (July 5-9, 2025); DIS 2024 Copenhagen. Conference is annual (not biennial); no skipped years."
-    },
-    {
       "venue": "ICWSM",
       "year": 2027,
       "area": "WS",
@@ -1554,6 +1510,36 @@
       "status": "announced",
       "source": "https://www.icwsm.org/2027/submit/",
       "notes": "ICWSM uses a rolling 3-round review cycle (journal-style resubmission with R&Rs). The dedicated official ICWSM 2027 site (icwsm.org/2027/) is now LIVE and its submit page confirms the three rounds for the Edinburgh edition (re-verified 2026-07-14): Round 1 May 15, 2026 (passed; notification Jul 15, 2026); Round 2 Sept 15, 2026 (notification Nov 15, 2026); Round 3 Jan 15, 2027 (notification Mar 15, 2027), all at 23:59 AoE. Papers accepted in any of these three rounds are presented at ICWSM 2027; papers that receive an R&R in the January 2027 round will NOT be presented at ICWSM 2027. The NEXT upcoming round is Round 2 on Sept 15, 2026. Posters, demos, and datasets are accepted only in the final round (Jan 15, 2027). The 2027 location (Edinburgh, Scotland) is officially confirmed, but the exact conference dates have NOT yet been officially announced; a \"May 1-31, 2027\" range seen on aggregator sites (waset/conferenceindex/wikicfp) is a placeholder/spam-style full-month listing, not an official date, so the dates field is left empty. The website/source fields previously pointed at the ICWSM 2026 submit page (icwsm.org/2026/submit.html) because no 2027 site existed; they now point at the official 2027 pages, which state identical round deadlines."
+    },
+    {
+      "venue": "DIS",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Designing Interactive Systems",
+      "deadline_label": "Full Paper & Pictorials (Abstract & Title)",
+      "deadline_date": "2027-01-11T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 28 – July 2, 2027",
+      "place": "Stockholm, Sweden (KTH Royal Institute of Technology)",
+      "website": "https://dis.acm.org/2027/",
+      "status": "announced",
+      "source": "https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/",
+      "notes": "DIS 2027 is now OFFICIALLY ANNOUNCED (confirmed 2026-06-29 from the official dis.acm.org/2027 site): the conference will be held at KTH Royal Institute of Technology (Department of Media Technology and Interaction Design), Stockholm, Sweden, June 28 – July 2, 2027.\n\nDIS is an annual ACM SIGCHI conference (sub=HCI) with a two-stage Papers track: an abstract/title/metadata deadline followed ~one week later by the full-paper deadline. Per the official Contributing page, the (provisional) DIS 2027 dates are: Full paper & Pictorials abstract+title Jan 11, 2027; Full papers & Pictorials Jan 18, 2027; Workshops Feb 1, 2027; Doctoral Consortium & Interactivities Feb 19, 2027. The official page lists these as PROVISIONAL and does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with prior DIS cycles (DIS 2026 used AoE) and with neighboring entries — verify when the full CFP is finalized.\n\nReference cycle - DIS 2026 (Singapore, National University of Singapore, June 13-17, 2026): abstract Jan 9, 2026; full paper Jan 19, 2026 (AoE). Recent locations: DIS 2025 Funchal, Madeira, Portugal (July 5-9, 2025); DIS 2024 Copenhagen. Conference is annual (not biennial); no skipped years."
+    },
+    {
+      "venue": "DIS",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "ACM Conference on Designing Interactive Systems",
+      "deadline_label": "Full Papers & Pictorials",
+      "deadline_date": "2027-01-18T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "June 28 – July 2, 2027",
+      "place": "Stockholm, Sweden (KTH Royal Institute of Technology)",
+      "website": "https://dis.acm.org/2027/",
+      "status": "announced",
+      "source": "https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/",
+      "notes": "DIS 2027 is now OFFICIALLY ANNOUNCED (confirmed 2026-06-29 from the official dis.acm.org/2027 site): the conference will be held at KTH Royal Institute of Technology (Department of Media Technology and Interaction Design), Stockholm, Sweden, June 28 – July 2, 2027.\n\nDIS is an annual ACM SIGCHI conference (sub=HCI) with a two-stage Papers track: an abstract/title/metadata deadline followed ~one week later by the full-paper deadline. Per the official Contributing page, the (provisional) DIS 2027 dates are: Full paper & Pictorials abstract+title Jan 11, 2027; Full papers & Pictorials Jan 18, 2027; Workshops Feb 1, 2027; Doctoral Consortium & Interactivities Feb 19, 2027. The official page lists these as PROVISIONAL and does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with prior DIS cycles (DIS 2026 used AoE) and with neighboring entries — verify when the full CFP is finalized.\n\nReference cycle - DIS 2026 (Singapore, National University of Singapore, June 13-17, 2026): abstract Jan 9, 2026; full paper Jan 19, 2026 (AoE). Recent locations: DIS 2025 Funchal, Madeira, Portugal (July 5-9, 2025); DIS 2024 Copenhagen. Conference is annual (not biennial); no skipped years."
     },
     {
       "venue": "MobileHCI",
@@ -1749,6 +1735,36 @@
       "status": "announced",
       "source": "https://kdd2027.kdd.org/research-track-call-for-papers/ ; https://kdd2027.kdd.org/",
       "notes": "KDD uses TWO submission cycles per year. Both KDD 2026 cycles (Cycle 1 paper Jul 31, 2025; Cycle 2 paper Feb 8, 2026) have closed, so the next upcoming round is KDD 2027 Cycle 1. The official KDD 2027 site (kdd2027.kdd.org) is now LIVE and the Research Track Call for Papers is published (confirmed 2026-07-12): Cycle 1 abstract deadline July 19, 2026; Cycle 1 full paper deadline July 26, 2026; author rebuttal Sept 29 – Oct 13, 2026; notification Nov 14, 2026. The CFP states: \"All deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.\" The same Cycle 1 dates apply to the AI for Sciences and Datasets & Benchmarks tracks. Submissions are handled via OpenReview. Cycle 2 dates are not yet published (historically ~February of the conference year). The CFP also states that \"The submission deadlines are strict and no extensions, regardless of circumstances, will be allowed\" — re-verified against the official Research Track CFP on 2026-07-15 (5 days before the Cycle 1 abstract deadline), with no extension announced. The official site now publishes the exact conference dates and venue (confirmed 2026-07-15): August 1-5, 2027 at the San Jose McEnery Convention Center, San Jose, California, USA; the `end` field and `dates`/`place` are updated accordingly (previously the CFP gave only the month and city). This supersedes the earlier estimate (and the unverified third-party Toronto listings), which are now moot."
+    },
+    {
+      "venue": "AAMAS",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "International Conference on Autonomous Agents and Multiagent Systems",
+      "deadline_label": "Main Track (Abstract)",
+      "deadline_date": "2026-10-01T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 3-7, 2027",
+      "place": "Hanoi, Vietnam",
+      "website": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "status": "announced",
+      "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/ ; https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "notes": "AAMAS 2026 (25th edition) was held May 25-29, 2026 in Paphos, Cyprus. The NEXT edition is AAMAS 2027 (26th), held at the JW Marriott Hotel, Hanoi, Vietnam, May 3-7, 2027. The official AAMAS 2027 Call for the Main Track (warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/) now publishes the confirmed important dates (re-verified 2026-08-22, superseding the earlier \"Oct 2026 (TBC)\" placeholder and its estimated 2026-11-05 deadline): abstract submission October 1, 2026; full paper submission October 8, 2026; author rebuttal period November 20-24, 2026; author notification December 21, 2026; camera-ready January 25, 2027. The CFP states \"All deadlines are at the end of the specified day, Anywhere on Earth (UTC-12),\" so both submission deadlines above are AoE. AAMAS uses a two-step main-track submission (abstract pre-registration one week before the full paper). The next upcoming round is the abstract deadline Oct 1, 2026. Note: one aggregator (mlciv/ai-deadlines) earlier showed an incorrect \"Thessaloniki, Greece, April 6-9, 2027\" entry which contradicts the official Warwick site and is erroneous; the Hanoi/May dates are authoritative. Re-check the official site for any workshop/DC deadlines nearer the date."
+    },
+    {
+      "venue": "AAMAS",
+      "year": 2027,
+      "area": "SC",
+      "fullName": "International Conference on Autonomous Agents and Multiagent Systems",
+      "deadline_label": "Main Track (Full Paper)",
+      "deadline_date": "2026-10-08T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "May 3-7, 2027",
+      "place": "Hanoi, Vietnam",
+      "website": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "status": "announced",
+      "source": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/ ; https://warwick.ac.uk/fac/sci/dcs/aamas2027/",
+      "notes": "AAMAS 2026 (25th edition) was held May 25-29, 2026 in Paphos, Cyprus. The NEXT edition is AAMAS 2027 (26th), held at the JW Marriott Hotel, Hanoi, Vietnam, May 3-7, 2027. The official AAMAS 2027 Call for the Main Track (warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-main-track/) now publishes the confirmed important dates (re-verified 2026-08-22, superseding the earlier \"Oct 2026 (TBC)\" placeholder and its estimated 2026-11-05 deadline): abstract submission October 1, 2026; full paper submission October 8, 2026; author rebuttal period November 20-24, 2026; author notification December 21, 2026; camera-ready January 25, 2027. The CFP states \"All deadlines are at the end of the specified day, Anywhere on Earth (UTC-12),\" so both submission deadlines above are AoE. AAMAS uses a two-step main-track submission (abstract pre-registration one week before the full paper). The next upcoming round is the abstract deadline Oct 1, 2026. Note: one aggregator (mlciv/ai-deadlines) earlier showed an incorrect \"Thessaloniki, Greece, April 6-9, 2027\" entry which contradicts the official Warwick site and is erroneous; the Hanoi/May dates are authoritative. Re-check the official site for any workshop/DC deadlines nearer the date."
     },
     {
       "venue": "Complex Networks",
