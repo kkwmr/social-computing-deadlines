@@ -3,8 +3,8 @@
   "url": "https://casp.jp/social-computing-deadlines/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-10-17",
-  "count": 76,
+  "lastUpdated": "2026-10-19",
+  "count": 79,
   "conferences": [
     {
       "venue": "CHI",
@@ -1066,6 +1066,38 @@
       "notes": "CUI is the annual ACM conference on conversational user interfaces (speech, chat and agent-based interaction), an in-scope HCI venue (sub=HCI) previously untracked alongside CHI/UIST/DIS/MobileHCI/HRI. CUI 2027 is OFFICIALLY ANNOUNCED (official site cui.acm.org/2027 live as of 2026-10-10): Swansea, Wales, United Kingdom, July 26-28, 2027. No submission deadline is firm yet, so status is \"unknown\" with empty deadlines (ECSCW 2027 / Sunbelt 2027 style). The official Full Papers page lists all dates as TBC: abstract submission February 2027, full paper submission March 2027, acceptance notification May 2027, camera-ready May 2027 (all deadlines will be 23:59 AoE). The Short Papers & Works-in-Progress page lists a TBC April 2027 deadline with notification in May 2027. Other tracks (Provocations, Interactivity & Creativity, Workshops, Doctoral Consortium) have pages but no confirmed dates. Add concrete deadlines once the exact days are published on cui.acm.org/2027/submit/."
     },
     {
+      "venue": "INTERACT",
+      "year": 2027,
+      "sub": [
+        "HCI"
+      ],
+      "fullName": "IFIP TC13 International Conference on Human-Computer Interaction",
+      "place": "Tallinn, Estonia",
+      "dates": "August 23-27, 2027",
+      "end": "2027-08-27",
+      "website": "https://interact2027.org/",
+      "deadlines": [
+        {
+          "label": "Full Paper (metadata registration)",
+          "date": "2027-01-25T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Full Paper",
+          "date": "2027-02-01T23:59:00-12:00",
+          "tz": "AoE"
+        },
+        {
+          "label": "Short Papers, Posters, Panels, Demos & Doctoral Consortium",
+          "date": "2027-05-03T23:59:00-12:00",
+          "tz": "AoE"
+        }
+      ],
+      "status": "announced",
+      "source": "https://interact2027.org/ ; https://interact2027.org/full-papers/ ; https://interact2027.org/short-papers/",
+      "notes": "INTERACT is the biennial IFIP TC13 flagship conference on human-computer interaction (sub=HCI), an in-scope HCI venue previously untracked alongside CHI/UIST/DIS/MobileHCI/HRI/CUI/TEI. INTERACT 2027 (the 21st edition, theme \"Meanings and experiences\") is held at Tallinn University, Tallinn, Estonia, August 23-27, 2027 (official homepage). The Full Papers page states: paper submission 01 February 2027, 23:59 (anywhere on earth), with a metadata registration (title, authors, abstract, subcommittee) due 25 January 2027, 23:59 AoE; submissions go through PCS (PrecisionConference) and proceedings are published in Springer LNCS. Notification to authors for full papers: March 8, 2027. Short papers, other tracks (posters, panels, demos, courses) and the doctoral consortium share one deadline of 03 May 2027, 23:59 AoE (Short Papers page); camera-ready for all tracks: June 7, 2027. Workshop proposals are due 1 February 2027 (homepage; not tracked separately). The homepage's important-dates list states no time zone, but the individual call pages say AoE."
+    },
+    {
       "venue": "ECSCW",
       "year": 2026,
       "sub": [
@@ -1532,6 +1564,51 @@
       "status": "announced",
       "source": "https://dis.acm.org/2027/ ; https://dis.acm.org/2027/contributing/",
       "notes": "DIS 2027 is now OFFICIALLY ANNOUNCED (confirmed 2026-06-29 from the official dis.acm.org/2027 site): the conference will be held at KTH Royal Institute of Technology (Department of Media Technology and Interaction Design), Stockholm, Sweden, June 28 – July 2, 2027.\n\nDIS is an annual ACM SIGCHI conference (sub=HCI) with a two-stage Papers track: an abstract/title/metadata deadline followed ~one week later by the full-paper deadline. Per the official Contributing page, the (provisional) DIS 2027 dates are: Full paper & Pictorials abstract+title Jan 11, 2027; Full papers & Pictorials Jan 18, 2027; Workshops Feb 1, 2027; Doctoral Consortium & Interactivities Feb 19, 2027. The official page lists these as PROVISIONAL and does not state a timezone explicitly; AoE (UTC-12) is assumed here, consistent with prior DIS cycles (DIS 2026 used AoE) and with neighboring entries — verify when the full CFP is finalized.\n\nReference cycle - DIS 2026 (Singapore, National University of Singapore, June 13-17, 2026): abstract Jan 9, 2026; full paper Jan 19, 2026 (AoE). Recent locations: DIS 2025 Funchal, Madeira, Portugal (July 5-9, 2025); DIS 2024 Copenhagen. Conference is annual (not biennial); no skipped years."
+    },
+    {
+      "venue": "INTERACT",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "IFIP TC13 International Conference on Human-Computer Interaction",
+      "deadline_label": "Full Paper (metadata registration)",
+      "deadline_date": "2027-01-25T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 23-27, 2027",
+      "place": "Tallinn, Estonia",
+      "website": "https://interact2027.org/",
+      "status": "announced",
+      "source": "https://interact2027.org/ ; https://interact2027.org/full-papers/ ; https://interact2027.org/short-papers/",
+      "notes": "INTERACT is the biennial IFIP TC13 flagship conference on human-computer interaction (sub=HCI), an in-scope HCI venue previously untracked alongside CHI/UIST/DIS/MobileHCI/HRI/CUI/TEI. INTERACT 2027 (the 21st edition, theme \"Meanings and experiences\") is held at Tallinn University, Tallinn, Estonia, August 23-27, 2027 (official homepage). The Full Papers page states: paper submission 01 February 2027, 23:59 (anywhere on earth), with a metadata registration (title, authors, abstract, subcommittee) due 25 January 2027, 23:59 AoE; submissions go through PCS (PrecisionConference) and proceedings are published in Springer LNCS. Notification to authors for full papers: March 8, 2027. Short papers, other tracks (posters, panels, demos, courses) and the doctoral consortium share one deadline of 03 May 2027, 23:59 AoE (Short Papers page); camera-ready for all tracks: June 7, 2027. Workshop proposals are due 1 February 2027 (homepage; not tracked separately). The homepage's important-dates list states no time zone, but the individual call pages say AoE."
+    },
+    {
+      "venue": "INTERACT",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "IFIP TC13 International Conference on Human-Computer Interaction",
+      "deadline_label": "Full Paper",
+      "deadline_date": "2027-02-01T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 23-27, 2027",
+      "place": "Tallinn, Estonia",
+      "website": "https://interact2027.org/",
+      "status": "announced",
+      "source": "https://interact2027.org/ ; https://interact2027.org/full-papers/ ; https://interact2027.org/short-papers/",
+      "notes": "INTERACT is the biennial IFIP TC13 flagship conference on human-computer interaction (sub=HCI), an in-scope HCI venue previously untracked alongside CHI/UIST/DIS/MobileHCI/HRI/CUI/TEI. INTERACT 2027 (the 21st edition, theme \"Meanings and experiences\") is held at Tallinn University, Tallinn, Estonia, August 23-27, 2027 (official homepage). The Full Papers page states: paper submission 01 February 2027, 23:59 (anywhere on earth), with a metadata registration (title, authors, abstract, subcommittee) due 25 January 2027, 23:59 AoE; submissions go through PCS (PrecisionConference) and proceedings are published in Springer LNCS. Notification to authors for full papers: March 8, 2027. Short papers, other tracks (posters, panels, demos, courses) and the doctoral consortium share one deadline of 03 May 2027, 23:59 AoE (Short Papers page); camera-ready for all tracks: June 7, 2027. Workshop proposals are due 1 February 2027 (homepage; not tracked separately). The homepage's important-dates list states no time zone, but the individual call pages say AoE."
+    },
+    {
+      "venue": "INTERACT",
+      "year": 2027,
+      "area": "HCI",
+      "fullName": "IFIP TC13 International Conference on Human-Computer Interaction",
+      "deadline_label": "Short Papers, Posters, Panels, Demos & Doctoral Consortium",
+      "deadline_date": "2027-05-03T23:59:00-12:00",
+      "timezone": "AoE",
+      "conference_dates": "August 23-27, 2027",
+      "place": "Tallinn, Estonia",
+      "website": "https://interact2027.org/",
+      "status": "announced",
+      "source": "https://interact2027.org/ ; https://interact2027.org/full-papers/ ; https://interact2027.org/short-papers/",
+      "notes": "INTERACT is the biennial IFIP TC13 flagship conference on human-computer interaction (sub=HCI), an in-scope HCI venue previously untracked alongside CHI/UIST/DIS/MobileHCI/HRI/CUI/TEI. INTERACT 2027 (the 21st edition, theme \"Meanings and experiences\") is held at Tallinn University, Tallinn, Estonia, August 23-27, 2027 (official homepage). The Full Papers page states: paper submission 01 February 2027, 23:59 (anywhere on earth), with a metadata registration (title, authors, abstract, subcommittee) due 25 January 2027, 23:59 AoE; submissions go through PCS (PrecisionConference) and proceedings are published in Springer LNCS. Notification to authors for full papers: March 8, 2027. Short papers, other tracks (posters, panels, demos, courses) and the doctoral consortium share one deadline of 03 May 2027, 23:59 AoE (Short Papers page); camera-ready for all tracks: June 7, 2027. Workshop proposals are due 1 February 2027 (homepage; not tracked separately). The homepage's important-dates list states no time zone, but the individual call pages say AoE."
     },
     {
       "venue": "MobileHCI",
